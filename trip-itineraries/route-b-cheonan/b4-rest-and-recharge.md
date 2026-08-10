@@ -17,6 +17,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 - **Night 1 hotel (Seoul): Courtyard by Marriott Seoul Namdaemun** — full-service desk, 2-minute taxi from the AREX terminus; late arrivals are routine here. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Four Points by Sheraton Josun, Seoul Station · GLAD Mapo · Hotel Manu Seoul.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX all-stop (last ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi ₩70,000–100,000 — this itinerary's default is the taxi: spa trip energy starts tonight.
 - **Late supper:** hotel lounge or convenience store. Bed is the program.
 
@@ -24,19 +25,21 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–8 | 7 | Namdaemun/City Hall | **Courtyard by Marriott Seoul Namdaemun** (24-h desk — verify). |
+| Seoul — arrival night | Nov 1 | 1 | Namdaemun / City Hall | **Courtyard by Marriott Seoul Namdaemun** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 20–22 | 6 + 2 | Myeongdong | **L7 MYEONGDONG by LOTTE HOTELS** (~$150–210) — standard 15:00 check-in; daytime arrivals only. |
 | Cheonan | Nov 8–14 | 6 | Cheonan resort side | **Sono Belle Cheonan** (~$80–120, resort-style; some days can shift to **Best Western Asan** to sleep at the hot springs). |
 | Busan | Nov 14–20 | 6 | Haeundae beachfront | **Grand Josun Busan** (~$180–270) — the treat. |
-| Seoul 2 | Nov 20–22 | 2 | Same Namdaemun base | Return to the Courtyard. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → taxi or AREX → 24-hour check-in (target ~23:45) → bed.
-- **Stay:** Seoul — Courtyard Namdaemun (night 1/7).
+- **Stay:** Seoul — Courtyard Namdaemun (night 1/7 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **L7 MYEONGDONG by LOTTE HOTELS** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Nothing before noon
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **L7 MYEONGDONG by LOTTE HOTELS** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Late morning:** Wake naturally; brunch near City Hall.
 - **Afternoon:** Deoksugung Stonewall Walkway + Jeongdong cafe window.
@@ -155,7 +158,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (gentle transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Courtyard check-in.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); L7 Myeongdong check-in.
 - **Afternoon:** Nap + short Myeongdong pass.
 - **Evening:** Cheonggyecheon evening walk, last-lantern energy.
 - **Stay:** Seoul — night 7 of 9 total.
@@ -169,7 +172,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX Express ~09:00 → ICN ~09:45 (3h+ buffer).
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX Express ~09:00 → ICN ~09:45 (3h+ buffer).
 - **Afternoon:** Fly 13:00, rested.
 
 ## Booking checklist (in order)

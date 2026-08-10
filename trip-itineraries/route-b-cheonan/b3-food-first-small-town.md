@@ -17,6 +17,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 - **Night 1 hotel (Seoul): GLAD Mapo** — big, late-arrival-friendly full-service hotel on the AREX line (Gongdeok/Mapo edge). **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Hotel Manu Seoul · Four Points by Sheraton Josun, Seoul Station · Courtyard by Marriott Seoul Namdaemun.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX all-stop (last ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi ₩70,000–100,000.
 - **Late supper:** midnight gukbap joints cluster around Gongdeok/Mapo — an ideal food-first first meal.
 
@@ -24,19 +25,21 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–8 | 7 | Mapo/Gongdeok (AREX corridor) | **GLAD Mapo** (24-h desk — verify). |
+| Seoul — arrival night | Nov 1 | 1 | Mapo/Gongdeok (AREX line) | **GLAD Mapo** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 20–22 | 6 + 2 | Insadong / Jongno | **Ibis Ambassador Insadong** (~$110–155, doorstep to the Jongno food alleys) — standard 15:00 check-in; daytime arrivals only. |
 | Cheonan | Nov 8–13 | 5 | Cheonan Station area | **Brown Dot Hotel Cheonan Station** (~$45–70) — cheap and next to the old market. |
 | Busan | Nov 13–20 | 7 | Busan Station / Line 1 | **ASTI Hotel Busan Station** (~$80–120) — Line 1 to Jagalchi/Nampo. |
-| Seoul 2 | Nov 20–22 | 2 | Same GLAD Mapo base | Same hotel, easy AREX out. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → 24-hour check-in (~23:45 target) → midnight gukbap (24-hour joints near Gongdeok).
-- **Stay:** Seoul — GLAD Mapo (night 1/7).
+- **Stay:** Seoul — GLAD Mapo (night 1/7 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Ibis Ambassador Insadong** in Insadong / Jongno — drop the bags, sightseeing runs as written, check in from 15:00.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Market lunch, soft start
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Ibis Ambassador Insadong** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Late morning:** Sleep in; Mapo coffee.
 - **Afternoon:** **Gwangjang Market** long lunch (bindaetteok, yukhoe, mayak gimbap).
@@ -164,7 +167,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); GLAD Mapo check-in.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Ibis Insadong check-in.
 - **Afternoon:** **Korea Kimjang Grand Festival (aT Center, Nov 20–22)** — make kimchi hands-on if slots remain.
 - **Evening:** Namdaemun Market alleys dinner.
 - **Stay:** Seoul — night 8 of 9 total.
@@ -178,7 +181,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX Express ~09:00 → ICN ~09:45. Final gimbap for the plane.
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX Express ~09:00 → ICN ~09:45. Final gimbap for the plane.
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

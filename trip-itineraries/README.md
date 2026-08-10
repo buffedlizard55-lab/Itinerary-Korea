@@ -3,6 +3,7 @@
 **This folder is the review home for our 10 sample itineraries.** Five cover the Seoul → Daejeon → Busan → Seoul route (Route A) and five cover the Seoul → Cheonan → Busan → Seoul route (Route B). Each is a standalone, Word-style document you can read top to bottom, print, or review in the browser.
 
 - **Readable online (recommended):** open [`../review/index.html`](../review/index.html) — a simple page that lists all 10 itineraries, grouped by route, and renders each one like a clean document. On GitHub Pages it lives at `…/review/`.
+- **One-screen overview:** [`../review/compare.html`](../review/compare.html) compares all 10 side-by-side (nights, pace, hotels, signature days, tradeoffs).
 - **Raw source:** the Markdown files below. Edit these, then re-run `python3 scripts/build_itinerary_review.py` to refresh the browser versions.
 
 ## Fixed trip frame (all 10 itineraries)
@@ -16,7 +17,7 @@
 
 ## The arrival-night rule (every itinerary follows it)
 
-The plane lands at 9 PM. Immigration and bags can push hotel arrival to 23:00–01:00 — later if the flight is delayed. **Night 1 in Seoul is always a hotel with a 24-hour check-in / 24-hour front desk**, close to the AREX Seoul Station corridor. Each itinerary names its pick plus alternates, and Day 1 spells out the late-arrival transit plan (AREX all-stop train, night bus, or taxi) with backup options. Because Korea hotel policies change, every pick is marked **"confirm 24-hour front desk when booking."**
+The plane lands at 9 PM. Immigration and bags can push hotel arrival to 23:00–01:00 — later if the flight is delayed. **Night 1 in Seoul is always a hotel with a 24-hour check-in / 24-hour front desk**, close to the AREX Seoul Station corridor. This rule applies to the **arrival night only (Nov 1)** — from Day 2 the trip moves to a normal Seoul hotel (standard 3 PM check-in), and the final Seoul leg arrives mid-afternoon, so nothing else needs a late-arrival policy. Each itinerary names its Night-1 pick plus alternates, and Day 1 spells out the late-arrival transit plan (AREX all-stop train, night bus, or taxi) with backup options. Because Korea hotel policies change, every pick is marked **"confirm 24-hour front desk when booking."**
 
 ## The 10 itineraries
 

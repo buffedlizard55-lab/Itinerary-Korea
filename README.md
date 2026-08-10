@@ -10,8 +10,8 @@ A calm, beginner-friendly South Korea trip-planning workspace. **Korea Compass**
 
 **The review-ready itineraries live in [`trip-itineraries/`](trip-itineraries/)** — five for Seoul → Daejeon → Busan → Seoul (Route A) and five for Seoul → Cheonan → Busan → Seoul (Route B), all on the fixed Nov 1–22, 2026 frame (arrive ICN 21:00, depart ICN 13:00).
 
-- **Easiest way to read them:** the static review index at [`review/index.html`](review/index.html) — online at <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/>. Every itinerary renders as a clean, document-style page with a one-click **Print / Save PDF** button.
-- **Every itinerary guarantees a 24-hour check-in Seoul hotel for the arrival night** — the 9 PM landing means check-in can pass midnight, so Night 1 always uses a hotel with a 24-hour front desk near the AREX Seoul Station corridor, with alternates and late-night transit backups.
+- **Easiest way to read them:** the static review index at [`review/index.html`](review/index.html) — online at <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/>. Every itinerary renders as a clean, document-style page with a one-click **Print / Save PDF** button. Prefer a single screen? [`review/compare.html`](review/compare.html) compares all 10 side-by-side.
+- **Only the arrival night (Nov 1) uses a 24-hour check-in Seoul hotel** — the 9 PM landing means check-in can pass midnight, so Night 1 always books a 24-hour-front-desk hotel near the AREX Seoul Station corridor (with alternates and late-night transit backups). All other nights use regular hotels with standard 3 PM check-in.
 - Edit the Markdown in `trip-itineraries/`, then refresh the browser pages with `python3 scripts/build_itinerary_review.py`.
 
 | Route A (Daejeon) | Route B (Cheonan) |

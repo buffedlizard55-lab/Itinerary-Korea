@@ -17,6 +17,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00**, later with d
 
 - **Night 1 hotel (Seoul): Hotel Manu Seoul** — between Seoul Station and City Hall, walkable from the AREX end of the station, known for accommodating very late arrivals. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Four Points by Sheraton Josun, Seoul Station · GLAD Mapo · Courtyard by Marriott Seoul Namdaemun.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX all-stop to Seoul Station (last services ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi/Kakao T ~60–75 min, ₩70,000–100,000. This itinerary takes the taxi option seriously — with luggage and jet lag, a ~₩80,000 door-to-door ride is the "slow & easy" choice. Preload the hotel's Korean address.
 - **Late supper:** convenience store or the hotel lounge; no restaurant plans tonight.
 
@@ -24,20 +25,22 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00**, later with d
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–8 | 7 | Seoul Station / City Hall edge | **Hotel Manu Seoul** (24-h desk — verify), one check-in. |
+| Seoul — arrival night | Nov 1 | 1 | Seoul Station / City Hall edge | **Hotel Manu Seoul** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 19–22 | 6 + 3 | Myeongdong | **L7 MYEONGDONG by LOTTE HOTELS** (~$150–210) — standard 15:00 check-in; daytime arrivals only. |
 | Daejeon | Nov 8–13 | 5 | Yuseong hot-spring district | **Hotel Interciti** (~$65–90) — quiet area, foot baths nearby. |
 | Busan | Nov 13–19 | 6 | Haeundae beachfront | **Grand Josun Busan** (~$180–270) — the comfort splurge of the trip. |
-| Seoul 2 | Nov 19–22 | 3 | Same Seoul Station base | Return to **Hotel Manu**; three calm nights before flying. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → consider the direct taxi to Hotel Manu → 24-hour check-in → straight to bed.
-- **Stay:** Seoul — Hotel Manu (night 1/7).
+- **Stay:** Seoul — Hotel Manu (night 1/7 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **L7 MYEONGDONG by LOTTE HOTELS** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 - **Plan B:** AREX if alert and on schedule; night bus as budget fallback.
 
 ### Day 2 · Mon, Nov 2 — Seoul · No-alarm morning
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **L7 MYEONGDONG by LOTTE HOTELS** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Late morning:** Wake naturally; brunch near City Hall/Seoul Station.
 - **Afternoon:** Deoksugung Palace + Stonewall Walkway (flat, central, gentle) → Jeongdong lookout cafe.
@@ -152,7 +155,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00**, later with d
 
 ### Day 19 · Thu, Nov 19 — Busan → Seoul (easy transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in Hotel Manu.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in at **L7 Myeongdong** again.
 - **Afternoon:** Short Myeongdong pass; nap.
 - **Evening:** Cheonggyecheon evening walk; early night.
 - **Stay:** Seoul — night 8 of 10 total.
@@ -173,7 +176,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00**, later with d
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX Express ~09:00 → ICN ~09:45 (3h+ buffer).
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX Express ~09:00 → ICN ~09:45 (3h+ buffer).
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

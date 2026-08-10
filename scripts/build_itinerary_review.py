@@ -178,6 +178,128 @@ def parse_meta(md: str) -> dict:
     return meta
 
 
+# ----------------------------------------------------------- comparison ---
+
+# One row per itinerary on review/compare.html. Keep in sync with the
+# Markdown when hotel picks or splits change.
+COMPARE = [
+    dict(badge="A1", slug="a1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
+         pace="Moderate–full days",
+         hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Daejeon: LOTTE City Daejeon · $80–110", "Busan: L7 Haeundae · $115–165"],
+         sig=["Palace core + N Seoul Tower classic loop", "Sungsimdang bakery + Expo Science Park", "Blueline sky capsule + Saturday Gwangalli drone show"],
+         best="The balanced first trip — widest first-timer coverage",
+         watch="Busiest day list; use the three built-in buffer days (7 / 12 / 19)"),
+    dict(badge="A2", slug="a2-food-first", title="Food-First", nights="8 · 4 · 7 · 2",
+         pace="Grazing pace — meals are the anchors",
+         hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Ibis Styles Myeongdong · $90–130 (breakfast incl.)",
+                 "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: ASTI Busan Station · $80–120"],
+         sig=["Gwangjang / Noryangjin / Mangwon market trio", "Sungsimdang bread pilgrimage + noodle alleys", "Jagalchi, Cheongsapo clams, milmyeon & gukbap alleys"],
+         best="Eating across three cities, market by market",
+         watch="Daejeon compressed to 4 nights; famous spots mean queues"),
+    dict(badge="A3", slug="a3-slow-and-easy", title="Slow & Easy", nights="7 · 5 · 6 · 3",
+         pace="Gentle — one anchor per day, late starts",
+         hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Daejeon: Hotel Interciti (Yuseong spa side) · $65–90", "Busan: Grand Josun beachfront · $180–270"],
+         sig=["Palace + tea-house half-days", "Foot baths, jjimjilbang, seated coast rides", "3-night calm Seoul finish before the flight"],
+         best="Coming home rested — least walking of the ten",
+         watch="Highest hotel spend; fewest sights checked off"),
+    dict(badge="A4", slug="a4-k-culture-and-nights", title="K-Culture & Nights", nights="8 · 3 · 8 · 2",
+         pace="Late shift — slow mornings, late nights",
+         hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: Ramada Encore Haeundae · $75–105"],
+         sig=["Pop-ups + PC bangs + noraebang circuit", "Concert anchor Nov 7 (My Chemical Romance), LoL Worlds watch party Nov 14", "G-STAR at BEXCO if 2026 dates align"],
+         best="Concerts, gaming, pop culture, nightlife",
+         watch="Depends on ticket luck — without anchor events it softens"),
+    dict(badge="A5", slug="a5-nature-and-science", title="Nature & Science", nights="6 · 6 · 7 · 2",
+         pace="Active — two real hike days",
+         hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Daejeon: Toyoko Inn Gov't Complex · $48–70", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Bukhansan day hike from Seoul", "Gyeryongsan National Park + Donghaksa temple", "Igidae coastal boardwalk + Taejongdae cliffs"],
+         best="Autumn foliage, trails, fresh air",
+         watch="Weather-exposed; two genuine leg-burner days"),
+    dict(badge="B1", slug="b1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
+         pace="Moderate–full days",
+         hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: L7 Haeundae · $115–165"],
+         sig=["Same classic Seoul/Busan spine as A1", "Independence Hall of Korea (free, huge)", "Onyang hot-spring day trip"],
+         best="Balanced trip with cheaper, shorter middle hops",
+         watch="Cheonan has less big-city texture than Daejeon"),
+    dict(badge="B2", slug="b2-history-and-heritage", title="History & Heritage", nights="8 · 5 · 6 · 2",
+         pace="Museum-deep, unhurried",
+         hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Ibis Insadong · $110–155",
+                 "Cheonan: Ramada Encore Cheonan · $60–90", "Busan: ASTI Busan Station · $80–120"],
+         sig=["Palaces + Jongmyo + Seodaemun Prison", "Independence Hall + Yu Gwan-sun memorial", "UN Memorial Cemetery + Beomeosa temple"],
+         best="History-first travelers; nearly weather-proof",
+         watch="Least nightlife content; DMZ option needs early booking"),
+    dict(badge="B3", slug="b3-food-first-small-town", title="Food-First & Small-Town", nights="7 · 5 · 7 · 2",
+         pace="Grazing pace",
+         hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Ibis Insadong · $110–155 (Jongno food alleys)",
+                 "Cheonan: Brown Dot Cheonan Station · $45–70", "Busan: ASTI Busan Station · $80–120"],
+         sig=["Seoul market trio (Gwangjang / Tongin / Mangwon)", "Byeongcheon sundae-soup town + hodu-gwaja originals", "Jagalchi + fish-cake (eomuk) crawl"],
+         best="Regional-dish hunting beyond the big cities",
+         watch="Byeongcheon is a lunch-focused half-day out by bus/taxi"),
+    dict(badge="B4", slug="b4-rest-and-recharge", title="Rest & Recharge", nights="7 · 6 · 6 · 2",
+         pace="Very gentle",
+         hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Cheonan: Sono Belle Cheonan resort · $80–120", "Busan: Grand Josun beachfront · $180–270"],
+         sig=["Classic Seoul jjimjilbang session", "Onyang historic baths + Asan Spavis day", "Spa Land Centum City marathon day"],
+         best="A true recovery trip — spa lovers",
+         watch="Priciest stays; checklisted sights intentionally thin"),
+    dict(badge="B5", slug="b5-budget-local", title="Budget & Local", nights="6 · 5 · 8 · 2",
+         pace="Moderate, wallet-first",
+         hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: Ibis Styles Myeongdong · $90–130 (breakfast incl.)",
+                 "Cheonan: ON City Hotel · $55–80", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Free palace entry via hanbok trick + free museums", "Free Independence Hall picnic day", "8 budget nights in Busan; free Saturday drone show"],
+         best="Lowest total cost; local-rhythm feel",
+         watch="Three-star comfort max; transit instead of taxis"),
+]
+
+COMPARE_PAGE = """<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Compare all 10 · Korea trip itineraries</title>
+<link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+<nav class="toolbar no-print">
+  <a class="tool" href="index.html">← Back to itinerary index</a>
+  <button class="tool tool-btn" type="button" onclick="window.print()">🖨 Print / Save PDF</button>
+</nav>
+<div class="page compare-page">
+  <p class="kicker">One-screen overview</p>
+  <h1>All 10 itineraries, side by side</h1>
+  <p class="frame">Fixed trip frame for every row: <strong>arrive Sun Nov 1, 2026, 21:00 at ICN · depart Sun Nov 22, 13:00</strong> · 21 nights. <strong>Only the arrival night (Nov 1) needs a 24-hour front-desk hotel</strong> — every plan books one near the AREX Seoul Station corridor (★24h below; verify the policy at booking), then moves to normal 3-PM-check-in hotels from Day 2. Night splits read Seoul · middle city · Busan · Seoul.</p>
+  <div class="table-scroll">
+  <table class="compare-table">
+    <thead>
+      <tr><th>#</th><th>Itinerary</th><th>Nights</th><th>Pace</th><th>Hotel plan</th><th>Signature days</th><th>Best for</th><th>Watch out</th></tr>
+    </thead>
+    <tbody>
+    {rows}
+    </tbody>
+  </table>
+  </div>
+  <footer class="doc-foot">Generated {generated} from <code>scripts/build_itinerary_review.py</code> (COMPARE table) — keep in sync with the Markdown sources in <code>trip-itineraries/</code>.  Hotel prices are indicative research ranges from the catalog, not quotes.</footer>
+</div>
+</body>
+</html>
+"""
+
+COMPARE_ROW = """      <tr>
+        <td class="c-badge">{badge}</td>
+        <td><strong><a href="itineraries/{slug}.html">{title}</a></strong></td>
+        <td class="c-nights">{nights}</td>
+        <td>{pace}</td>
+        <td><ul class="c-list">{hotels}</ul></td>
+        <td><ul class="c-list">{sig}</ul></td>
+        <td>{best}</td>
+        <td>{watch}</td>
+      </tr>"""
+
+
 # ------------------------------------------------------------------ pages ---
 
 ITIN_PAGE = """<!doctype html>
@@ -191,6 +313,7 @@ ITIN_PAGE = """<!doctype html>
 <body>
 <nav class="toolbar no-print">
   <a class="tool" href="../index.html">← All itineraries</a>
+  <a class="tool" href="../compare.html">⇄ Compare all 10</a>
   <span class="tool-spacer"></span>
   {prev_link}
   {next_link}
@@ -217,7 +340,7 @@ INDEX_PAGE = """<!doctype html>
   <header class="index-head">
     <p class="kicker">Sample plans for review · 10 itineraries</p>
     <h1>Korea Trip — Itinerary Review</h1>
-    <p class="frame"><strong>Trip frame, fixed across all ten:</strong> arrive <strong>Sun, Nov 1, 2026, 21:00 at ICN</strong> · depart <strong>Sun, Nov 22, 2026, 13:00 from ICN</strong> · 21 nights / 22 days. Every itinerary uses a <strong>24-hour check-in Seoul hotel for the arrival night</strong> (the 9 PM landing + delays mean check-in can pass midnight).</p>
+    <p class="frame"><strong>Trip frame, fixed across all ten:</strong> arrive <strong>Sun, Nov 1, 2026, 21:00 at ICN</strong> · depart <strong>Sun, Nov 22, 2026, 13:00 from ICN</strong> · 21 nights / 22 days. Every itinerary books the <strong>arrival night (Nov 1) at a Seoul hotel with a 24-hour front desk</strong> — the 9 PM landing plus delays can push check-in past midnight. Only that one night needs the 24-hour desk; all other nights use normal 3 PM check-in hotels. <a class="compare-link" href="compare.html">⇄ Compare all 10 side-by-side</a></p>
     <p class="hint no-print">Click any card to read the itinerary as a printable document. Source Markdown lives in <code>trip-itineraries/</code>; regenerate this page with <code>python3 scripts/build_itinerary_review.py</code>.</p>
   </header>
   {sections}
@@ -331,7 +454,26 @@ def main() -> None:
         INDEX_PAGE.format(sections="".join(sections)), encoding="utf-8"
     )
 
-    print(f"Built review site: {len(entries)} itineraries -> {OUT.relative_to(ROOT)}/")
+    # Side-by-side comparison page
+    rows = "".join(
+        COMPARE_ROW.format(
+            badge=r["badge"],
+            slug=r["slug"],
+            title=html.escape(r["title"]),
+            nights=r["nights"],
+            pace=html.escape(r["pace"]),
+            hotels="".join(f"<li>{html.escape(h)}</li>" for h in r["hotels"]),
+            sig="".join(f"<li>{html.escape(s)}</li>" for s in r["sig"]),
+            best=html.escape(r["best"]),
+            watch=html.escape(r["watch"]),
+        )
+        for r in COMPARE
+    )
+    (OUT / "compare.html").write_text(
+        COMPARE_PAGE.format(rows=rows, generated=generated), encoding="utf-8"
+    )
+
+    print(f"Built review site: {len(entries)} itineraries -> {OUT.relative_to(ROOT)}/ (+ compare.html)")
     for e in entries:
         print(f"  {e['badge']:>3}  {e['title']}")
 
@@ -440,6 +582,20 @@ hr { border: none; border-top: 1px solid var(--line); margin: 1.6rem 0; }
 .card-summary { font-size: 0.95rem; color: #3d3a33; }
 .card-links { font-size: 0.8rem; color: var(--accent-2); font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; }
 .card-src { color: #8b8577; }
+.compare-link { white-space: nowrap; font-weight: 700; }
+
+/* Compare page */
+.compare-page { max-width: 12in; }
+.table-scroll { overflow-x: auto; }
+.compare-table { font-size: 0.88rem; min-width: 1100px; }
+.compare-table td { vertical-align: top; }
+.compare-table .c-badge {
+  background: var(--accent); color: #fff; font-weight: 700; text-align: center;
+  font-family: -apple-system, 'Segoe UI', Roboto, sans-serif; white-space: nowrap;
+}
+.compare-table .c-nights { white-space: nowrap; font-family: ui-monospace, Menlo, monospace; font-size: 0.82rem; }
+.compare-table .c-list { margin: 0; padding-left: 1.1rem; }
+.compare-table .c-list li { margin: 0.15rem 0; }
 
 @media (max-width: 640px) {
   .page { margin: 0; padding: 1.1rem 1rem; border-radius: 0; }

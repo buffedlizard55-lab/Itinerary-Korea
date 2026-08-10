@@ -17,6 +17,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 - **Night 1 hotel (Seoul): Four Points by Sheraton Josun, Seoul Station** — at the AREX terminus, so even a 1 AM arrival is simple. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Hotel Manu Seoul · GLAD Mapo · Courtyard by Marriott Seoul Namdaemun.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX all-stop → Seoul Station (~60 min; last ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi ₩70,000–100,000. Korean address saved offline.
 - **Late supper:** Seoul Station 24-hour options; no plans beyond bed.
 
@@ -24,19 +25,21 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–9 | 8 | Seoul Station / City Hall edge | **Four Points by Sheraton Josun, Seoul Station** (24-h desk — verify). |
+| Seoul — arrival night | Nov 1 | 1 | Seoul Station (AREX terminus) | **Four Points by Sheraton Josun, Seoul Station** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–9 & Nov 20–22 | 7 + 2 | Insadong | **Ibis Ambassador Insadong** (~$110–155, walkable to the palaces and Jongmyo) — standard 15:00 check-in; daytime arrivals only. |
 | Cheonan | Nov 9–14 | 5 | Cheonan city center | **Ramada Encore by Wyndham Cheonan** (~$60–90 research range). |
 | Busan | Nov 14–20 | 6 | Busan Station / Line 1 | **ASTI Hotel Busan Station** (~$80–120) — Line 1 reaches Jagalchi, Nampo, and north to Beomeosa. |
-| Seoul 2 | Nov 20–22 | 2 | Same Seoul Station base | Return to the Four Points. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → AREX → 24-hour check-in (~23:30 target) → bed.
-- **Stay:** Seoul — Four Points (night 1/8).
+- **Stay:** Seoul — Four Points (night 1/8 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Ibis Ambassador Insadong** in Insadong — drop the bags, sightseeing runs as written, check in from 15:00.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Founding palaces
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Ibis Ambassador Insadong** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Late morning:** Gyeongbokgung + Royal Guard Changing Ceremony + National Palace Museum.
 - **Afternoon:** National Folk Museum (on the grounds).
@@ -159,7 +162,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Four Points check-in.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Ibis Insadong check-in.
 - **Afternoon:** Seodaemun? already done — Namdaemun Market souvenirs instead.
 - **Evening:** Cheonggyecheon; Kimjang Grand Festival (aT Center, Nov 20–22) option.
 - **Stay:** Seoul — night 9 of 10 total.
@@ -173,7 +176,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**.
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX Express ~09:00 → ICN ~09:45.
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX Express ~09:00 → ICN ~09:45.
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

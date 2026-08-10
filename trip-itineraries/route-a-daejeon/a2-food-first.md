@@ -17,6 +17,7 @@ We land at **21:00**; hotel arrival realistically between **23:00 and 01:00**, l
 
 - **Night 1 hotel (Seoul): GLAD Mapo** — big full-service property by Gongdeok/Mapo on the AREX line, relaxed about very late arrivals. **Confirm the 24-hour front desk at booking; email the hotel your flight number.**
 - **Alternates (verify 24-hour desk):** Hotel Manu Seoul · Four Points by Sheraton Josun, Seoul Station · Courtyard by Marriott Seoul Namdaemun.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit, in order of preference:** (1) AREX all-stop ICN → Gongdeok/Seoul Station (last services ~23:30–23:50 — check night-of); (2) night bus N6001; (3) official/Kakao T taxi ~60–75 min, ₩70,000–100,000. Save the hotel's Korean address offline.
 - **Late supper (food-first angle):** CU/GS25 triangle kimbap and hot bar, or Mapo-gu's 24-hour gamjatang/gukbap joints near Gongdeok — a legitimately good first meal at midnight.
 
@@ -24,20 +25,22 @@ We land at **21:00**; hotel arrival realistically between **23:00 and 01:00**, l
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–9 | 8 | Mapo/Gongdeok (AREX corridor) | **GLAD Mapo** (24-h desk — verify). Whole leg in one hotel. |
+| Seoul — arrival night | Nov 1 | 1 | Mapo/Gongdeok (AREX line) | **GLAD Mapo** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–9 & Nov 20–22 | 7 + 2 | Myeongdong | **Ibis Styles Ambassador Seoul Myeongdong** (~$90–130, breakfast included) — standard 15:00 check-in; daytime arrivals only. |
 | Daejeon | Nov 9–13 | 4 | Daejeon Station / old downtown | **Aank Air Hotel Daejeon Station** (~$42–62) — sleep cheap, spend on food. |
 | Busan | Nov 13–20 | 7 | Busan Station / Line 1 | **ASTI Hotel Busan Station** (~$80–120) — Line 1 straight to Jagalchi & Nampo food zones. |
-| Seoul 2 | Nov 20–22 | 2 | Same GLAD Mapo base | Same hotel, easy AREX out. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → 24-hour check-in at GLAD Mapo (target ~23:45) → midnight convenience-store or 24-hour gukbap supper.
-- **Stay:** Seoul — GLAD Mapo (night 1/8).
+- **Stay:** Seoul — GLAD Mapo (night 1/8 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Ibis Styles Ambassador Seoul Myeongdong** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 - **Plan B:** Delay → N6001 night bus or taxi; the desk is staffed regardless.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Soft landing, market lunch
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Ibis Styles Ambassador Seoul Myeongdong** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Morning:** Sleep in; Mapo neighborhood coffee.
 - **Afternoon:** **Gwangjang Market** long lunch — bindaetteok, yukhoe (beef tartare), mayak gimbap.
@@ -167,7 +170,7 @@ We land at **21:00**; hotel arrival realistically between **23:00 and 01:00**, l
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in GLAD Mapo.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in at **Ibis Styles Myeongdong** again; the airport limousine also stops nearby.
 - **Afternoon:** **Korea Kimjang Grand Festival (aT Center, Nov 20–22)** — hands-on kimchi making if slots remain.
 - **Evening:** Namdaemun Market alley dinner (kalguksu alley behind shutter rows) + souvenir street food.
 - **Stay:** Seoul — night 9 of 10 total.
@@ -181,7 +184,7 @@ We land at **21:00**; hotel arrival realistically between **23:00 and 01:00**, l
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30, AREX Express ~09:00 → ICN ~09:45; **grab one final gimbap for the plane.**
+- **Morning:** Check out ~08:15; 5-minute taxi to Seoul Station, then AREX Express ~09:00 → ICN ~09:45; **grab one final gimbap for the plane.**
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

@@ -17,6 +17,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**. Late arriv
 
 - **Night 1 hotel (Seoul): Courtyard by Marriott Seoul Namdaemun** — full-service desk, a short hop from Seoul Station by taxi or one metro stop; relaxed about past-midnight arrivals. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Four Points by Sheraton Josun, Seoul Station · GLAD Mapo · Hotel Manu Seoul.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX all-stop → Seoul Station (~60 min; last services ~23:30–23:50 — check night-of); (2) N6001 night bus toward Seoul Station/City Hall; (3) taxi ~60–75 min, ₩70,000–100,000. Save the Korean address offline.
 - **Late supper:** you're in the nightlife belt — 24-hour spots around Namdaemun/City Hall or a convenience store on the walk.
 
@@ -24,19 +25,21 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**. Late arriv
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–9 | 8 | Namdaemun/City Hall (Hongdae 1 stop away) | **Courtyard by Marriott Seoul Namdaemun** (24-h desk — verify). |
+| Seoul — arrival night | Nov 1 | 1 | Namdaemun / City Hall | **Courtyard by Marriott Seoul Namdaemun** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–9 & Nov 20–22 | 7 + 2 | Myeongdong | **Nine Tree by Parnas Seoul Myeongdong 1** (~$100–145) — standard 15:00 check-in; daytime arrivals only. |
 | Daejeon | Nov 9–12 | 3 | Daejeon Station | **Aank Air Hotel Daejeon Station** (~$42–62) — cheap crash pad, spend the savings on concert tickets. |
 | Busan | Nov 12–20 | 8 | Haeundae (Gwangalli nights nearby) | **Ramada Encore Busan Haeundae** (~$75–105). |
-| Seoul 2 | Nov 20–22 | 2 | Same Namdaemun base | Return to the Courtyard. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → AREX or taxi → 24-hour check-in (target ~23:45). If wired, walk Namdaemun's night edges; otherwise crash.
-- **Stay:** Seoul — Courtyard Namdaemun (night 1/8).
+- **Stay:** Seoul — Courtyard Namdaemun (night 1/8 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Nine Tree by Parnas Seoul Myeongdong 1** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 
 ### Day 2 · Mon, Nov 2 — Seoul · K-pop reboot
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Nine Tree by Parnas Seoul Myeongdong 1** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Afternoon (late start):** **HiKR Ground** (KTO's K-pop experience center) → K-Star Road/Apgujeong drive-by or a label-area cafe (HYBE Insight neighborhood, YG area in Hapjeong — pick your fandom).
 - **Evening:** Hongdae busker circuit; coin noraebang debut.
@@ -152,7 +155,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**. Late arriv
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Courtyard check-in.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Nine Tree Myeongdong check-in.
 - **Afternoon:** MAMA Awards 2026 weekend starts (Nov 20–21) — attendance is lottery/industry-heavy, so treat as fan-zone/watch-party energy around town.
 - **Evening:** Final Hongdae or Itaewon night.
 - **Stay:** Seoul — night 9 of 10 total.
@@ -165,7 +168,7 @@ We land at **21:00**; hotel arrival realistically **23:00–01:00+**. Late arriv
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX Express ~09:00 → ICN ~09:45.
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX Express ~09:00 → ICN ~09:45.
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

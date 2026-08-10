@@ -17,6 +17,7 @@ Budget or not, Night 1 obeys the same rule — a guaranteed 24-hour check-in aft
 
 - **Night 1 hotel (Seoul): Hotel Manu Seoul** — the best value of the 24-hour-desk candidates, near Seoul Station/City Hall. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Four Points by Sheraton Josun, Seoul Station · GLAD Mapo · Courtyard by Marriott Seoul Namdaemun. If a confirmed-24-hour bed is sold out everywhere, book the cheapest remaining option **with a stated 24-hour desk**, not just the cheapest room.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit:** (1) AREX **all-stop** train (much cheaper than the Express; last ~23:30–23:50 — check night-of); (2) N6001 night bus (cheapest of all); (3) taxi is the splurge fallback, ₩70,000–100,000. This plan takes whichever train/bus is running — taxi only if both are gone.
 - **Late supper:** convenience-store budget dinner (~₩8,000 covers a feast).
 
@@ -24,10 +25,10 @@ Budget or not, Night 1 obeys the same rule — a guaranteed 24-hour check-in aft
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–7 | 6 | Seoul Station / City Hall edge | **Hotel Manu Seoul** (24-h desk — verify). |
+| Seoul — arrival night | Nov 1 | 1 | Seoul Station / City Hall edge | **Hotel Manu Seoul** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–7 & Nov 20–22 | 5 + 2 | Myeongdong | **Ibis Styles Ambassador Seoul Myeongdong** (~$90–130, breakfast included) — standard 15:00 check-in; daytime arrivals only. |
 | Cheonan | Nov 7–12 | 5 | Cheonan Station | **ON City Hotel** (~$55–80 research range). |
 | Busan | Nov 12–20 | 8 | Haeundae value side | **Toyoko Inn Busan Haeundae 2** (~$55–80, free breakfast). |
-| Seoul 2 | Nov 20–22 | 2 | Same Seoul Station base | Return to the Hotel Manu. |
 
 **Money posture:** subway/bus everywhere (T-money or the Seoul Climate Card tourist pass), free attractions stacked (palace-in-hanbok, free museums, markets, beaches, wall walks), KTX booked at open for best fares, one "splurge" item per leg only.
 
@@ -36,10 +37,12 @@ Budget or not, Night 1 obeys the same rule — a guaranteed 24-hour check-in aft
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → AREX all-stop (~₩5,000 range, verify) → 24-hour check-in (~23:30–00:30) → CU/GS25 supper.
-- **Stay:** Seoul — Hotel Manu (night 1/6).
+- **Stay:** Seoul — Hotel Manu (night 1/6 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Ibis Styles Ambassador Seoul Myeongdong** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 - **Plan B:** Missed train → N6001 night bus; delay → the desk is staffed, that's the point.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Free-day opener
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Ibis Styles Ambassador Seoul Myeongdong** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Late morning:** Cheonggyecheon + Gwanghwamun (free).
 - **Afternoon:** Gyeongbokgung — **rent hanbok (~₩15,000–25,000) and palace entry is free**; Guard Changing Ceremony is free.
@@ -164,7 +167,7 @@ Budget or not, Night 1 obeys the same rule — a guaranteed 24-hour check-in aft
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Hotel Manu check-in.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); Ibis Styles Myeongdong check-in.
 - **Afternoon:** **Korea Kimjang Grand Festival (aT Center, Nov 20–22)** — window-shop the festival; participation sessions are cheap.
 - **Evening:** Namdaemun Market budget souvenir spree.
 - **Stay:** Seoul — night 7 of 8 total.
@@ -178,7 +181,7 @@ Budget or not, Night 1 obeys the same rule — a guaranteed 24-hour check-in aft
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; AREX **all-stop** (cheaper) ~09:00 → ICN ~10:05 (still ~3h buffer) or Express ~09:00 if you want the speed.
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then AREX **all-stop** (cheaper) ~09:00 → ICN ~10:05 (still ~3h buffer) or Express ~09:00 if you want the speed.
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)

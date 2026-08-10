@@ -16,6 +16,7 @@ We land at **21:00**. Expect immigration + bags to take 45–90 minutes, so hote
 
 - **Night 1 hotel (Seoul): Four Points by Sheraton Josun, Seoul Station** — full-service desk, directly at Seoul Station (AREX terminus), so the late arrival is elevator-simple. **Confirm the 24-hour front desk and late-check-in policy at booking; email the hotel your flight number.**
 - **Alternates (also verify 24-hour desk):** GLAD Mapo (one AREX stop back, Hongik Univ./Mapo area) · Hotel Manu Seoul (Seoul Station / City Hall edge) · Courtyard by Marriott Seoul Namdaemun (City Hall / Seoul Station edge).
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit, in order of preference:** (1) AREX all-stop train ICN → Seoul Station, typically ~60 min, last services around 23:30–23:50 — check night-of; (2) if missed, night bus N6001 or airport limousine (runs late on some routes); (3) official taxi / Kakao T, ~60–75 min, roughly ₩70,000–100,000. Preload the hotel's Korean address for the driver.
 - **Late supper:** 24-hour convenience stores (CU/GS25) around Seoul Station, or 24-hour soup/ramyeon spots nearby. Don't plan a restaurant dinner tonight.
 
@@ -23,25 +24,27 @@ We land at **21:00**. Expect immigration + bags to take 45–90 minutes, so hote
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–8 | 7 | Seoul Station / Myeongdong edge | **Four Points by Sheraton Josun, Seoul Station** (24-h desk — verify). One check-in for the whole leg; no moving. |
+| Seoul — arrival night | Nov 1 | 1 | Seoul Station (AREX terminus) | **Four Points by Sheraton Josun, Seoul Station** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 20–22 | 6 + 2 | Myeongdong | **Nine Tree by Parnas Seoul Myeongdong 1** (~$100–145) — standard 15:00 check-in; daytime arrivals only. |
 | Daejeon | Nov 8–13 | 5 | Daejeon Station / old downtown | **LOTTE City Hotel Daejeon** (~$80–110 research range) |
 | Busan | Nov 13–20 | 7 | Haeundae beach block | **L7 HAEUNDAE by LOTTE** (~$115–165 research range) |
-| Seoul 2 | Nov 20–22 | 2 | Same Seoul Station base | Return to the **Four Points** (24-h desk still handy for late evenings); AREX out on departure morning. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Evening/Late:** Land 21:00 → immigration, bags, SIM/eSIM check → AREX all-stop (or night transfer fallback) → check in at the 24-hour desk (target ~23:30).
-- **Stay:** Seoul — Four Points by Sheraton Josun, Seoul Station (night 1/7).
+- **Stay:** Seoul — Four Points by Sheraton Josun, Seoul Station (night 1/7 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Nine Tree by Parnas Seoul Myeongdong 1** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 - **Plan B:** Missed last AREX → N6001 night bus; heavily delayed → Kakao T taxi straight to hotel. Light delays are exactly why tonight's hotel has a 24-hour desk.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Palace core, gently
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Nine Tree by Parnas Seoul Myeongdong 1** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Morning:** Late start (jet lag). Stroll Cheonggyecheon Stream → Gwanghwamun Square.
 - **Afternoon:** Gyeongbokgung Palace (Royal Guard Changing Ceremony, usually 10:00/14:00 — verify) + free entry if wearing rented hanbok.
 - **Evening:** Insadong tea alley dinner; early night.
-- **Stay:** Seoul — Four Points (night 2/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 2/7).
 - **Plan B:** Rainy → National Folk Museum (on palace grounds) instead of the hanok walk.
 
 ### Day 3 · Tue, Nov 3 — Seoul · Hanok lanes
@@ -49,35 +52,35 @@ We land at **21:00**. Expect immigration + bags to take 45–90 minutes, so hote
 - **Morning:** Bukchon Hanok Village viewpoint walk (arrive before 10:00 for calm streets; residents ask for quiet).
 - **Afternoon:** Changdeokgung + Huwon Secret Garden (book the Huwon guided slot in advance; fall moonlight tours run until ~Nov 8).
 - **Evening:** Ikseon-dong hanok alley cafes and small restaurants.
-- **Stay:** Seoul — Four Points (night 3/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 3/7).
 
 ### Day 4 · Wed, Nov 4 — Seoul · Markets & Myeongdong
 
 - **Morning:** Gwangjang Market brunch — bindaetteok (mung-bean pancake), mayak gimbap. Seoul Kimjang Festival runs Nov 1–3, so if it slips a day, grab leftovers-window events.
 - **Afternoon:** Dongdaemun Design Plaza (DDP), then Myeongdong street-food crawl setup; Olive Young first pass.
 - **Evening:** N Seoul Tower at dusk (cable car up Namsan; foliage lights in season). Free "Culture Flowing Through Seoul Plaza" concerts run Nov 4–18 if one is on.
-- **Stay:** Seoul — Four Points (night 4/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 4/7).
 
 ### Day 5 · Thu, Nov 5 — Seoul · North Seoul lookout loop
 
 - **Morning:** Seoul City Wall walk (Bugaksan or Naksan section — Bugaksan requires ID/passport; check access rules).
 - **Afternoon:** Namsangol Hanok Village + SeMoCA craft museum, or swap in the War Memorial of Korea if weather is grey.
 - **Evening:** Hongdae evening walk — buskers, casual dinner (late-night energy, easy subway home).
-- **Stay:** Seoul — Four Points (night 5/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 5/7).
 
 ### Day 6 · Fri, Nov 6 — Seoul · Han River & Gangnam side
 
 - **Morning:** COEX Starfield Library photo stop + Gangnam backstreet lunch.
 - **Afternoon:** Seoul Forest Park (peak autumn color usually early–mid Nov) → Seongsu-dong cafe street.
 - **Evening:** Han River side (Yeouido or Banpo) — picnic style; Eland river cruise if you'd rather sit.
-- **Stay:** Seoul — Four Points (night 6/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 6/7).
 
 ### Day 7 · Sat, Nov 7 — Seoul · Free day / big event slot
 
 - **Morning:** Slow breakfast; Tongin Market dosirak (coin-lunchbox) experience.
 - **Afternoon:** DMZ or Suwon Hwaseong Fortress half-day (book a DMZ tour now if it's a must — they sell out).
 - **Evening:** Big-ticket slot: My Chemical Romance plays Seoul tonight (Nov 7; confirm availability/price) or a Korean Series baseball watch party (series runs through ~Nov 8).
-- **Stay:** Seoul — Four Points (night 7/7).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 7/7).
 - **Plan B:** If nothing big grabs you, this becomes laundry + souvenir + neighborhood-repeat day.
 
 ### Day 8 · Sun, Nov 8 — Seoul → Daejeon (transfer)
@@ -167,21 +170,21 @@ We land at **21:00**. Expect immigration + bags to take 45–90 minutes, so hote
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50). Check in back at the Four Points (24-h desk).
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50). Check in at **Nine Tree Myeongdong 1** again — daytime arrival, standard 15:00 check-in.
 - **Afternoon:** Namdaemun Market souvenir pass (gim, ginseng, socks, kitchenware).
 - **Evening:** Cheonggyecheon lantern-lit walk; Korea Kimjang Grand Festival at aT Center runs Nov 20–22 if you want a kimchi-making session.
-- **Stay:** Seoul — Four Points (night 8 of 9 total).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 8 of 9 total).
 
 ### Day 21 · Sat, Nov 21 — Seoul · Last full day
 
 - **Morning:** Haneul Park silver-grass fields at World Cup Park (mid-November is tail season — still pretty, go early).
 - **Afternoon:** Final Myeongdong/Hongdae shopping; pack suitcases; weigh luggage.
 - **Evening:** Casual farewell dinner near Seoul Station; set two alarms.
-- **Stay:** Seoul — Four Points (night 9 of 9).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 9 of 9).
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; **AREX Express Seoul Station → ICN** (~43 min) departing ~09:00, arriving ~09:45 — lands you 3h+ before the 13:00 flight. (City Airport Terminal at Seoul Station offers luggage check-in for some airlines only — verify yours; otherwise keep bags with you.)
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then **AREX Express → ICN** (~43 min) departing ~09:00, arriving ~09:45 — lands you 3h+ before the 13:00 flight. (City Airport Terminal at Seoul Station offers luggage check-in for some airlines only — verify yours; otherwise keep bags with you.)
 - **Afternoon:** Fly home 13:00.
 
 ## Booking checklist (in order)

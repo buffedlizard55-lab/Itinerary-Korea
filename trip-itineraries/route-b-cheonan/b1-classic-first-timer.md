@@ -16,6 +16,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00** — later if 
 
 - **Night 1 hotel (Seoul): Hotel Manu Seoul** — between Seoul Station and City Hall, easy walk or 2-minute taxi from the AREX terminus, accustomed to past-midnight arrivals. **Confirm the 24-hour front desk at booking; email your flight number.**
 - **Alternates (verify 24-hour desk):** Four Points by Sheraton Josun, Seoul Station · GLAD Mapo · Courtyard by Marriott Seoul Namdaemun.
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 3 PM check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
 - **Late transit, in order of preference:** (1) AREX all-stop ICN → Seoul Station (~60 min; last services ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi/Kakao T ~60–75 min, ₩70,000–100,000. Save the hotel's Korean address offline.
 - **Late supper:** 24-hour convenience store or Seoul Station-area gukbap.
 
@@ -23,20 +24,22 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00** — later if 
 
 | Leg | Dates | Nights | Base | Hotel plan |
 | --- | --- | --- | --- | --- |
-| Seoul 1 | Nov 1–8 | 7 | Seoul Station / City Hall edge | **Hotel Manu Seoul** (24-h desk — verify), one check-in. |
+| Seoul — arrival night | Nov 1 | 1 | Seoul Station / City Hall edge | **Hotel Manu Seoul** — 24-h front desk (verify at booking); the only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 20–22 | 6 + 2 | Myeongdong | **Nine Tree by Parnas Seoul Myeongdong 1** (~$100–145) — standard 15:00 check-in; daytime arrivals only. |
 | Cheonan | Nov 8–13 | 5 | Cheonan city / Shinsegae belt | **Shilla Stay Cheonan** (~$65–95 research range). |
 | Busan | Nov 13–20 | 7 | Haeundae beach block | **L7 HAEUNDAE by LOTTE** (~$115–165 research range). |
-| Seoul 2 | Nov 20–22 | 2 | Same Seoul Station base | Return to the **Hotel Manu**. |
 
 ## Day-by-day
 
 ### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
 
 - **Late:** Land 21:00 → AREX or taxi → 24-hour check-in (target ~23:30–00:30) → bed.
-- **Stay:** Seoul — Hotel Manu (night 1/7).
+- **Stay:** Seoul — Hotel Manu (night 1/7 — arrival night; the only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop (5-minute taxi / one subway stop) to **Nine Tree by Parnas Seoul Myeongdong 1** in Myeongdong — drop the bags, sightseeing runs as written, check in from 15:00.
 - **Plan B:** Missed AREX → N6001 night bus; heavy delay → taxi. The 24-hour desk is exactly why this hotel was chosen.
 
 ### Day 2 · Mon, Nov 2 — Seoul · Palace core, gently
+- **First move:** check out of the arrival hotel (~10:00); 5-minute taxi or one subway stop to **Nine Tree by Parnas Seoul Myeongdong 1** — bags stored at the desk until 15:00 check-in, then the day below runs as planned.
 
 - **Morning:** Late start (jet lag); Cheonggyecheon Stream → Gwanghwamun Square.
 - **Afternoon:** Gyeongbokgung + Royal Guard Changing Ceremony (usually 10:00/14:00 — verify; hanbok rental = free entry).
@@ -165,7 +168,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00** — later if 
 
 ### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
 
-- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in Hotel Manu.
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50); check in at **Nine Tree Myeongdong** again.
 - **Afternoon:** Namdaemun Market souvenir pass.
 - **Evening:** Cheonggyecheon night walk; Korea Kimjang Grand Festival at aT Center runs Nov 20–22 nearby.
 - **Stay:** Seoul — night 8 of 9 total.
@@ -179,7 +182,7 @@ We land at **21:00**; expect the hotel between **23:00 and 01:00** — later if 
 
 ### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
 
-- **Morning:** Check out ~08:30; **AREX Express ~09:00 → ICN ~09:45** (3h+ buffer). City Airport Terminal early check-in exists for select airlines only — verify.
+- **Morning:** Check out ~08:15; 5-minute taxi (or Myeongdong airport-limousine bus) to Seoul Station, then **AREX Express ~09:00 → ICN ~09:45** (3h+ buffer). City Airport Terminal early check-in exists for select airlines only — verify.
 - **Afternoon:** Fly 13:00.
 
 ## Booking checklist (in order)
