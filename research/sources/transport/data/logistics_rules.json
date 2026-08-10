@@ -1,0 +1,168 @@
+{
+  "last_updated": "2026-08-03",
+  "logistics_philosophy": "We prioritize 'The Korea Transit Sweet Spot': finding the lowest cost transportation that does NOT sacrifice convenience, time, or hassle. Saving $4 on an airport train after a 12-hour flight or saving $14 on an intercity bus to sit in 2 hours of highway traffic is a poor trade-off.",
+  "sweet_spot_comparisons": [
+    {
+      "scenario": "Incheon Airport (ICN) -> Central Seoul Hotel",
+      "cheapest_option": {
+        "mode": "AREX All-Stop Commuter Train",
+        "time": "59 - 66 min",
+        "cost_2_people_krw": 8900,
+        "cost_2_people_usd": 6.36,
+        "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage)"
+      },
+      "sweet_spot_option": {
+        "mode": "AREX Express Train (Non-Stop)",
+        "time": "43 - 51 min",
+        "cost_2_people_krw": 22000,
+        "cost_2_people_usd": 15.71,
+        "hassle_level": "Zero (Reserved reclining seats, dedicated luggage racks, free Wi-Fi, drops at Seoul Station)",
+        "why_sweet_spot": "For only $9.35 extra total for both travelers, you eliminate commuter crowds and get a relaxing non-stop express ride after a transpacific flight."
+      },
+      "luxury_option": {
+        "mode": "Official Airport Taxi / Kakao T",
+        "time": "50 - 70 min",
+        "cost_2_people_krw": 65000,
+        "cost_2_people_usd": 46.43,
+        "hassle_level": "Zero (Door-to-door directly to hotel)"
+      }
+    },
+    {
+      "scenario": "Seoul -> Busan Intercity Travel",
+      "cheapest_option": {
+        "mode": "Economy Highway Bus (Ilban - 2x2 seats)",
+        "time": "4 hr 30 min+",
+        "cost_2_people_krw": 44000,
+        "cost_2_people_usd": 31.43,
+        "hassle_level": "High (Cramped seats, traffic risk, long travel day)"
+      },
+      "sweet_spot_option": {
+        "mode": "KTX High-Speed Train (or KORAIL Saver Pass)",
+        "time": "2 hr 30 min",
+        "cost_2_people_krw": 119600,
+        "cost_2_people_usd": 85.43,
+        "hassle_level": "Zero (305 km/h bullet train, center-to-center from Seoul Station to Busan Station)",
+        "why_sweet_spot": "Saves 2 full hours of travel time! If doing a multi-city loop (Seoul->Busan->Gyeongju->Seoul), the KORAIL Saver Pass drops your effective cost even lower."
+      },
+      "luxury_option": {
+        "mode": "Premium Gold Reclining Express Bus (160° Pods)",
+        "time": "4 hr 15 min",
+        "cost_2_people_krw": 79600,
+        "cost_2_people_usd": 56.86,
+        "hassle_level": "Medium (Luxury lie-flat comfort, but still 4+ hours on highway)"
+      }
+    },
+    {
+      "scenario": "Short Urban Hop (<3.5 km with Luggage or in Rain)",
+      "cheapest_option": {
+        "mode": "Subway Line 2 / Line 3",
+        "time": "20 - 25 min (including walking & stairs)",
+        "cost_2_people_krw": 3000,
+        "cost_2_people_usd": 2.14,
+        "hassle_level": "Medium-High (Stair climbing, navigating turnstiles with bags)"
+      },
+      "sweet_spot_option": {
+        "mode": "Kakao T Taxi / Uber (UT)",
+        "time": "8 - 12 min door-to-door",
+        "cost_2_people_krw": 6000,
+        "cost_2_people_usd": 4.29,
+        "hassle_level": "Zero (Driver picks you up at hotel curb and drops at destination)",
+        "why_sweet_spot": "Because taxi base fares are only 4,800 KRW and you are splitting between 2 travelers, you pay only ~$2 USD extra total to save 20 minutes of stairs and hassle!"
+      },
+      "luxury_option": {
+        "mode": "Kakao T Venti / Luxury Van",
+        "time": "8 - 12 min",
+        "cost_2_people_krw": 12000,
+        "cost_2_people_usd": 8.57,
+        "hassle_level": "Zero"
+      }
+    },
+    {
+      "scenario": "Intensive Seoul Sightseeing Day (4+ Transit Rides)",
+      "cheapest_option": {
+        "mode": "T-money Pay-As-You-Go IC Card",
+        "time": "Standard subway/bus times",
+        "cost_2_people_krw": 15000,
+        "cost_2_people_usd": 10.71,
+        "hassle_level": "Low (Must monitor cash balance and top up at convenience stores)"
+      },
+      "sweet_spot_option": {
+        "mode": "Seoul Climate Card (5-Day Tourist Edition)",
+        "time": "Standard subway/bus times",
+        "cost_2_people_krw": 6000,
+        "cost_2_people_usd": 4.29,
+        "hassle_level": "Zero (Unlimited rides on all Seoul subways and blue/green buses for 15,000 KRW / 5 days = 3,000 KRW/day)",
+        "why_sweet_spot": "At 3,000 KRW per person per day, you break even after just 2 rides! Never worry about top-ups during your Seoul days."
+      },
+      "luxury_option": {
+        "mode": "Full-Day Charter Taxi",
+        "time": "Door-to-door",
+        "cost_2_people_krw": 200000,
+        "cost_2_people_usd": 142.86,
+        "hassle_level": "Zero"
+      }
+    }
+  ],
+  "operating_hours_directory": [
+    {
+      "system": "Seoul Subway (Lines 1 - 9)",
+      "operating_hours": "05:30 AM - 00:00 (Midnight) / 01:00 AM on select lines",
+      "peak_rush_hours": "07:30 - 09:00 and 18:00 - 19:30 (Avoid with luggage!)",
+      "official_site": "http://www.seoulmetro.co.kr/en/index.do"
+    },
+    {
+      "system": "Busan Metro (Lines 1 - 4)",
+      "operating_hours": "05:10 AM - 23:45 PM",
+      "peak_rush_hours": "08:00 - 09:00 and 18:00 - 19:30",
+      "official_site": "http://www.humetro.busan.kr"
+    },
+    {
+      "system": "AREX Airport Express Train (ICN <-> Seoul Station)",
+      "operating_hours": "From ICN T2: 05:15 - 22:40 | From Seoul Station: 06:10 - 22:50",
+      "peak_rush_hours": "Runs every 40 minutes (reserved seating)",
+      "official_site": "https://www.arex.or.kr"
+    },
+    {
+      "system": "KORAIL KTX High-Speed Train (Seoul <-> Busan)",
+      "operating_hours": "05:15 AM - 22:50 PM",
+      "peak_rush_hours": "Friday afternoon & Sunday evening trains sell out fastest",
+      "official_site": "https://www.letskorail.com"
+    },
+    {
+      "system": "Seoul N-Buses (Late-Night Night Buses)",
+      "operating_hours": "23:30 PM - 05:00 AM",
+      "peak_rush_hours": "Runs every 25-40 minutes across nightlife hubs",
+      "official_site": "https://english.seoul.go.kr"
+    },
+    {
+      "system": "Gyeongbokgung Palace (Seoul)",
+      "operating_hours": "09:00 - 17:00 (Nov winter hours; Closed Tuesdays)",
+      "peak_rush_hours": "Royal Guard Changing at 10:00 & 14:00",
+      "official_site": "https://royal.cha.go.kr"
+    },
+    {
+      "system": "N Seoul Tower (Namsan)",
+      "operating_hours": "10:00 - 23:00 daily",
+      "peak_rush_hours": "Sunset (17:00 - 18:30 in November)",
+      "official_site": "https://www.nseoultower.co.kr"
+    },
+    {
+      "system": "National Museum of Korea",
+      "operating_hours": "10:00 - 18:00 (Mon/Tue/Thu/Fri/Sun) | 10:00 - 21:00 (Wed/Sat Night Open)",
+      "peak_rush_hours": "Free general admission",
+      "official_site": "https://english.visitkorea.or.kr"
+    },
+    {
+      "system": "Haeundae Blue Line Beach Train (Busan)",
+      "operating_hours": "09:30 - 19:00 (November autumn hours)",
+      "peak_rush_hours": "Sunset slots sell out 2-3 weeks in advance",
+      "official_site": "https://www.bluelinepark.com/eng/beachTrain.do"
+    },
+    {
+      "system": "Bulguksa Temple (Gyeongju)",
+      "operating_hours": "08:00 - 17:30 daily",
+      "peak_rush_hours": "Best light for maple foliage is 08:30 - 10:30 AM",
+      "official_site": "https://www.gyeongju.go.kr/tour/eng/index.do"
+    }
+  ]
+}

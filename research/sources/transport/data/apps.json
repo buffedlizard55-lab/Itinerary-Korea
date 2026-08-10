@@ -1,0 +1,104 @@
+{
+  "last_updated": "2026-08-03",
+  "iphone_apps": [
+    {
+      "id": "naver_map",
+      "name": "Naver Map, Navigation",
+      "category": "Navigation & Walking/Transit",
+      "icon_color": "#03C75A",
+      "app_store_url": "https://apps.apple.com/app/naver-map-navigation/id311867728",
+      "official_site": "https://map.naver.com",
+      "why_essential": "Google Maps walking and driving directions do not work in South Korea due to national security and mapping laws. Naver Map is the #1 gold standard for precise subway platforms, bus arrival countdowns, and walking paths.",
+      "sf_japan_comparison": "Your replacement for Google Maps and Apple Maps in Korea.",
+      "beginner_tip": "In App Settings -> Language, switch to English. You can save favorite places (like your hotel) in custom lists. It shows exact exit numbers for subway stations!"
+    },
+    {
+      "id": "kakao_map",
+      "name": "KakaoMap - Korea No.1 Map",
+      "category": "Navigation & Walking/Transit",
+      "icon_color": "#FEE500",
+      "app_store_url": "https://apps.apple.com/app/kakaomap-korea-no-1-map/id304608425",
+      "official_site": "https://map.kakao.com",
+      "why_essential": "Great backup/alternative to Naver Map. Many locals prefer KakaoMap for bus arrival accuracy and street-view ('Road View') quality.",
+      "sf_japan_comparison": "Like Citymapper for Seoul and Busan.",
+      "beginner_tip": "Works seamlessly with Kakao T when calling a taxi to a specific pin on the map."
+    },
+    {
+      "id": "kakao_t",
+      "name": "Kakao T (Taxi, Bike, Driver)",
+      "category": "Taxis & Ride-Hailing",
+      "icon_color": "#FEE500",
+      "app_store_url": "https://apps.apple.com/app/kakao-t/id981110422",
+      "official_site": "https://www.kakaocorp.com/page/service/service/KakaoT",
+      "why_essential": "The undisputed king of taxi dispatching in South Korea. Never worry about language barriers with taxi drivers—your destination is sent automatically to the driver's GPS.",
+      "sf_japan_comparison": "Direct equivalent to Uber or Lyft in San Francisco, or JapanTaxi/GO app in Tokyo.",
+      "beginner_tip": "You can use Kakao T without a Korean credit card! Select 'General Taxi' and choose 'Pay to Driver' (Cash/Card to driver) as your payment method. Pay the driver with your WOWPASS, T-money, or foreign Visa/Mastercard at the end of the ride."
+    },
+    {
+      "id": "uber_ut",
+      "name": "Uber / UT",
+      "category": "Taxis & Ride-Hailing",
+      "icon_color": "#000000",
+      "app_store_url": "https://apps.apple.com/app/uber-request-a-ride/id368677368",
+      "official_site": "https://www.uber.com/kr/en/",
+      "why_essential": "In South Korea, the global Uber app operates as a joint venture called UT, dispatching official licensed taxis. If you already have Uber installed on your iPhone from SF, it works right away!",
+      "sf_japan_comparison": "The exact same Uber app you use in San Francisco—your saved credit card in Uber will be charged automatically in KRW.",
+      "beginner_tip": "Compare prices between Kakao T and Uber during rush hours. Uber often has promos for first-time rides in Korea."
+    },
+    {
+      "id": "korail_talk",
+      "name": "KorailTalk",
+      "category": "Intercity Trains (KTX/ITX)",
+      "icon_color": "#0054A6",
+      "app_store_url": "https://apps.apple.com/app/korailtalk/id927945147",
+      "official_site": "https://www.letskorail.com",
+      "why_essential": "The official KORAIL app for booking KTX high-speed trains between Seoul, Busan, Gyeongju, and Jeonju.",
+      "sf_japan_comparison": "Like the SmartEX app for Japan Shinkansen or Amtrak app.",
+      "beginner_tip": "Set language to English in the top-right menu. Book KTX tickets 2-4 weeks in advance for weekend travel (tickets open 1 month in advance at 07:00 KST)."
+    },
+    {
+      "id": "subway_korea",
+      "name": "Subway Korea (Malang Studio)",
+      "category": "Subway & Metro Timetables",
+      "icon_color": "#FF6B6B",
+      "app_store_url": "https://apps.apple.com/app/subway-korea/id325944444",
+      "official_site": "https://subway.co.kr",
+      "why_essential": "The fastest, most reliable English subway map and timetable app for Seoul, Busan, Daegu, Gwangju, and Daejeon. Works offline!",
+      "sf_japan_comparison": "Like Japan Travel by NAVITIME subway view or BART official app.",
+      "beginner_tip": "Shows which subway car door (e.g. Car 4, Door 2) to board for the fastest transfer or exit!"
+    },
+    {
+      "id": "papago",
+      "name": "Naver Papago - AI Translator",
+      "category": "Translation & Communication",
+      "icon_color": "#00A8FF",
+      "app_store_url": "https://apps.apple.com/app/naver-papago-ai-translator/id1147874819",
+      "official_site": "https://papago.naver.com",
+      "why_essential": "Naver's AI translation engine is vastly superior to Google Translate for Korean honorifics, idioms, and natural grammar. Essential for dining, taxis, and shopping.",
+      "sf_japan_comparison": "Far more accurate for Korean than Google Translate.",
+      "beginner_tip": "Use 'Image Translation' mode to snap photos of Korean restaurant menus or bus terminal signs for instant English overlays!"
+    },
+    {
+      "id": "t_money_go",
+      "name": "T-money GO (Integrated Transit & Express Bus)",
+      "category": "Express & Intercity Buses",
+      "icon_color": "#FF4757",
+      "app_store_url": "https://apps.apple.com/app/t-money-go/id1483433333",
+      "official_site": "https://txbus.t-money.co.kr",
+      "why_essential": "Book highway express buses and intercity buses nationwide. Also integrates city bike rentals (Ttareungyi in Seoul).",
+      "sf_japan_comparison": "Like a Greyhound/Flixbus app combined with city bikeshare.",
+      "beginner_tip": "If you have trouble with international credit cards on the app, you can check bus schedules here and buy tickets at the terminal ticket machines or windows."
+    },
+    {
+      "id": "bustago",
+      "name": "BUSTAGO (Intercity Bus Reservation)",
+      "category": "Intercity Buses",
+      "icon_color": "#2ED573",
+      "app_store_url": "https://apps.apple.com/app/bustago/id1056586036",
+      "official_site": "https://www.bustago.or.kr",
+      "why_essential": "Official nationwide intercity bus booking platform. Essential for routes to smaller towns or direct airport bus connections.",
+      "sf_japan_comparison": "Highway bus booking portal.",
+      "beginner_tip": "Supports English interface and ticket QR codes."
+    }
+  ]
+}

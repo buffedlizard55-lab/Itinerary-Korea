@@ -1,0 +1,11 @@
+# Local operating-system and editor files
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+
+# Temporary local test output
+coverage/
+playwright-report/
+test-results/
+__pycache__/

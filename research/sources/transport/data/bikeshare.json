@@ -1,0 +1,19 @@
+{
+  "last_updated": "2026-08-03",
+  "bikeshare_systems": [
+    {
+      "city": "Seoul",
+      "system_name": "Ttareungyi (`따릉이` - Seoul Public Bike)",
+      "how_to_use": "Rent directly inside the T-money GO iPhone app using your international credit card or WOWPASS without Korean resident registration.",
+      "cost": "1,000 KRW (~$0.70 USD) for 1 hour of cycling",
+      "best_route": "Yeouido Han River Park loop to Banpo Bridge Rainbow Fountain."
+    },
+    {
+      "city": "Gyeongju",
+      "system_name": "TaSoJa / Gyeongju Heritage Bikeshare",
+      "how_to_use": "Rent bikes outside Singyeongju Station or along Hwangridan-gil.",
+      "cost": "5,000 KRW for a half-day rental",
+      "best_route": "Flat cycling path from Daereungwon Burial Mounds to Cheomseongdae Observatory and Wolji Pond."
+    }
+  ]
+}

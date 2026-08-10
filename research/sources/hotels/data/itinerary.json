@@ -1,0 +1,68 @@
+{
+  "_readme": "This file is READY to ingest your planned itinerary. Fill in the dates and locations below, and the planner's budget calculator + day planner will automatically use them. The app also reads a good default from the values here.",
+  "trip": {
+    "name": "South Korea Trip",
+    "checkIn": "2026-10-31",
+    "checkOut": "2026-11-22",
+    "note": "Total 22 nights. You can adjust start/end and the per-city nights anytime."
+  },
+  "legs": [
+    {
+      "city": "Seoul",
+      "nights": 8,
+      "dates": "Oct 31 – Nov 8",
+      "locations": [
+        "Myeongdong (shopping / central)",
+        "Gwanghwamun & Gyeongbokgung (palaces / historic)"
+      ],
+      "hotelChoice": null,
+      "note": "Edit this to your actual dates and preferred neighborhood."
+    },
+    {
+      "city": "Gyeongju",
+      "nights": 6,
+      "dates": "Nov 8 – Nov 14",
+      "locations": [
+        "Old Town / Hwangnam-dong (hanok village, near tombs)",
+        "Bomun Lake Resort (resort hotels)"
+      ],
+      "hotelChoice": null,
+      "note": "No subway in Gyeongju - KTX arrives at Singyeongju, ~20 min taxi/bus to town."
+    },
+    {
+      "city": "Busan",
+      "nights": 8,
+      "dates": "Nov 14 – Nov 22",
+      "locations": [
+        "Haeundae (beach / resort)",
+        "Busan Station / Dong-gu (KTX arrivals, harbour)"
+      ],
+      "hotelChoice": null,
+      "note": "Consider splitting Busan between Haeundae and Busan Station."
+    }
+  ],
+  "alternatives": [
+    {
+      "city": "Cheonan",
+      "nights": 6,
+      "dates": "Nov 8 – Nov 14",
+      "locations": [
+        "Cheonan Station / Central area",
+        "Cheonan-Asan KTX Station area"
+      ],
+      "hotelChoice": null,
+      "note": "Recommended third city: direct on Seoul–Busan KTX corridor. Excellent cost + transport balance. 5 hotels available in data/hotels.json."
+    },
+    {
+      "city": "Daejeon",
+      "nights": 6,
+      "dates": "Nov 8 – Nov 14",
+      "locations": [
+        "Daejeon Station area",
+        "Yuseong / Government Complex"
+      ],
+      "hotelChoice": null,
+      "note": "Strong alternative third city: larger city with hot springs and more dining options. 6 hotels available in data/hotels.json."
+    }
+  ]
+}
