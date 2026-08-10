@@ -6,11 +6,11 @@ A calm, beginner-friendly South Korea trip-planning workspace. **Korea Compass**
 
 > This is a research and planning tool, not a booking engine or a live travel-data service. Verify event dates, prices, availability, entry requirements, transport operations, eligibility, health guidance, and emergency information with the relevant official provider before acting.
 
-## ⭐ 10 sample trip itineraries (start here)
+## ⭐ 30 sample trip itineraries (start here)
 
-**The review-ready itineraries live in [`trip-itineraries/`](trip-itineraries/)** — five for Seoul → Daejeon → Busan → Seoul (Route A) and five for Seoul → Cheonan → Busan → Seoul (Route B), all on the fixed Nov 1–22, 2026 frame (arrive ICN 21:00, depart ICN 13:00).
+**The review-ready itineraries live in [`trip-itineraries/`](trip-itineraries/)** — fifteen for Seoul → Daejeon → Busan → Seoul (Route A) and fifteen for Seoul → Cheonan → Busan → Seoul (Route B), all on the fixed Nov 1–22, 2026 frame (arrive ICN 21:00, depart ICN 13:00).
 
-- **Easiest way to read them:** the static review index at [`review/index.html`](review/index.html) — online at <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/>. Every itinerary renders as a clean, document-style page with a one-click **Print / Save PDF** button. Prefer a single screen? [`review/compare.html`](review/compare.html) compares all 10 side-by-side.
+- **Easiest way to read them:** the static review index at [`review/index.html`](review/index.html) — online at <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/>. Every itinerary renders as a clean, document-style page with a one-click **Print / Save PDF** button. Prefer a single screen? [`review/compare.html`](review/compare.html) compares all 30 side-by-side.
 - **Only the arrival night (Nov 1) uses a 24-hour check-in Seoul hotel** — the 9 PM landing means check-in can pass midnight, so Night 1 always books a 24-hour-front-desk hotel near the AREX Seoul Station corridor (with alternates and late-night transit backups). All other nights use regular hotels with standard 3 PM check-in.
 - Edit the Markdown in `trip-itineraries/`, then refresh the browser pages with `python3 scripts/build_itinerary_review.py`.
 
@@ -21,6 +21,16 @@ A calm, beginner-friendly South Korea trip-planning workspace. **Korea Compass**
 | [A3 Slow & Easy](trip-itineraries/route-a-daejeon/a3-slow-and-easy.md) · 7·5·6·3 | [B3 Food-First & Small-Town](trip-itineraries/route-b-cheonan/b3-food-first-small-town.md) · 7·5·7·2 |
 | [A4 K-Culture & Nights](trip-itineraries/route-a-daejeon/a4-k-culture-and-nights.md) · 8·3·8·2 | [B4 Rest & Recharge](trip-itineraries/route-b-cheonan/b4-rest-and-recharge.md) · 7·6·6·2 |
 | [A5 Nature & Science](trip-itineraries/route-a-daejeon/a5-nature-and-science.md) · 6·6·7·2 | [B5 Budget & Local](trip-itineraries/route-b-cheonan/b5-budget-local.md) · 6·5·8·2 |
+| [A6 Architecture & Photo Loop](trip-itineraries/route-a-daejeon/a6-architecture-and-photo.md) · 7·4·8·2 | [B6 Light Chasers — Photo Small-City](trip-itineraries/route-b-cheonan/b6-light-chasers-photo.md) · 7·4·8·2 |
+| [A7 Family Playground](trip-itineraries/route-a-daejeon/a7-family-playground.md) · 7·5·7·2 | [B7 Family Slow Road](trip-itineraries/route-b-cheonan/b7-family-slow-road.md) · 7·5·7·2 |
+| [A8 Cafe & Design Crawl](trip-itineraries/route-a-daejeon/a8-cafe-and-design-crawl.md) · 8·3·8·2 | [B8 Tea & Hot-Spring Ritual](trip-itineraries/route-b-cheonan/b8-tea-and-hot-spring-ritual.md) · 6·6·7·2 |
+| [A9 Temple & Tea Calm](trip-itineraries/route-a-daejeon/a9-temple-and-tea-calm.md) · 6·6·7·2 | [B9 Market & Maker](trip-itineraries/route-b-cheonan/b9-market-and-maker.md) · 7·5·7·2 |
+| [A10 Shop & Glow](trip-itineraries/route-a-daejeon/a10-shop-and-glow.md) · 7·4·7·3 | [B10 Second Seoul — For Returners](trip-itineraries/route-b-cheonan/b10-second-seoul-returners.md) · 8·3·8·2 |
+| [A11 Sports & Stadium Cheer](trip-itineraries/route-a-daejeon/a11-sports-and-stadium-cheer.md) · 7·5·7·2 | [B11 Sports Small-City](trip-itineraries/route-b-cheonan/b11-sports-small-city.md) · 7·5·7·2 |
+| [A12 Arts & Exhibitions](trip-itineraries/route-a-daejeon/a12-arts-and-exhibitions.md) · 8·4·7·2 | [B12 Live Music & After Dark](trip-itineraries/route-b-cheonan/b12-live-music-and-after-dark.md) · 8·3·8·2 |
+| [A13 River, Parks & Wheels](trip-itineraries/route-a-daejeon/a13-river-parks-and-wheels.md) · 6·6·7·2 | [B13 Barrier-Free & Elevator Easy](trip-itineraries/route-b-cheonan/b13-barrier-free-and-elevator-easy.md) · 7·5·6·3 |
+| [A14 Day-Trip Collector](trip-itineraries/route-a-daejeon/a14-day-trip-collector.md) · 8·3·8·2 | [B14 Campus, Indie & Hyehwa Stage](trip-itineraries/route-b-cheonan/b14-campus-indie-and-hyehwa-stage.md) · 7·4·8·2 |
+| [A15 Savings Smart](trip-itineraries/route-a-daejeon/a15-savings-smart.md) · 6·5·8·2 | [B15 Templestay & Hanok](trip-itineraries/route-b-cheonan/b15-templestay-and-hanok.md) · 6·6·7·2 |
 
 *(Night splits read Seoul · middle city · Busan · Seoul.)*
 

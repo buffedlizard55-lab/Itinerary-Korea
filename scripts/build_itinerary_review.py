@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Build the itinerary review site.
 
-Reads the 10 sample itinerary Markdown files under trip-itineraries/
+Reads the 30 sample itinerary Markdown files under trip-itineraries/
 and generates a clean, Word-document-style static site under review/:
 
   review/index.html              - list of all itineraries, grouped by route
@@ -183,76 +183,216 @@ def parse_meta(md: str) -> dict:
 # One row per itinerary on review/compare.html. Keep in sync with the
 # Markdown when hotel picks or splits change.
 COMPARE = [
-    dict(badge="A1", slug="a1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
+dict(badge="A1", slug="a1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
          pace="Moderate–full days",
          hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
                  "Daejeon: LOTTE City Daejeon · $80–110", "Busan: L7 Haeundae · $115–165"],
          sig=["Palace core + N Seoul Tower classic loop", "Sungsimdang bakery + Expo Science Park", "Blueline sky capsule + Saturday Gwangalli drone show"],
          best="The balanced first trip — widest first-timer coverage",
          watch="Busiest day list; use the three built-in buffer days (7 / 12 / 19)"),
-    dict(badge="A2", slug="a2-food-first", title="Food-First", nights="8 · 4 · 7 · 2",
+dict(badge="A2", slug="a2-food-first", title="Food-First", nights="8 · 4 · 7 · 2",
          pace="Grazing pace — meals are the anchors",
          hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Ibis Styles Myeongdong · $90–130 (breakfast incl.)",
                  "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: ASTI Busan Station · $80–120"],
          sig=["Gwangjang / Noryangjin / Mangwon market trio", "Sungsimdang bread pilgrimage + noodle alleys", "Jagalchi, Cheongsapo clams, milmyeon & gukbap alleys"],
          best="Eating across three cities, market by market",
          watch="Daejeon compressed to 4 nights; famous spots mean queues"),
-    dict(badge="A3", slug="a3-slow-and-easy", title="Slow & Easy", nights="7 · 5 · 6 · 3",
+dict(badge="A3", slug="a3-slow-and-easy", title="Slow & Easy", nights="7 · 5 · 6 · 3",
          pace="Gentle — one anchor per day, late starts",
          hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: L7 Myeongdong · $150–210",
                  "Daejeon: Hotel Interciti (Yuseong spa side) · $65–90", "Busan: Grand Josun beachfront · $180–270"],
          sig=["Palace + tea-house half-days", "Foot baths, jjimjilbang, seated coast rides", "3-night calm Seoul finish before the flight"],
          best="Coming home rested — least walking of the ten",
          watch="Highest hotel spend; fewest sights checked off"),
-    dict(badge="A4", slug="a4-k-culture-and-nights", title="K-Culture & Nights", nights="8 · 3 · 8 · 2",
+dict(badge="A4", slug="a4-k-culture-and-nights", title="K-Culture & Nights", nights="8 · 3 · 8 · 2",
          pace="Late shift — slow mornings, late nights",
          hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
                  "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: Ramada Encore Haeundae · $75–105"],
          sig=["Pop-ups + PC bangs + noraebang circuit", "Concert anchor Nov 7 (My Chemical Romance), LoL Worlds watch party Nov 14", "G-STAR at BEXCO if 2026 dates align"],
          best="Concerts, gaming, pop culture, nightlife",
          watch="Depends on ticket luck — without anchor events it softens"),
-    dict(badge="A5", slug="a5-nature-and-science", title="Nature & Science", nights="6 · 6 · 7 · 2",
+dict(badge="A5", slug="a5-nature-and-science", title="Nature & Science", nights="6 · 6 · 7 · 2",
          pace="Active — two real hike days",
          hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Ibis Styles Myeongdong · $90–130",
                  "Daejeon: Toyoko Inn Gov't Complex · $48–70", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
          sig=["Bukhansan day hike from Seoul", "Gyeryongsan National Park + Donghaksa temple", "Igidae coastal boardwalk + Taejongdae cliffs"],
          best="Autumn foliage, trails, fresh air",
          watch="Weather-exposed; two genuine leg-burner days"),
-    dict(badge="B1", slug="b1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
+dict(badge="A6", slug="a6-architecture-and-photo", title="Architecture & Photo Loop", nights="7 · 4 · 8 · 2",
+         pace="Early starts — golden & blue hour",
+         hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Daejeon: LOTTE City Daejeon · $80–110", "Busan: L7 Haeundae · $115–165"],
+         sig=["DDP curves + Euljiro neon at dusk", "Expo Hanbit Tower geometry + Gapcheon sunset", "Blueline capsule at golden hour + drone show"],
+         best="Photographers & architecture lovers",
+         watch="Early alarms; tripod-heavy days"),
+dict(badge="A7", slug="a7-family-playground", title="Family Playground", nights="7 · 5 · 7 · 2",
+         pace="Kid-paced — short walks, early nights",
+         hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Daejeon: LOTTE City Daejeon · $80–110", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Lotte World + COEX Aquarium", "National Science Museum + Hanbat Arboretum", "Blueline Sky Capsule + Taejongdae train"],
+         best="Families with kids 4–12 — low stress",
+         watch="Least nightlife; kid meals anchor days"),
+dict(badge="A8", slug="a8-cafe-and-design-crawl", title="Cafe & Design Crawl", nights="8 · 3 · 8 · 2",
+         pace="Cafe-paced — sit, sip, stroll",
+         hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: Ramada Encore Haeundae · $75–105"],
+         sig=["Seongsu warehouses + Euljiro printing alleys", "Sojaedong cafe street + Jungang snack", "Jeonpo Cafe Street deep dive + F1963"],
+         best="Design & cafe collectors",
+         watch="Few palace hours; Daejeon compressed to 3 nights"),
+dict(badge="A9", slug="a9-temple-and-tea-calm", title="Temple & Tea Calm", nights="6 · 6 · 7 · 2",
+         pace="Very gentle — tea, temples, bath",
+         hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Daejeon: Hotel Interciti Yuseong · $65–90", "Busan: ASTI Busan Station · $80–120"],
+         sig=["Tea houses + Huwon Secret Garden", "Gyeryongsan temples + Hanbat Arboretum", "Beomeosa + Haedong Yonggungsa dawn"],
+         best="Reset trip — quiet mornings, early nights",
+         watch="Intentionally thin on nightlife & queues"),
+dict(badge="A10", slug="a10-shop-and-glow", title="Shop & Glow", nights="7 · 4 · 7 · 3",
+         pace="Market-paced — shop, compare, pack",
+         hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Daejeon: Ramada Daejeon · $70–90", "Busan: L7 Haeundae · $115–165"],
+         sig=["Myeongdong + Seongsu pop-ups + DDP night market", "Jungang Market socks & Sungsimdang gift boxes", "Shinsegae Centum + Seomyeon underground mall"],
+         best="Beauty/style shoppers — 3-night Seoul finish for exchanges",
+         watch="Heaviest baggage; tax-refund paper trail"),
+dict(badge="A11", slug="a11-sports-and-stadium-cheer", title="Sports & Stadium Cheer", nights="7 · 5 · 7 · 2",
+         pace="Moderate — stadium nights",
+         hotels=["Arrival night: L7 Myeongdong · $150–210", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Daejeon: Toyoko Inn Govt Complex · $48–70", "Busan: Ramada Encore Haeundae · $75–105"],
+         sig=["V-League volleyball Seoul & Daejeon home nights", "KBL basketball Jamsil / Chungmu", "JTBC Marathon start-line + Gwangalli drone"],
+         best="Stadium culture — drums, chants, cheerleaders",
+         watch="Fixtures publish late Sep/early Oct — keep buffer"),
+dict(badge="A12", slug="a12-arts-and-exhibitions", title="Arts & Exhibitions", nights="8 · 4 · 7 · 2",
+         pace="Museum-paced — one ticketed show/day",
+         hotels=["Arrival night: Nine Tree Myeongdong · $100–145", "Seoul: L7 Myeongdong · $150–210",
+                 "Daejeon: Hotel Interciti · $65–90", "Busan: ASTI Busan Station · $80–120"],
+         sig=["BANKSY ends Nov 3 + Leeum Inside Other Spaces", "MMCA Christine Sun Kim + Artist of the Year", "Hanbit Tower Art Space 193 + Gapcheon lights"],
+         best="Read every wall text — exhibition-heavy",
+         watch="Ticketed times mean early booking"),
+dict(badge="A13", slug="a13-river-parks-and-wheels", title="River, Parks & Wheels", nights="6 · 6 · 7 · 2",
+         pace="Wheels — bike & seated cruise",
+         hotels=["Arrival night: Ibis Styles Myeongdong · $90–130", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Daejeon: Toyoko Inn Govt Complex · $48–70", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Ttareungyi Han River loop + Eland cruise", "Gapcheon River bike + Yuseong foot bath", "Blueline Sky Capsule + Spa Land"],
+         best="Gentle cycling — flat riverside paths",
+         watch="Weather shifts — have cruise backup"),
+dict(badge="A14", slug="a14-day-trip-collector", title="Day-Trip Collector", nights="8 · 3 · 8 · 2",
+         pace="Base camp — day trips from Seoul",
+         hotels=["Arrival night: Ibis Insadong · $110–155", "Seoul: L7 Myeongdong · $150–210",
+                 "Daejeon: Benikea Daelim · $45–65", "Busan: L7 Haeundae · $115–165"],
+         sig=["Suwon Hwaseong fortress (ITX 30 min)", "Nami Island ginkgo via ITX-Cheongchun", "DMZ Imjingak with passport"],
+         best="Keep the hotel, move the day",
+         watch="Day-trip tickets need 2–4 weeks ahead"),
+dict(badge="A15", slug="a15-savings-smart", title="Savings Smart", nights="6 · 5 · 8 · 2",
+         pace="Wallet-first — verified deals only",
+         hotels=["Arrival night: Hotel Skypark 3 · $95–135", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Daejeon: Aank Air Daejeon Station · $42–62", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Korea Sale Festa + boarding-pass dining", "Tongin 20-coin tray + Dookki ₩11,900", "Immediate tax refund at Lotte Mart ≥₩15,000"],
+         best="Lowest spend — research-vault deals",
+         watch="Skip anything needing Korean phone auth"),
+dict(badge="B1", slug="b1-classic-first-timer", title="Classic First-Timer", nights="7 · 5 · 7 · 2",
          pace="Moderate–full days",
          hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
                  "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: L7 Haeundae · $115–165"],
          sig=["Same classic Seoul/Busan spine as A1", "Independence Hall of Korea (free, huge)", "Onyang hot-spring day trip"],
          best="Balanced trip with cheaper, shorter middle hops",
          watch="Cheonan has less big-city texture than Daejeon"),
-    dict(badge="B2", slug="b2-history-and-heritage", title="History & Heritage", nights="8 · 5 · 6 · 2",
+dict(badge="B2", slug="b2-history-and-heritage", title="History & Heritage", nights="8 · 5 · 6 · 2",
          pace="Museum-deep, unhurried",
          hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: Ibis Insadong · $110–155",
                  "Cheonan: Ramada Encore Cheonan · $60–90", "Busan: ASTI Busan Station · $80–120"],
          sig=["Palaces + Jongmyo + Seodaemun Prison", "Independence Hall + Yu Gwan-sun memorial", "UN Memorial Cemetery + Beomeosa temple"],
          best="History-first travelers; nearly weather-proof",
          watch="Least nightlife content; DMZ option needs early booking"),
-    dict(badge="B3", slug="b3-food-first-small-town", title="Food-First & Small-Town", nights="7 · 5 · 7 · 2",
+dict(badge="B3", slug="b3-food-first-small-town", title="Food-First & Small-Town", nights="7 · 5 · 7 · 2",
          pace="Grazing pace",
          hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Ibis Insadong · $110–155 (Jongno food alleys)",
                  "Cheonan: Brown Dot Cheonan Station · $45–70", "Busan: ASTI Busan Station · $80–120"],
          sig=["Seoul market trio (Gwangjang / Tongin / Mangwon)", "Byeongcheon sundae-soup town + hodu-gwaja originals", "Jagalchi + fish-cake (eomuk) crawl"],
          best="Regional-dish hunting beyond the big cities",
          watch="Byeongcheon is a lunch-focused half-day out by bus/taxi"),
-    dict(badge="B4", slug="b4-rest-and-recharge", title="Rest & Recharge", nights="7 · 6 · 6 · 2",
+dict(badge="B4", slug="b4-rest-and-recharge", title="Rest & Recharge", nights="7 · 6 · 6 · 2",
          pace="Very gentle",
          hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: L7 Myeongdong · $150–210",
                  "Cheonan: Sono Belle Cheonan resort · $80–120", "Busan: Grand Josun beachfront · $180–270"],
          sig=["Classic Seoul jjimjilbang session", "Onyang historic baths + Asan Spavis day", "Spa Land Centum City marathon day"],
          best="A true recovery trip — spa lovers",
          watch="Priciest stays; checklisted sights intentionally thin"),
-    dict(badge="B5", slug="b5-budget-local", title="Budget & Local", nights="6 · 5 · 8 · 2",
+dict(badge="B5", slug="b5-budget-local", title="Budget & Local", nights="6 · 5 · 8 · 2",
          pace="Moderate, wallet-first",
          hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: Ibis Styles Myeongdong · $90–130 (breakfast incl.)",
                  "Cheonan: ON City Hotel · $55–80", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
          sig=["Free palace entry via hanbok trick + free museums", "Free Independence Hall picnic day", "8 budget nights in Busan; free Saturday drone show"],
          best="Lowest total cost; local-rhythm feel",
          watch="Three-star comfort max; transit instead of taxis"),
+dict(badge="B6", slug="b6-light-chasers-photo", title="Light Chasers — Photo Small-City", nights="7 · 4 · 8 · 2",
+         pace="Early starts — small-city light",
+         hotels=["Arrival night: Hotel Manu Seoul ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: L7 Haeundae · $115–165"],
+         sig=["DDP + Euljiro neon (same Seoul spine as A6)", "Independence Hall brutalism + Gakwonsa hill light", "8-night Busan coast — wait for the right sky"],
+         best="Photo loop with cheaper Cheonan base",
+         watch="Early starts; Cheonan nights thinner than Daejeon"),
+dict(badge="B7", slug="b7-family-slow-road", title="Family Slow Road", nights="7 · 5 · 7 · 2",
+         pace="Kid-paced — easiest rail",
+         hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["Lotte World + COEX Aquarium (same Seoul wins)", "Free Independence Hall picnic + Gakwonsa hill", "Blueline capsule + Taejongdae train"],
+         best="Families who want the gentlest transfers (Line 1 / Mugunghwa)",
+         watch="Less big-city play than Daejeon version"),
+dict(badge="B8", slug="b8-tea-and-hot-spring-ritual", title="Tea & Hot-Spring Ritual", nights="6 · 6 · 7 · 2",
+         pace="Very gentle — ritual, not resort",
+         hotels=["Arrival night: Courtyard Namdaemun ★24h", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Cheonan: Sono Belle Cheonan · $80–120", "Busan: Grand Josun Busan · $180–270"],
+         sig=["Jogyesa + hanok tea + hanbang bath house", "Onyang 600-year baths + Asan Spavis contrast", "Spa Land Centum marathon + Beomeosa dawn"],
+         best="Tea/bath ritual travelers — longest Cheonan stay",
+         watch="Slow by design; nightlife off the menu"),
+dict(badge="B9", slug="b9-market-and-maker", title="Market & Maker", nights="7 · 5 · 7 · 2",
+         pace="Market-paced — watch hands work",
+         hotels=["Arrival night: Four Points Seoul Station ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Cheonan: ON City Hotel · $55–80", "Busan: ASTI Busan Station · $80–120"],
+         sig=["Euljiro metal + Mullae steel + Gwangjang textile", "Byeongcheon sundae craft + hodu-gwaja press", "Jagalchi knife work + Huinnyeoul ateliers + F1963"],
+         best="Makers & market watchers — souvenir with a face",
+         watch="Early market mornings; carry cash for stalls"),
+dict(badge="B10", slug="b10-second-seoul-returners", title="Second Seoul — For Returners", nights="8 · 3 · 8 · 2",
+         pace="Late-ish — neighborhoods over palaces",
+         hotels=["Arrival night: GLAD Mapo ★24h", "Seoul: L7 Myeongdong · $150–210",
+                 "Cheonan: Brown Dot Cheonan · $45–70", "Busan: Ramada Encore Haeundae · $75–105"],
+         sig=["Euljiro + Mullae + Mangwon + Seongsu new-Seoul circuit", "One Independence Hall pass + Byeongcheon sundae only", "8 nights Busan — Jeonpo/Seomyeon + islands"],
+         best="Return visitors — skip the palace queue, find the new block",
+         watch="Not first-timer; Cheonan compressed to 3 nights"),
+dict(badge="B11", slug="b11-sports-small-city", title="Sports Small-City", nights="7 · 5 · 7 · 2",
+         pace="Moderate — hometeam in Cheonan",
+         hotels=["Arrival night: L7 Myeongdong · $150–210", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: ASTI Busan Station · $80–120"],
+         sig=["City FC vs Busan IPark Nov 8 14:00", "Hyundai Capital Skywalkers at Yu Gwan-sun Gym", "V-League Seoul/Busan floating nights"],
+         best="Cheonan home match advantage",
+         watch="Nov 8 14:00 is the one fixed anchor"),
+dict(badge="B12", slug="b12-live-music-and-after-dark", title="Live Music & After Dark", nights="8 · 3 · 8 · 2",
+         pace="Late — ticketed nights",
+         hotels=["Arrival night: Nine Tree Myeongdong · $100–145", "Seoul: L7 Myeongdong · $150–210",
+                 "Cheonan: Brown Dot Cheonan · $45–70", "Busan: Ramada Encore Haeundae · $75–105"],
+         sig=["Simon Rattle + Candlelight Hisaishi", "MCR/KGMA Nov7–8 + Melon MMA Nov14–15", "MAMA Osaka stream + Kings Nov 18"],
+         best="Every night has a stage",
+         watch="Prices/lineup TBA on ticket portals"),
+dict(badge="B13", slug="b13-barrier-free-and-elevator-easy", title="Barrier-Free & Elevator Easy", nights="7 · 5 · 6 · 3",
+         pace="Gentle — elevator-checked",
+         hotels=["Arrival night: Ibis Styles Myeongdong · $90–130", "Seoul: Nine Tree Myeongdong · $100–145",
+                 "Cheonan: ON City Hotel · $55–80", "Busan: Toyoko Inn Haeundae 2 · $55–80"],
+         sig=["B2–B7 AREX elevator routing + luggage-forward", "Gyeongbokgung Exit 5 / Myeongdong Exit 6", "Blueline seated + Spa Land + 3-night Seoul buffer"],
+         best="Step-free priority — seated rides",
+         watch="Check Seoul Metro elevator map night-before"),
+dict(badge="B14", slug="b14-campus-indie-and-hyehwa-stage", title="Campus, Indie & Hyehwa Stage", nights="7 · 4 · 8 · 2",
+         pace="Campus-paced — indie streets",
+         hotels=["Arrival night: Ibis Insadong · $110–155", "Seoul: Hotel Skypark 3 · $95–135",
+                 "Cheonan: ON City Hotel · $55–80", "Busan: L7 Haeundae · $115–165"],
+         sig=["Gyeongui Line Forest + Mullae steel", "Hyehwa Daehangno musicals Elisabeth/Hell’s Kitchen", "Seongsu DDP free show nightly"],
+         best="Small stages over main gates",
+         watch="Musical schedules via nol.world"),
+dict(badge="B15", slug="b15-templestay-and-hanok", title="Templestay & Hanok", nights="6 · 6 · 7 · 2",
+         pace="Very gentle — robes & tea",
+         hotels=["Arrival night: Hotel Skypark 3 · $95–135", "Seoul: Ibis Styles Myeongdong · $90–130",
+                 "Cheonan: Shilla Stay Cheonan · $65–95", "Busan: Grand Josun Busan · $180–270"],
+         sig=["Hwagyesa overnight ~₩70k–90k via eng.templestay.com", "Gakwonsa Buddha + Independence Hall maple avenue", "Beomeosa mountain bowl + Huinnyeoul tea"],
+         best="One templestay night — monastic meals",
+         watch="Reserve 2–4 weeks ahead"),
 ]
 
 COMPARE_PAGE = """<!doctype html>
@@ -260,7 +400,7 @@ COMPARE_PAGE = """<!doctype html>
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Compare all 10 · Korea trip itineraries</title>
+<title>Compare all 30 · Korea trip itineraries</title>
 <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
@@ -270,7 +410,7 @@ COMPARE_PAGE = """<!doctype html>
 </nav>
 <div class="page compare-page">
   <p class="kicker">One-screen overview</p>
-  <h1>All 10 itineraries, side by side</h1>
+  <h1>All 30 itineraries, side by side</h1>
   <p class="frame">Fixed trip frame for every row: <strong>arrive Sun Nov 1, 2026, 21:00 at ICN · depart Sun Nov 22, 13:00</strong> · 21 nights. <strong>Only the arrival night (Nov 1) needs a 24-hour front-desk hotel</strong> — every plan books one near the AREX Seoul Station corridor (★24h below; verify the policy at booking), then moves to normal 3-PM-check-in hotels from Day 2. Night splits read Seoul · middle city · Busan · Seoul.</p>
   <div class="table-scroll">
   <table class="compare-table">
@@ -313,7 +453,7 @@ ITIN_PAGE = """<!doctype html>
 <body>
 <nav class="toolbar no-print">
   <a class="tool" href="../index.html">← All itineraries</a>
-  <a class="tool" href="../compare.html">⇄ Compare all 10</a>
+  <a class="tool" href="../compare.html">⇄ Compare all 30</a>
   <span class="tool-spacer"></span>
   {prev_link}
   {next_link}
@@ -338,9 +478,9 @@ INDEX_PAGE = """<!doctype html>
 <body>
 <div class="page index-page">
   <header class="index-head">
-    <p class="kicker">Sample plans for review · 10 itineraries</p>
+    <p class="kicker">Sample plans for review · 30 itineraries</p>
     <h1>Korea Trip — Itinerary Review</h1>
-    <p class="frame"><strong>Trip frame, fixed across all ten:</strong> arrive <strong>Sun, Nov 1, 2026, 21:00 at ICN</strong> · depart <strong>Sun, Nov 22, 2026, 13:00 from ICN</strong> · 21 nights / 22 days. Every itinerary books the <strong>arrival night (Nov 1) at a Seoul hotel with a 24-hour front desk</strong> — the 9 PM landing plus delays can push check-in past midnight. Only that one night needs the 24-hour desk; all other nights use normal 3 PM check-in hotels. <a class="compare-link" href="compare.html">⇄ Compare all 10 side-by-side</a></p>
+    <p class="frame"><strong>Trip frame, fixed across all thirty:</strong> arrive <strong>Sun, Nov 1, 2026, 21:00 at ICN</strong> · depart <strong>Sun, Nov 22, 2026, 13:00 from ICN</strong> · 21 nights / 22 days. Every itinerary books the <strong>arrival night (Nov 1) at a Seoul hotel with a 24-hour front desk</strong> — the 9 PM landing plus delays can push check-in past midnight. Only that one night needs the 24-hour desk; all other nights use normal 3 PM check-in hotels. <a class="compare-link" href="compare.html">⇄ Compare all 30 side-by-side</a></p>
     <p class="hint no-print">Click any card to read the itinerary as a printable document. Source Markdown lives in <code>trip-itineraries/</code>; regenerate this page with <code>python3 scripts/build_itinerary_review.py</code>.</p>
   </header>
   {sections}
@@ -371,10 +511,18 @@ CARD = """
 """
 
 
+def sort_key(path: Path) -> tuple:
+    # Natural sort: a1, a2, ... a10 (lexicographic would put a10 before a2)
+    m = re.match(r"^([ab])(\d+)", path.stem.lower())
+    if m:
+        return (m.group(1), int(m.group(2)), path.stem)
+    return (path.stem, 0, path.stem)
+
+
 def short_title(full: str) -> str:
     # "A1 · Classic First-Timer — Seoul → ..." -> "Classic First-Timer"
     core = full.split("—")[0].strip()
-    core = re.sub(r"^[AB]\d\s*·\s*", "", core)
+    core = re.sub(r"^[AB]\d+\s*·\s*", "", core)
     return core
 
 
@@ -387,7 +535,7 @@ def main() -> None:
 
     entries: list[dict] = []
     for dirname, badge, route_title, route_blurb in ROUTES:
-        for path in sorted((SRC / dirname).glob("*.md")):
+        for path in sorted((SRC / dirname).glob("*.md"), key=sort_key):
             if path.name.lower() == "readme.md":
                 continue
             md = path.read_text(encoding="utf-8")

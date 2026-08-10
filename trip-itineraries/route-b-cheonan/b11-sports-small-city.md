@@ -1,0 +1,191 @@
+# B11 · Sports Small-City — Seoul → Cheonan → Busan → Seoul
+
+> **Route:** Route B (Seoul → Cheonan → Busan → Seoul)
+> **Dates:** Sun, Nov 1, 2026 → Sun, Nov 22, 2026 · **21 nights / 22 days**
+> **Flights:** Arrive ICN **21:00** Sun Nov 1 · Depart ICN **13:00** Sun Nov 22
+> **Night split:** Seoul 7 · Cheonan 5 · Busan 7 · Seoul 2
+> **Theme:** Cheonan’s hometeam advantage — City FC K League 2 + Hyundai Capital Skywalkers volleyball at home, plus Seoul/Busan stadium nights. Shorter, cheaper rail hops than Daejeon for the same cheer volume.
+> **Review notes:** *(leave decisions/comments here)*
+
+## Who this suits
+
+Fans who want a home match in the middle city — not just big-Seoul crowds. Cheonan General Stadium (vs Busan IPark Nov 8 14:00 per events.csv) and Yu Gwan-sun Gymnasium are walkable from the KTX corridor and tickets are ~₩10,000–20,000 per `kleague.com` / `kovo.co.kr`.
+
+## Arrival-night rule (non-negotiable)
+
+We land at **21:00**. Hotel arrival **23:00–01:00+**.
+
+- **Night 1 hotel (Seoul): L7 MYEONGDONG by LOTTE HOTELS** — dataset $150–210, 2-min to Myeongdong Station. **Confirm 24-hour front desk at booking; email flight number. Standard check-in 15:00.**
+- **Alternates (also verify 24-hour desk):** Nine Tree Myeongdong 1 ($100–145) · Ibis Styles Myeongdong ($90–130) · Hotel Skypark Myeongdong 3 ($95–135).
+- **Scope of the rule:** **only Night 1 needs the 24-hour desk.** From Day 2 onward we move to a regular Seoul hotel with standard 15:00 check-in, and the final Seoul leg arrives mid-afternoon — so no other night needs any special late-arrival policy.
+- **Late transit:** (1) AREX all-stop → Seoul Station (~60 min; last ~23:30–23:50 — check night-of); (2) N6001 night bus; (3) taxi ₩70k–100k. Save Korean address offline.
+- **Late supper:** CU/GS25 tonight — stadiums feed you the rest of the trip.
+
+## Legs at a glance
+
+| Leg | Dates | Nights | Base | Hotel plan |
+| --- | --- | --- | --- | --- |
+| Seoul — arrival night | Nov 1 | 1 | Myeongdong | **L7 MYEONGDONG by LOTTE HOTELS** ($150–210) — 24-h desk *verify*; only night needing late check-in. |
+| Seoul — all other nights | Nov 2–8 & Nov 20–22 | 6 + 2 | Myeongdong | **Nine Tree by Parnas Seoul Myeongdong 1** ($100–145) — standard 15:00 check-in; daytime arrivals only. |
+| Cheonan | Nov 8–13 | 5 | Cheonan Station / Sports complex | **Shilla Stay Cheonan** ($65–95) — Cheonan Station / Bus Terminal area |
+| Busan | Nov 13–20 | 7 | Haeundae / Sajik | **ASTI Hotel Busan Station** ($80–120) — metro to Sajik gym |
+
+**Verified Cheonan home fixtures (events.csv):**
+- **Cheonan City FC vs Busan IPark (K League 2)** — **Sun Nov 8 14:00** at Cheonan General Stadium per `kleague.com` / `cheonancityfc.kr` — confirmed date.
+- **Hyundai Capital Skywalkers (men, V-League)** — Yu Gwan-sun Gymnasium, one of the loudest home crowds per fun/daejeon-cheonan.md note — 2–3×/week in Nov, tickets ~₩10,000–25,000 via `kovo.co.kr`, fixtures late Sep/early Oct.
+- **WKBL Asan Woori Bank** — ~15–20 min from Cheonan-Asan KTX per events.csv (Nov16–Mar1 window) — underrated evening if soccer/volleyball don’t land.
+- **Seoul/Busan leaguers:** V-League Oct31–Apr2 confirmed, KBL Oct15–Apr15 TBA per events.csv.
+
+## Day-by-day
+
+### Day 1 · Sun, Nov 1 — ICN → Seoul (arrival night)
+
+- **Late:** Land 21:00 → AREX → 24-hour check-in (target ~23:30).
+- **Stay:** Seoul — L7 Myeongdong (night 1/7 — arrival night; only 24-hour-desk night).
+- **Tomorrow:** check out ~10:00 and hop to **Nine Tree Myeongdong** — bags stored until 15:00, then fixture hunt.
+- **Plan B:** Missed AREX → N6001; heavy delay → taxi.
+
+### Day 2 · Mon, Nov 2 — Seoul · Fixture board
+- **First move:** check out arrival hotel (~10:00); Nine Tree Myeongdong continuation.
+
+- **Afternoon:** City Hall Tourism Center — pin the Cheonan Nov 8 home match and one Seoul V-League home night (Woori Card at Jangchung or GS Caltex at Jamsil Students Gymnasium per events.csv).
+- **Evening:** Gwangjang market — quick snack recon.
+- **Stay:** Seoul — Nine Tree Myeongdong (night 2/7).
+
+### Day 3 · Tue, Nov 3 — Seoul · Volleyball first cheer
+
+- **Evening:** **V-League Seoul Woori Card or GS Caltex** — Jangchung Arena (Line 3 Dongguk Univ) or Jamsil Students Gymnasium — per events.csv 2–3×/week, ~₩10k–25k. Drum-line + cheerleaders.
+- **Stay:** Seoul — night 3/7.
+- **Plan B:** No Seoul home fixture tonight → evening N Seoul Tower cable car view, keep Cheonan Nov 8 ticket priority.
+
+### Day 4 · Wed, Nov 4 — Seoul · Free concert intermission
+
+- **Evening:** Culture Flowing Through Seoul Plaza — **Wed Nov 4 18:30 free** at Seoul Plaza per `festival.seoul.go.kr` (events.csv). Zero ticket, free concert between games.
+- **Stay:** Seoul — night 4/7.
+
+### Day 5 · Thu, Nov 5 — Seoul · Basketball slot
+
+- **Evening:** **KBL Seoul SK Knights / Samsung Thunders** at Jamsil Indoor / Students Gymnasium per events.csv (~₩10k–20k, schedule via `kbl.or.kr` Jul–Aug). English commentary screens.
+- **Stay:** Seoul — night 5/7.
+- **Plan B:** Use floating V-League weekday night if KBL not yet published.
+
+### Day 6 · Fri, Nov 6 — Seoul · Marathon carb
+
+- **Morning:** Tongin Market dosirak — load the tray.
+- **Afternoon:** Yeouido Han River easy loop.
+- **Evening:** Early night for Cheonan move.
+- **Stay:** Seoul — night 6/7.
+
+### Day 7 · Sat, Nov 7 — Seoul · Memorial or marathon spectate
+
+- **All day:** Unscheduled — if you skipped Mon/Tue fixture, catch floating Saturday V-League; otherwise Seoul Outdoor Library last chance (ends Nov 1 — you already passed) — so today is rest.
+- **Stay:** Seoul — night 7/7.
+
+### Day 8 · Sun, Nov 8 — Seoul → Cheonan (transfer) — home match day
+
+- **Late morning:** **Mugunghwa Seoul → Cheonan (~55–60 min)** or **Line 1 (~1 hr 20, T-money, no booking)** or **KTX to Cheonan-Asan (~35–40 min)** per README-B shared logistics — all verified in transport intercity guide doc 04. Arrive before 13:00.
+- **Afternoon:** **Cheonan City FC vs Busan IPark — 14:00 at Cheonan General Stadium** per events.csv (confirmed). ~₩10k–20k, take local bus to stadium precinct via `cheonancityfc.kr`. This is the *reason* for Cheonan’s placement.
+- **Evening:** Hakwha hodugwaja warm box (Cheonan Station, daily 07:00–21:00 per #72) — victory pastry.
+- **Stay:** Cheonan — Shilla Stay Cheonan (night 1/5).
+
+### Day 9 · Mon, Nov 9 — Cheonan · Independence as breather
+
+- **Full day:** Independence Hall of Korea free (09:30–17:00 Tue–Sun per #67) — brutalist Grand Hall + 3.2 km maple avenue per #67 (1,200 red maples forming crimson tunnel in November per `i815.or.kr`).
+- **Stay:** Cheonan — night 2/5.
+
+### Day 10 · Tue, Nov 10 — Cheonan · Volleyball loud
+
+- **Evening:** **Hyundai Capital Skywalkers at Yu Gwan-sun Gymnasium** per events.csv (V-League Oct31–Apr2, 2–3×/week, ~₩10k–25k via `kovo.co.kr`) — reported as “One of the loudest home crowds in Korean volleyball” per fun/daejeon-cheonan.md. Same Cheonan gym that hosts KBL-friendly crowds; walk from Cheonan Station/bus.
+- **Stay:** Cheonan — night 3/5.
+- **Plan B:** No weekday Skywalkers fixture → WKBL Asan Woori Bank (~15–20 min from Cheonan-Asan KTX, Nov16–Mar1 window per events.csv) if you extend stay later.
+
+### Day 11 · Wed, Nov 11 — Cheonan · Gakwonsa + market
+
+- **Morning:** Gakwonsa 15m 60-ton bronze Buddha (24/7 free per #70, hilltop autumn maples per #70/75) — bus/taxi Mt. Taejosan.
+- **Afternoon:** Yuseong-style? Actually Cheonan — Taejosan Country Park & Forest Trails (#75, 24/7 free) low loop, or Arario Sculpture Plaza 24/7 free Keith Haring / Damien Hirst per #71 at Cheonan Terminal.
+- **Evening:** Pocha light.
+- **Stay:** Cheonan — night 4/5.
+
+### Day 12 · Thu, Nov 12 — Cheonan · Buffer
+
+- **All day:** Buffer — retry Onyang Folk Museum if you missed Sep window; pack for Busan.
+- **Stay:** Cheonan — night 5/5.
+
+### Day 13 · Fri, Nov 13 — Cheonan → Busan (transfer)
+
+- **Morning:** KTX Cheonan-Asan → Busan (~2 hr, verify hop to Cheonan-Asan).
+- **Afternoon:** Haeundae beach + Dongbaek Island pine loop.
+- **Evening:** Shinsegae Centum food hall + BEXCO G-STAR preview if dates land.
+- **Stay:** Busan — ASTI Busan Station (night 1/7).
+
+### Day 14 · Sat, Nov 14 — Busan · Drone night + volleyball swing
+
+- **Morning:** Blueline Sky Capsule Mipo → Cheongsapo.
+- **Afternoon:** F1963 factory bookstore (free).
+- **Evening:** **Gwangalli M Drone Light Show** — every Saturday free per `gwangallimdrone.co.kr` (events.csv Nov 7/14/21 19:00 & 21:00 winter). In-window Nov 14 is clean drone night (Nov 7 is Fireworks replacement). Pair with possible **V-League OK Savings Bank** weekday fixture (Busan men, 2–3×/week Oct31–Apr2 per events.csv) if your dates align.
+- **Stay:** Busan — night 2/7.
+
+### Day 15 · Sun, Nov 15 — Busan · Basketball
+
+- **Evening:** **KBL Busan KCC Egis** at Sajik Indoor Gymnasium per events.csv (Oct15–Apr15 window via `kbl.or.kr`) or **WKBL BNK Sum** (Nov16–Mar1 window via `wkbl.or.kr` weekend 14:00/16:00). ~₩10k–20k / ₩5k–15k respective.
+- **Stay:** Busan — night 3/7.
+
+### Day 16 · Mon, Nov 16 — Busan · Gamcheon + Jagalchi
+
+- **Morning:** Gamcheon Village before 09:30.
+- **Afternoon:** Jagalchi fish market → Gukje Market → Yongdusan Park / Busan Tower (₩12k via bisco.or.kr free with Visit Busan Pass).
+- **Stay:** Busan — night 4/7.
+
+### Day 17 · Tue, Nov 17 — Busan · Cable & cliffs
+
+- **Morning:** Taejongdae Danubi train; Songdo Marine Cable Car (₩17k/₩22k Crystal).
+- **Afternoon:** Oryukdo Skywalk + Igidae partial.
+- **Evening:** Jeonpo Cafe Street.
+- **Stay:** Busan — night 5/7.
+
+### Day 18 · Wed, Nov 18 — Busan · Flex
+
+- **All day:** Beomeosa Temple (Line 1 north) or Spa Land Centum (₩20k–25k).
+- **Stay:** Busan — night 6/7.
+- **Note:** Fireworks/G-STAR mid-Nov windows — swap if official 2026 dates land here per research.
+
+### Day 19 · Thu, Nov 19 — Busan · CSAT quiet
+
+- **All day:** CSAT day — deliberately off (traffic holds per emergency 06-holidays doc). Beach repeat; Samjin fishcake.
+- **Stay:** Busan — night 7/7.
+
+### Day 20 · Fri, Nov 20 — Busan → Seoul (transfer)
+
+- **Morning:** KTX Busan → Seoul (~2 hr 30–2 hr 50). Check in Nine Tree Myeongdong — daytime arrival, 15:00.
+- **Afternoon:** Namdaemun Market + ICN tax-refund desk map.
+- **Evening:** Cheonggyecheon lanterns; Kimjang Grand Festival at aT Center if in window (Nov20–22).
+- **Stay:** Seoul — Nine Tree Myeongdong (night 8 of 9 total).
+
+### Day 21 · Sat, Nov 21 — Seoul · Last cheer
+
+- **Morning:** Haneul Park silver-grass boardwalk.
+- **Afternoon:** Pack + weigh.
+- **Evening:** Farewell near Seoul Station; two alarms.
+- **Stay:** Seoul — night 9 of 9.
+
+### Day 22 · Sun, Nov 22 — Seoul → ICN (departure)
+
+- **Morning:** Check out ~08:15; taxi to Seoul Station → **AREX Express → ICN** (~43 min, depart ~09:00, arrive ~09:45) — 3h+ before 13:00 flight.
+- **Afternoon:** Fly home 13:00.
+
+## Booking checklist (in order)
+
+1. Flights (ICN round trip).
+2. **Night 1 hotel — verify 24-hour front desk + late check-in; email flight number.**
+3. Remaining hotels in leg order.
+4. KTX: Cheonan-Asan→Busan, Busan→Seoul (Seoul→Cheonan needs no KTX — Mugunghwa/Line 1; if you choose KTX to Cheonan-Asan ~35–40 min, book).
+5. Stadium tickets: `kleague.com` (City FC Nov 8 confirmed), `kovo.co.kr` (V-League late Sep fixture release), `kbl.or.kr` / `wkbl.or.kr` (basketball), plus Blueline capsule.
+6. AREX Day 22 — recheck week before.
+
+## If plans slip
+
+- **Delayed flight:** 24-hour desk absorbs it; Nov 8 City FC is the one timed anchor — everything else is floating weekly fixtures.
+- **Rain swap bank:** All indoor — National Museum free, War Memorial, Shinsegae Centum indoor, F1963 indoor, arario indoor — games are indoor anyway.
+- **Energy swap bank:** Buffers Day 7 / Day 12 / Day 19 — raid these first; Cheonan’s Nov 8 14:00 is the only must-keep.
+
+> Sample plan for review — verify every date, price, hour, and policy with the official provider before booking. Cheonan home fixtures per research/sources/fun/events.csv (confirmed via kleague.com/kovo.co.kr) — re-check late Sep/early Oct 2026.
