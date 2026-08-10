@@ -1,0 +1,37 @@
+{
+  "last_updated": "2026-08-03",
+  "contingency_plans": [
+    {
+      "city": "Seoul",
+      "weather_condition": "Rain / Cold Wind",
+      "plan_a": "Gyeongbokgung Palace & Bukchon Walking Tour",
+      "plan_b": "The Hyundai Seoul (Yeouido) Indoor Botanical Mall & National Museum of Korea",
+      "transit_mode": "Subway Line 5 (Yeouinaru Station) / Line 4 (Ichon Underground Walkway)",
+      "why_better": "Both venues are connected directly to subway exits via covered underground tunnels—zero rain exposure!"
+    },
+    {
+      "city": "Seoul",
+      "weather_condition": "Heavy Crowds (Weekend Peak Foliage)",
+      "plan_a": "Nami Island / Gapyeong (Saturday/Sunday)",
+      "plan_b": "Suwon Hwaseong Fortress or Eunpyeong Hanok Village",
+      "transit_mode": "ITX-Saemaeul Train (30 min) or Subway Line 3 + Bus #7211",
+      "why_better": "Nami Island ferry lines on November weekends can exceed 45 minutes. Suwon's 5.7 km fortress wall never feels crowded."
+    },
+    {
+      "city": "Busan",
+      "weather_condition": "Rain / High Coastal Winds",
+      "plan_a": "Taejongdae Cliff Walking & Songdo Cable Car",
+      "plan_b": "Spa Land Centum City (Luxury Korean Sauna) & Shinsegae Mall + Busan X the Sky",
+      "transit_mode": "Busan Metro Line 2 (Centum City Station - Underground direct entrance)",
+      "why_better": "Spa Land is an 18-temperature therapeutic hot spring sauna inside the world's largest department store."
+    },
+    {
+      "city": "Gyeongju",
+      "weather_condition": "Rain",
+      "plan_a": "Outdoor Daereungwon Burial Mounds & Cycling",
+      "plan_b": "Gyeongju National Museum & Hwangnyongwon Tea Pavilion",
+      "transit_mode": "Kakao T Taxi (~6,000 KRW) or Bus #10 / #11",
+      "why_better": "World-class Silla gold crowns and artifacts indoors."
+    }
+  ]
+}

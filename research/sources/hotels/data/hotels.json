@@ -1,0 +1,2444 @@
+{
+  "trip": {
+    "title": "South Korea Trip — Seoul · Gyeongju · Busan",
+    "checkIn": "2026-10-31",
+    "checkOut": "2026-11-22",
+    "nights": 22,
+    "note": "Oct 31 – Nov 22, 2026 (22 nights). Autumn shoulder season — leaf-peeping, mild temps, lighter crowds than summer, and generally better hotel rates than spring high season. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
+  },
+  "split": {
+    "recommended": "Seoul 8 nights (Oct 31–Nov 8) · Gyeongju 6 nights (Nov 8–Nov 14) · Busan 8 nights (Nov 14–Nov 22)",
+    "rationale": "Seoul is the biggest city and main transport hub, so bookending the trip there is practical. Gyeongju is compact (5–7 nights = relaxed pace + day trips to Bulguksa & Yangdong Village). Busan is large and spread across two personalities (Haeundae beachside vs. Nampo old town), so 7–9 nights lets you split between neighborhoods.",
+    "alternatives": [
+      "More Seoul: 10 / 4 / 8 (Gyeongju trimmed to a long weekend)",
+      "More Gyeongju: 8 / 7 / 7 (relaxed heritage immersion)"
+    ]
+  },
+  "hotels": [
+    {
+      "id": "seoul-l7-myeongdong",
+      "city": "Seoul",
+      "name": "L7 MYEONGDONG by LOTTE HOTELS",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Myeongdong (central Seoul)",
+      "neighborhood": "Myeongdong shopping district, 2-min walk to Myeongdong Station (Line 4)",
+      "priceFrom": 150,
+      "priceTo": 210,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Early check-in / late check-out subject to availability & charge.",
+        "Free Wi-Fi throughout. No pool. Pets not allowed.",
+        "Breakfast available (American & Asian options)."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe Double",
+          "price": "$150–185/night",
+          "note": "Most popular; city/Namsan view",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Corner Deluxe",
+          "price": "$185–210/night",
+          "note": "Corner windows, more light",
+          "bed": "king/queen",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe Twin",
+          "price": "$160–195/night",
+          "note": "Two beds for sharing",
+          "bed": "twin",
+          "oneBed": false,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": false
+        }
+      ],
+      "promos": [
+        "LOTTE Members: sign up free for member-only rates and reward points (L7 is a Lotte Hotels brand).",
+        "L7 runs periodic 'Flash Deals' and room packages (e.g. N Seoul Tower observatory + cable-car tickets) — check the hotel's Official Offers page.",
+        "Booking direct on lottehotel.com unlocks member packages not shown on OTAs."
+      ],
+      "amenities": [
+        "Fitness center",
+        "Rooftop bar/lounge",
+        "Laundry",
+        "Convenience store"
+      ],
+      "officialUrl": "https://www.lottehotel.com/myeongdong-l7/en/main.html",
+      "officialLabel": "Official site (lottehotel.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/L7-Myeongdong-by-Lotte-Hotels",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best-value 'design-lifestyle' Lotte hotel in the heart of Myeongdong. Trendy, great location, member perks.",
+      "highlights": [
+        "2-min walk to Myeongdong Station",
+        "Rooftop sky terrace",
+        "LOTTE member rates & packages"
+      ],
+      "fits": true,
+      "fitReason": "Queen deluxe · Myeongdong Stn ~2 min",
+      "lat": 37.5612,
+      "lng": 126.987,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "2 min walk to Myeongdong Station"
+    },
+    {
+      "id": "seoul-nine-tree",
+      "city": "Seoul",
+      "name": "Nine Tree by Parnas Seoul Myeongdong 1",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Myeongdong",
+      "neighborhood": "2-min walk to Myeongdong Station Exit 8; near Seoul Airport Limousine bus stops",
+      "priceFrom": 100,
+      "priceTo": 145,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free in-room Wi-Fi.",
+        "No on-site pool. Standard Korean 3-star business-hotel rules."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$92–105/night",
+          "note": "Entry level, compact",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Double",
+          "price": "$105–118/night",
+          "note": "Most booked",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$120–138/night",
+          "note": "Larger, corner options",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Parnas Nine Tree runs seasonal 'early-bird' and multi-night stay deals on its official site.",
+        "Often cheaper than 4-star neighbors while delivering clean, reliable quality — a top value pick."
+      ],
+      "amenities": [
+        "Gym",
+        "Restaurant",
+        "Laundry",
+        "Business center"
+      ],
+      "officialUrl": "https://www.ninetreehotel.com/eng/myeongdong1/main.do",
+      "officialLabel": "Official site (ninetreehotel.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Nine-Tree-by-Parnas-Seoul-Myeongdong-1",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Consistently recommended mid-range value pick — clean, modern, unbeatable Myeongdong location.",
+      "highlights": [
+        "2-min walk to station",
+        "Airport-limousine bus steps away",
+        "Great value per square foot"
+      ],
+      "fits": true,
+      "fitReason": "Double/Deluxe · Myeongdong Stn ~1 min",
+      "lat": 37.5603,
+      "lng": 126.9835,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "1 min walk to Myeongdong Station"
+    },
+    {
+      "id": "seoul-ibis-styles",
+      "city": "Seoul",
+      "name": "Ibis Styles Ambassador Seoul Myeongdong",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Myeongdong",
+      "neighborhood": "Central Myeongdong; within walking distance of N Seoul Tower cable car & airport limousine stops",
+      "priceFrom": 90,
+      "priceTo": 130,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Free breakfast included (typical Ibis Styles perk).",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$90–110/night",
+          "note": "Compact, free breakfast",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Superior",
+          "price": "$110–130/night",
+          "note": "More space, quiet floors",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Accor ALL loyalty program — earn points & member rates; complimentary drink/upgrade potential for ALL members.",
+        "Watch Accor ALL 'members flash sales' for up to 50%-off 'Private Sales'.",
+        "Rooms are compact but clean & functional — great price-to-quality."
+      ],
+      "amenities": [
+        "Free breakfast",
+        "Roof terrace",
+        "Top-floor restaurant",
+        "Free Wi-Fi"
+      ],
+      "officialUrl": "https://all.accor.com/hotel/1976/index.en.shtml",
+      "officialLabel": "Official site (all.accor.com / Accor ALL)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Ibis-Styles-Ambassador-Seoul-Myeongdong",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best budget-quality balance: free breakfast, central location, reliable Accor standard.",
+      "highlights": [
+        "Free breakfast",
+        "Roof terrace views",
+        "Accor ALL points"
+      ],
+      "fits": true,
+      "fitReason": "Double · Myeongdong Stn ~3 min",
+      "lat": 37.5614,
+      "lng": 126.9838,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false,
+      "stationWalkTime": "3 min walk to Myeongdong Station"
+    },
+    {
+      "id": "seoul-ibis-insadong",
+      "city": "Seoul",
+      "name": "Ibis Ambassador Insadong (newly refurbished)",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Insadong / Jongno (historic & arts district)",
+      "neighborhood": "Overlooks Ikseon-dong Hanok village; walkable to Gyeongbokgung, Bukchon & Jogyesa",
+      "priceFrom": 110,
+      "priceTo": 155,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Recently refurbished modern rooms.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard",
+          "price": "$110–130/night",
+          "note": "Fresh post-renovation rooms",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Superior",
+          "price": "$130–155/night",
+          "note": "Hanok village view",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Accor ALL membership benefits & member-only rates.",
+        "Newly renovated — currently strong value vs. legacy competitors in the area."
+      ],
+      "amenities": [
+        "Gym",
+        "Restaurant",
+        "Free Wi-Fi",
+        "Laundry"
+      ],
+      "officialUrl": "https://all.accor.com/hotel/1888/index.en.shtml",
+      "officialLabel": "Official site (all.accor.com / Accor ALL)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Ibis-Ambassador-Insadong",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Freshly renovated mid-range hotel in the most atmospheric old-city district, near palaces & hanok villages.",
+      "highlights": [
+        "Newly refurbished",
+        "Ikseon-dong hanok views",
+        "Near palaces & museums"
+      ],
+      "fits": true,
+      "fitReason": "Superior double · Anguk Stn ~5 min",
+      "lat": 37.5742,
+      "lng": 126.9832,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true
+    },
+    {
+      "id": "seoul-four-seasons",
+      "city": "Seoul",
+      "name": "Four Seasons Hotel Seoul",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Gwanghwamun (historic heart)",
+      "neighborhood": "Steps from Gwanghwamun & Gyeongbokgung Palace; museum/gallery district",
+      "priceFrom": 420,
+      "priceTo": 640,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Standard Four Seasons service standards & flexible cancellation on flexible rates.",
+        "On-site restaurants & bars incl. Yu Yuan (Michelin-star Cantonese) & Charles H. speakeasy."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe",
+          "price": "$420–500/night",
+          "note": "Palace/city view",
+          "bed": "king/queen",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Premier",
+          "price": "$500–640/night",
+          "note": "Larger, upgraded view",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Best Rate Guarantee when booking direct on fourseasons.com.",
+        "Seasonal packages (e.g. spa, dining, sightseeing) on the official Offers page."
+      ],
+      "amenities": [
+        "Indoor pool",
+        "Spa",
+        "Michelin-star dining",
+        "Gym",
+        "Kids club"
+      ],
+      "officialUrl": "https://www.fourseasons.com/seoul/",
+      "officialLabel": "Official site (fourseasons.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Four-Seasons-Seoul",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Top-tier luxury with palace views — the splurge option if budget allows a few nights.",
+      "highlights": [
+        "Gyeongbokgung Palace views",
+        "Michelin dining",
+        "Best-rate guarantee direct booking"
+      ],
+      "fits": true,
+      "fitReason": "King/queen deluxe · Gwanghwamun Stn ~5 min",
+      "lat": 37.5702,
+      "lng": 126.9742,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "seoul-fairmont",
+      "city": "Seoul",
+      "name": "Fairmont Ambassador Seoul",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Yeouido (financial district, Han River)",
+      "neighborhood": "On the Han River; beside The Hyundai Seoul luxury mall",
+      "priceFrom": 300,
+      "priceTo": 430,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Fairmont is part of Accor's ALL loyalty program."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe King",
+          "price": "$300–360/night",
+          "note": "City view",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Corner Deluxe",
+          "price": "$360–430/night",
+          "note": "Han River view",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Fairmont is part of Accor's ALL loyalty program.",
+        "Look for Accor ALL member rates & packages on the official site.",
+        "Best-rate guarantee when booking direct."
+      ],
+      "amenities": [
+        "Indoor pool",
+        "Spa",
+        "Multiple restaurants & bars",
+        "Gym"
+      ],
+      "officialUrl": "https://www.fairmont.com/seoul/",
+      "officialLabel": "Official site (fairmont.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Fairmont-Ambassador-Seoul",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Modern luxury on the river in Yeouido — great if you like malls & a calmer, polished base.",
+      "highlights": [
+        "Han River location",
+        "The Hyundai Seoul next door",
+        "Accor ALL points"
+      ],
+      "fits": true,
+      "fitReason": "Deluxe king · Yeouinaru Stn ~8 min",
+      "lat": 37.526,
+      "lng": 126.9275,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "busan-shilla-stay",
+      "city": "Busan",
+      "name": "Shilla Stay Busan Haeundae",
+      "tier": "budget",
+      "stars": 4,
+      "area": "Haeundae (beach)",
+      "neighborhood": "Near Haeundae Beach & BEXCO; convenient to public transport",
+      "priceFrom": 72,
+      "priceTo": 115,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Children of any age welcome; guests 18+ charged as adults.",
+        "Minimum check-in age 20. No pets. No cots/extra beds.",
+        "Free Wi-Fi & free parking available."
+      ],
+      "rooms": [
+        {
+          "name": "Standard",
+          "price": "$70–88/night",
+          "note": "Entry level",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$72–95/night",
+          "note": "Good value upgrade",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Premier",
+          "price": "$90–108/night",
+          "note": "Higher floors / beach side",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Family Twin",
+          "price": "$100–118/night",
+          "note": "Two beds, family-friendly",
+          "bed": "twin",
+          "oneBed": false,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": false
+        }
+      ],
+      "promos": [
+        "Shilla Rewards membership — earn points (3% room / 1% F&B) & tier perks across Shilla Stay & Shilla hotels.",
+        "Watch official site for member-only rates & packages."
+      ],
+      "amenities": [
+        "Pool",
+        "Gym",
+        "Free parking",
+        "Free Wi-Fi",
+        "Laundry"
+      ],
+      "officialUrl": "https://www.shillastay.com/haeundae/main.do?lang=en",
+      "officialLabel": "Official site (shillastay.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/Shilla-Stay-Haeundae",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "The most-booked, best-value beachside pick in Busan — reliable Shilla quality at a great price.",
+      "highlights": [
+        "Near Haeundae Beach & BEXCO",
+        "Free parking & Wi-Fi",
+        "Shilla Rewards points"
+      ],
+      "fits": true,
+      "fitReason": "Queen/King · Haeundae Stn ~5-9 min",
+      "lat": 35.1601,
+      "lng": 129.1587,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "5-9 min walk to Haeundae Station"
+    },
+    {
+      "id": "busan-l7-haeundae",
+      "city": "Busan",
+      "name": "L7 HAEUNDAE by LOTTE HOTELS",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Haeundae (beach)",
+      "neighborhood": "Beachfront Haeundae; walk to Gwangan Bridge views",
+      "priceFrom": 115,
+      "priceTo": 165,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi. No pets.",
+        "Breakfast available."
+      ],
+      "rooms": [
+        {
+          "name": "Standard",
+          "price": "$115–140/night",
+          "note": "City view",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$140–165/night",
+          "note": "Sea / Gwangan view",
+          "bed": "double/queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "LOTTE Members member-only rates & packages.",
+        "Infinity pool & heated jacuzzi are a highlight — check if included in your rate."
+      ],
+      "amenities": [
+        "Infinity pool",
+        "Heated jacuzzi",
+        "Gym",
+        "Restaurant",
+        "Laundry"
+      ],
+      "officialUrl": "https://www.lottehotel.com/haeundae-l7/en/main.html",
+      "officialLabel": "Official site (lottehotel.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/L7-Haeundae-by-Lotte",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Trendy beachfront L7 with a rooftop infinity pool — superb mid-range splurge near the beach.",
+      "highlights": [
+        "Rooftop infinity pool",
+        "Beachfront Haeundae",
+        "LOTTE member perks"
+      ],
+      "fits": true,
+      "fitReason": "Deluxe double · Haeundae Stn ~10 min",
+      "lat": 35.1565,
+      "lng": 129.1555,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "10 min walk to Haeundae Station"
+    },
+    {
+      "id": "busan-asti",
+      "city": "Busan",
+      "name": "ASTI Hotel Busan Station",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Busan Station (Dong-gu)",
+      "neighborhood": "Steps from KTX Busan Station & Chinatown; harbour views",
+      "priceFrom": 80,
+      "priceTo": 120,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Rooftop restaurant & harbour views.",
+        "Convenient if arriving/departing by KTX high-speed rail."
+      ],
+      "rooms": [
+        {
+          "name": "Standard",
+          "price": "$72–90/night",
+          "note": "Compact, harbour view",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$90–110/night",
+          "note": "Larger, popular",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Executive",
+          "price": "$120–145/night",
+          "note": "Top floors / suite feel",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Official site often lists early-bird & length-of-stay discounts.",
+        "Excellent value 4-star — a strong price-to-quality choice near the station."
+      ],
+      "amenities": [
+        "Rooftop restaurant",
+        "Gym",
+        "Free Wi-Fi",
+        "Business center"
+      ],
+      "officialUrl": "https://www.astihotel.com",
+      "officialLabel": "Official site (astihotel.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/ASTI-Hotel-Busan-Station",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Modern 4-star next to KTX station — ideal for the day you arrive/leave by train, great value.",
+      "highlights": [
+        "Steps from KTX",
+        "Rooftop harbour views",
+        "Strong value"
+      ],
+      "fits": true,
+      "fitReason": "Double/King · Busan Stn ~1 min",
+      "lat": 35.1162,
+      "lng": 129.0417,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false,
+      "stationWalkTime": "1 min walk to Busan Station"
+    },
+    {
+      "id": "busan-grand-josun",
+      "city": "Busan",
+      "name": "Grand Josun Busan",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Haeundae (beachfront)",
+      "neighborhood": "Directly on Haeundae Beach, sea-facing",
+      "priceFrom": 180,
+      "priceTo": 270,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Grand Josun is part of The Josun Hotels brand (Lotte affiliate).",
+        "Free breakfast options; best-rate guarantee on official site."
+      ],
+      "rooms": [
+        {
+          "name": "Superior",
+          "price": "$133–165/night",
+          "note": "Entry 5-star, city view",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$150–185/night",
+          "note": "Popular, partial sea view",
+          "bed": "double/queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "King",
+          "price": "$180–220/night",
+          "note": "Sea view",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Premier",
+          "price": "$220–270/night",
+          "note": "Beachfront premium",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "The Josun Hospitality membership (Josun Rewards / Lotte-affiliated perks).",
+        "Book direct on josun.com for best-rate guarantee & packages."
+      ],
+      "amenities": [
+        "Indoor pool",
+        "Spa & sauna",
+        "Beach access",
+        "Multiple restaurants",
+        "Gym"
+      ],
+      "officialUrl": "https://www.josun.com/eng/hotel/main/index.do",
+      "officialLabel": "Official site (josun.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/Grand-Josun-Busan",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Excellent value 5-star beachfront — a rare case where premium is nearly mid-range priced.",
+      "highlights": [
+        "Haeundae Beachfront",
+        "5-star at 4-star prices",
+        "Pool & spa"
+      ],
+      "fits": true,
+      "fitReason": "King · Haeundae Stn ~7-10 min",
+      "lat": 35.1572,
+      "lng": 129.1626,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "busan-park-hyatt",
+      "city": "Busan",
+      "name": "Park Hyatt Busan",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Haeundae (marine city)",
+      "neighborhood": "Haeundae Marine City with Gwangan Bridge & marina views",
+      "priceFrom": 220,
+      "priceTo": 320,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "World of Hyatt program — earn/night points & member rates.",
+        "Spa, gym, indoor pool."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe King",
+          "price": "$220–260/night",
+          "note": "Marina/Gwangan view",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Grand Deluxe",
+          "price": "$260–320/night",
+          "note": "Larger, corner",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Single king bed (not two beds pushed together)",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "World of Hyatt member rates & points.",
+        "Book direct on hyatt.com for best-rate guarantee."
+      ],
+      "amenities": [
+        "Indoor pool",
+        "Spa",
+        "Fine dining",
+        "Marina views",
+        "Gym"
+      ],
+      "officialUrl": "https://www.hyatt.com/park-hyatt/busan",
+      "officialLabel": "Official site (hyatt.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/Park-Hyatt-Busan",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Sleek luxury overlooking the marina & Gwangan Bridge — the premium pick with loyalty value.",
+      "highlights": [
+        "Gwangan Bridge views",
+        "World of Hyatt points",
+        "Marina location"
+      ],
+      "fits": true,
+      "fitReason": "Deluxe king · Dongbaek Stn ~8 min",
+      "lat": 35.1528,
+      "lng": 129.1496,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "gyeongju-hwangnamkwan",
+      "city": "Gyeongju",
+      "name": "Hwangnamkwan Hanok Hotel (황남관 한옥호텔)",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Gyeongju Old Town (Hwangnam-dong)",
+      "neighborhood": "Inside the historic hanok village near Cheomseongdae & the ancient tomb complex",
+      "priceFrom": 80,
+      "priceTo": 130,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Hanok (traditional Korean) accommodation — ondol heated floors.",
+        "Book early: Gyeongju Old Town options sell out fast.",
+        "Free Wi-Fi in most rooms."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Hanok",
+          "price": "$80–105/night",
+          "note": "Traditional room, ondol",
+          "bed": "ondol",
+          "oneBed": true,
+          "bedNote": "Ondol floor bedding",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Deluxe Hanok",
+          "price": "$105–130/night",
+          "note": "Larger, courtyard view",
+          "bed": "ondol",
+          "oneBed": true,
+          "bedNote": "Ondol floor bedding",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        }
+      ],
+      "promos": [
+        "Best overall cultural-value pick — traditional Korean experience without a luxury price tag.",
+        "Hanbok rental & atmosphere included in stay; watch for seasonal packages."
+      ],
+      "amenities": [
+        "Hanok courtyard",
+        "Ondol floors",
+        "Hanbok rental",
+        "Free Wi-Fi"
+      ],
+      "officialUrl": "https://www.hwangnamkwan.co.kr",
+      "officialLabel": "Official site (hwangnamkwan.co.kr)",
+      "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/Hwangnamkwan-Hanok-Hotel",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "The iconic central hanok stay — the cultural centerpiece of a Gyeongju visit.",
+      "highlights": [
+        "Authentic hanok",
+        "Old Town center",
+        "Hanbok rental"
+      ],
+      "fits": false,
+      "fitReason": "Hanok ondol beds · no subway in Gyeongju",
+      "lat": 35.8364,
+      "lng": 129.2286,
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "gyeongju-commodore",
+      "city": "Gyeongju",
+      "name": "Commodore Hotel Gyeongju",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Bomun Lake Resort",
+      "neighborhood": "Bomun Tourist Complex by Bomun Lake; 20+ yrs established",
+      "priceFrom": 90,
+      "priceTo": 140,
+      "currency": "USD",
+      "checkIn": "14:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 14:00; check-out by 12:00 (per Korea Tourism Org).",
+        "Children not allowed in some room types; extra bed for adults KRW 36,300/night.",
+        "No pets. Breakfast available (separate charge).",
+        "262 rooms; 20-min walk around Bomun Lake."
+      ],
+      "rooms": [
+        {
+          "name": "Superior",
+          "price": "$66–80/night",
+          "note": "Entry level",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Superior",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Deluxe",
+          "price": "$80–95/night",
+          "note": "Most popular",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Deluxe",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Double (lake view)",
+          "price": "$100–130/night",
+          "note": "Bomun Lake-facing",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Lake-view double",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        }
+      ],
+      "promos": [
+        "Official site (commodorehotel.co.kr) often runs seasonal lake-view & length-of-stay packages.",
+        "Good-value established resort with outdoor pool (seasonal)."
+      ],
+      "amenities": [
+        "Outdoor pool (seasonal)",
+        "Sauna",
+        "Tennis court",
+        "Korean & Japanese restaurants",
+        "Business center"
+      ],
+      "officialUrl": "https://www.commodorehotel.co.kr",
+      "officialLabel": "Official site (commodorehotel.co.kr)",
+      "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/Commodore-Hotel-Gyeongju",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Solid Bomun-area value resort close to the lake walking path — a reliable mid-range base.",
+      "highlights": [
+        "Bomun Lake location",
+        "Outdoor pool & sauna",
+        "Established & reliable"
+      ],
+      "fits": false,
+      "fitReason": "No subway in Gyeongju",
+      "lat": 35.8265,
+      "lng": 129.244,
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "gyeongju-lahan",
+      "city": "Gyeongju",
+      "name": "Lahan Select Gyeongju",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Bomun Lake Resort",
+      "neighborhood": "Bomun Lake waterfront; lake & mountain views",
+      "priceFrom": 130,
+      "priceTo": 190,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Lahan is a premium hotel brand (lottery/hotel group).",
+        "Free Wi-Fi; multiple dining venues."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe",
+          "price": "$100–120/night",
+          "note": "Entry, lake/mountain view",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Deluxe",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Double",
+          "price": "$108–130/night",
+          "note": "Most booked",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Double",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Queen",
+          "price": "$120–150/night",
+          "note": "Larger, lake front",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Queen",
+          "bedType": "queen",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "queen (approx 140-180cm wide)"
+        }
+      ],
+      "promos": [
+        "Lahan official site offers member rates & packages (e.g. 'LAHAN STAY' breakfast package).",
+        "Best-value 'premium' lakefront option in Gyeongju."
+      ],
+      "amenities": [
+        "Pool",
+        "Spa & sauna",
+        "Lake-view rooms",
+        "Restaurants",
+        "Gym",
+        "Kids area"
+      ],
+      "officialUrl": "https://www.lahan.com/gyeongju/en/main.do",
+      "officialLabel": "Official site (lahan.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/Lahan-Select-Gyeongju",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Modern luxury on Bomun Lake — premium feel at an approachable price.",
+      "highlights": [
+        "Bomun Lake views",
+        "Modern 5-star",
+        "Great premium value"
+      ],
+      "fits": false,
+      "fitReason": "No subway in Gyeongju",
+      "lat": 35.8332,
+      "lng": 129.2402,
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "gyeongju-hilton",
+      "city": "Gyeongju",
+      "name": "Hilton Gyeongju",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Bomun Lake Resort",
+      "neighborhood": "484-7 Bomun-ro; near Wooyang Museum of Contemporary Art & K-POP Museum",
+      "priceFrom": 140,
+      "priceTo": 220,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00–23:59; check-out by 11:00.",
+        "Children older than 1 year welcome; no cots/extra beds.",
+        "No pets. Groups (9+ rooms) have different policies.",
+        "24-hour front desk, valet parking, currency exchange."
+      ],
+      "rooms": [
+        {
+          "name": "King",
+          "price": "$125–140/night",
+          "note": "Entry",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "King",
+          "bedType": "king",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "king (approx 140-180cm wide)"
+        },
+        {
+          "name": "Deluxe",
+          "price": "$140–165/night",
+          "note": "Most popular",
+          "bed": "double/queen",
+          "oneBed": true,
+          "bedNote": "Deluxe",
+          "bedType": "queen",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "queen (approx 140-180cm wide)"
+        },
+        {
+          "name": "Standard (twin)",
+          "price": "$150–185/night",
+          "note": "Two beds",
+          "bed": "twin",
+          "oneBed": false,
+          "bedNote": "Two beds",
+          "bedType": "double",
+          "oneBedOnly": false,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Executive",
+          "price": "$250–380/night",
+          "note": "Lounge access / suite",
+          "bed": "king",
+          "oneBed": true,
+          "bedNote": "Executive",
+          "bedType": "king",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "king (approx 140-180cm wide)"
+        }
+      ],
+      "promos": [
+        "Hilton Honors points & member rates — book direct on hilton.com for best-rate guarantee.",
+        "Indoor & outdoor pools, water slide, kids' play areas."
+      ],
+      "amenities": [
+        "Indoor & outdoor pools",
+        "Kids' pool",
+        "Water slide",
+        "Spa & sauna",
+        "Restaurants",
+        "Fitness",
+        "Valet parking"
+      ],
+      "officialUrl": "https://www.hilton.com/en/hotels/kyjgyhi-hilton-gyeongju/",
+      "officialLabel": "Official site (hilton.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/Hilton-Gyeongju",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Big resort-style international hotel with pools & family amenities — premium with loyalty value.",
+      "highlights": [
+        "Resort pools & water slide",
+        "Hilton Honors points",
+        "Family-friendly"
+      ],
+      "fits": false,
+      "fitReason": "No subway in Gyeongju",
+      "lat": 35.8401,
+      "lng": 129.2861,
+      "hasOnSiteLaundry": false
+    },
+    {
+      "id": "gyeongju-gg-hotel",
+      "city": "Gyeongju",
+      "name": "GG Hotel Gyeongju",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Gyeongju city center",
+      "neighborhood": "Near Gyeongju Intercity Bus Terminal; central & walkable",
+      "priceFrom": 55,
+      "priceTo": 75,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00 (typical).",
+        "Clean, central, traveler-friendly budget hotel.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$55–66/night",
+          "note": "Compact, central",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Standard Double",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        },
+        {
+          "name": "Deluxe",
+          "price": "$66–78/night",
+          "note": "More space",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Deluxe",
+          "bedType": "double",
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedSize": "double (approx 140-180cm wide)"
+        }
+      ],
+      "promos": [
+        "One of the best budget value picks — clean & central for a very low price.",
+        "Book early — budget rooms in Gyeongju sell out during peak periods."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry",
+        "24-hr reception"
+      ],
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/GG-Hotel-Gyeongju",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Clean, central, very affordable — the smart budget base in Gyeongju.",
+      "highlights": [
+        "Central",
+        "Budget-friendly",
+        "Clean & reliable"
+      ],
+      "fits": false,
+      "fitReason": "No subway in Gyeongju",
+      "lat": 35.84,
+      "lng": 129.2116,
+      "hasOnSiteLaundry": true
+    },
+    {
+      "id": "cheonan-shilla-stay",
+      "city": "Cheonan",
+      "name": "Shilla Stay Cheonan",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Cheonan Station / Bus Terminal",
+      "neighborhood": "Central Cheonan near Cheonan Station and bus terminal; easy access to KTX via short taxi or subway",
+      "priceFrom": 65,
+      "priceTo": 95,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi throughout. Free parking available.",
+        "Children welcome; standard Shilla Stay policies apply."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$65–80/night",
+          "note": "Most popular entry level",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$75–95/night",
+          "note": "Larger room, popular upgrade",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Shilla Rewards membership — earn points (3% room / 1% F&B) across Shilla Stay properties.",
+        "Often has member-only rates and breakfast packages on the official site."
+      ],
+      "amenities": [
+        "Fitness center",
+        "Restaurant",
+        "Bar / lounge",
+        "Free Wi-Fi",
+        "Laundry",
+        "Business center"
+      ],
+      "officialUrl": "https://www.shillastay.com/cheonan/main.do?lang=en",
+      "officialLabel": "Official site (shillastay.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Shilla-Stay-Cheonan",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best overall value and reliability — trusted Shilla brand at a much lower price than Seoul or Busan.",
+      "highlights": [
+        "Excellent reviews (8.3–8.4/10)",
+        "Gym + restaurant on site",
+        "Very convenient central location"
+      ],
+      "fits": true,
+      "fitReason": "Queen/Double · Cheonan Station ~5–10 min walk or short taxi",
+      "lat": 36.8257,
+      "lng": 127.1433,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "8 min walk to Cheonan Station"
+    },
+    {
+      "id": "cheonan-ramada-encore",
+      "city": "Cheonan",
+      "name": "Ramada Encore by Wyndham Cheonan",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Central Cheonan",
+      "neighborhood": "Convenient central location with easy access to Cheonan Station and shopping",
+      "priceFrom": 60,
+      "priceTo": 90,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Free Wi-Fi. Parking available.",
+        "Breakfast often included or available as package."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$60–75/night",
+          "note": "Clean and functional",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$70–90/night",
+          "note": "Larger with better views",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Wyndham Rewards program — earn points and member rates.",
+        "Frequent breakfast packages and early-bird deals."
+      ],
+      "amenities": [
+        "Restaurant",
+        "Free Wi-Fi",
+        "Laundry",
+        "Business center"
+      ],
+      "officialUrl": "https://www.wyndhamhotels.com/ramada/cheonan-south-korea/ramada-encore-cheonan/overview",
+      "officialLabel": "Official site (wyndhamhotels.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Ramada-Encore-Cheonan",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Strong value mid-range chain with consistent quality and good breakfast reviews.",
+      "highlights": [
+        "8.3/10 average rating",
+        "Great breakfast options",
+        "Central & convenient"
+      ],
+      "fits": true,
+      "fitReason": "Double/Queen · Cheonan Station ~10 min",
+      "lat": 36.81,
+      "lng": 127.15,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "10 min walk to Cheonan Station"
+    },
+    {
+      "id": "cheonan-on-city",
+      "city": "Cheonan",
+      "name": "ON City Hotel",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Cheonan Station area",
+      "neighborhood": "Near Cheonan Station; good access to transport and local amenities",
+      "priceFrom": 55,
+      "priceTo": 80,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi. Fitness center available."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$55–68/night",
+          "note": "Entry level, clean",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$65–80/night",
+          "note": "More space",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Frequently listed as one of the best value 3-star options in Cheonan."
+      ],
+      "amenities": [
+        "Fitness center",
+        "Free Wi-Fi",
+        "Restaurant options nearby",
+        "Laundry facilities"
+      ],
+      "officialUrl": "https://www.oncityhotel.com",
+      "officialLabel": "Book via OTA (Trip.com / Booking.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/ON-City-Hotel",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Excellent budget-mid value with fitness amenities and strong guest feedback.",
+      "highlights": [
+        "Fitness center",
+        "Very affordable",
+        "Good location near station"
+      ],
+      "fits": true,
+      "fitReason": "Double/Queen · Cheonan Station ~5–8 min",
+      "lat": 36.82,
+      "lng": 127.14,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "7 min walk to Cheonan Station"
+    },
+    {
+      "id": "cheonan-sono-belle",
+      "city": "Cheonan",
+      "name": "Sono Belle Cheonan",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Cheonan area",
+      "neighborhood": "Resort-style property with good access to KTX and city center",
+      "priceFrom": 80,
+      "priceTo": 120,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi. Seasonal pool available."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe",
+          "price": "$80–100/night",
+          "note": "Standard resort room",
+          "bed": "double/queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Suite / Superior",
+          "price": "$100–120/night",
+          "note": "Larger with better views",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Higher-end option with resort amenities at still-reasonable prices."
+      ],
+      "amenities": [
+        "Pool (seasonal)",
+        "Spa",
+        "Restaurant",
+        "Gym",
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "officialUrl": "https://www.sonohotelsresorts.com",
+      "officialLabel": "Book via OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Sono-Belle-Cheonan",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best resort-style pick for a more relaxing 6-night stay while staying cost-effective.",
+      "highlights": [
+        "Pool & spa",
+        "Higher comfort level",
+        "Good value for 4-star"
+      ],
+      "fits": true,
+      "fitReason": "Queen · ~15–20 min to Cheonan-Asan KTX",
+      "lat": 36.83,
+      "lng": 127.16,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "15 min to Cheonan-Asan KTX"
+    },
+    {
+      "id": "cheonan-best-western-asan",
+      "city": "Cheonan",
+      "name": "Best Western Asan Hotel",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Cheonan-Asan Station area",
+      "neighborhood": "Very close to Cheonan-Asan KTX station — ideal for rail travelers",
+      "priceFrom": 70,
+      "priceTo": 100,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi and parking."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$70–85/night",
+          "note": "Clean chain standard",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$80–100/night",
+          "note": "Larger room",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Best Western Rewards loyalty program."
+      ],
+      "amenities": [
+        "Restaurant",
+        "Free Wi-Fi",
+        "Parking",
+        "Business center",
+        "Laundry facilities"
+      ],
+      "officialUrl": "https://www.bestwestern.com/en_US/book/hotel-details.cheonan-south-korea.html",
+      "officialLabel": "Official site (bestwestern.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Best-Western-Asan-Hotel",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best location for pure KTX convenience — right by the high-speed station.",
+      "highlights": [
+        "Closest to Cheonan-Asan KTX",
+        "Reliable international chain",
+        "Parking included"
+      ],
+      "fits": true,
+      "fitReason": "Double/Queen · Cheonan-Asan KTX ~5–8 min walk",
+      "lat": 36.84,
+      "lng": 127.13,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "5 min walk to Cheonan-Asan KTX"
+    },
+    {
+      "id": "daejeon-toyoko-inn",
+      "city": "Daejeon",
+      "name": "Toyoko Inn Daejeon Government Complex",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Government Complex / Dunsan",
+      "neighborhood": "Near Government Complex Daejeon Metro Station; convenient for business and central access",
+      "priceFrom": 48,
+      "priceTo": 70,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 10:00.",
+        "Free breakfast often included. Free Wi-Fi.",
+        "Reliable Japanese chain known for consistency."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$48–60/night",
+          "note": "Compact, clean, functional",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$55–70/night",
+          "note": "Slightly larger",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Frequent free breakfast promotion for direct or member bookings.",
+        "Toyoko Inn loyalty program benefits."
+      ],
+      "amenities": [
+        "Free breakfast (often)",
+        "Free Wi-Fi",
+        "Laundry",
+        "Business center"
+      ],
+      "officialUrl": "https://www.toyoko-inn.com/eng/hotel/00235/index.html",
+      "officialLabel": "Official site (toyoko-inn.com)",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Toyoko-Inn-Daejeon-Government-Complex",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best budget/reliable chain option — excellent value with consistent quality and often free breakfast.",
+      "highlights": [
+        "Frequently includes breakfast",
+        "Very affordable",
+        "Good central location"
+      ],
+      "fits": true,
+      "fitReason": "Double · Government Complex Stn ~3–5 min",
+      "lat": 36.35,
+      "lng": 127.38,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "6 min walk to Daejeon Station"
+    },
+    {
+      "id": "daejeon-ramada",
+      "city": "Daejeon",
+      "name": "Ramada by Wyndham Daejeon",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Central Daejeon",
+      "neighborhood": "Good access to Daejeon Station and city center",
+      "priceFrom": 65,
+      "priceTo": 95,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Free Wi-Fi. Fitness center available."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$65–80/night",
+          "note": "Clean mid-range standard",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$75–95/night",
+          "note": "Larger room",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Wyndham Rewards points and member rates."
+      ],
+      "amenities": [
+        "Fitness center",
+        "Restaurant",
+        "Free Wi-Fi",
+        "Business center",
+        "Laundry facilities"
+      ],
+      "officialUrl": "https://www.wyndhamhotels.com/ramada/daejeon-south-korea/ramada-daejeon/overview",
+      "officialLabel": "Book via OTA or Wyndham site",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Ramada-by-Wyndham-Daejeon",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Solid mid-range international chain option with good amenities.",
+      "highlights": [
+        "Fitness center",
+        "Reliable brand",
+        "Central location"
+      ],
+      "fits": true,
+      "fitReason": "Double/Queen · Daejeon Station area ~10–15 min",
+      "lat": 36.35,
+      "lng": 127.39,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "8 min walk to Daejeon Station"
+    },
+    {
+      "id": "daejeon-lotte-city",
+      "city": "Daejeon",
+      "name": "LOTTE City Hotel Daejeon",
+      "tier": "mid",
+      "stars": 4,
+      "area": "Yuseong / Convention area",
+      "neighborhood": "Near Daejeon Convention Center and Yuseong Hot Springs district",
+      "priceFrom": 80,
+      "priceTo": 110,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi. Multiple dining options."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe",
+          "price": "$80–95/night",
+          "note": "Popular standard room",
+          "bed": "double/queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Superior / Suite",
+          "price": "$95–110/night",
+          "note": "Larger with better views",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Lotte Rewards program benefits."
+      ],
+      "amenities": [
+        "Multiple restaurants",
+        "Gym",
+        "Free Wi-Fi",
+        "Business center",
+        "Laundry facilities"
+      ],
+      "officialUrl": "https://www.lottehotel.com/city/daejeon/en/",
+      "officialLabel": "Book via OTA or Lotte site",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/LOTTE-City-Hotel-Daejeon",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Premium-feel mid-range option near convention center and hot springs area.",
+      "highlights": [
+        "Near convention center",
+        "Good dining options",
+        "Higher comfort level"
+      ],
+      "fits": true,
+      "fitReason": "Queen · Yuseong area ~10–15 min to station",
+      "lat": 36.36,
+      "lng": 127.36,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "12 min walk to Yuseong Hot Springs area"
+    },
+    {
+      "id": "daejeon-benikea-daelim",
+      "city": "Daejeon",
+      "name": "Benikea Daelim Hotel",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Near Daejeon Station",
+      "neighborhood": "Very close to Daejeon KTX Station — ideal for rail travelers",
+      "priceFrom": 45,
+      "priceTo": 65,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi. Basic but clean."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$45–55/night",
+          "note": "Budget-friendly entry",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$52–65/night",
+          "note": "Slightly larger",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "One of the most affordable options near the station."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry"
+      ],
+      "officialUrl": "https://benikea.com",
+      "officialLabel": "Book via OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Benikea-Daelim-Hotel",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Best ultra-budget pick right by the KTX station.",
+      "highlights": [
+        "Closest to Daejeon Station",
+        "Very low price",
+        "Convenient for train travel"
+      ],
+      "fits": true,
+      "fitReason": "Double · Daejeon Station ~2–5 min walk",
+      "lat": 36.35,
+      "lng": 127.39,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "4 min walk to Daejeon Station"
+    },
+    {
+      "id": "daejeon-hotel-stendhal",
+      "city": "Daejeon",
+      "name": "Hotel Stendhal",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Yuseong / Hot Springs area",
+      "neighborhood": "Near Yuseong Hot Springs and Chungnam National University",
+      "priceFrom": 70,
+      "priceTo": 95,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$70–82/night",
+          "note": "Clean and comfortable",
+          "bed": "double",
+          "oneBed": true,
+          "bedNote": "Single double bed (not two beds pushed together)",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        },
+        {
+          "name": "Deluxe",
+          "price": "$80–95/night",
+          "note": "Popular upgrade",
+          "bed": "queen",
+          "oneBed": true,
+          "bedNote": "Single queen bed (not two beds pushed together)",
+          "bedType": "queen",
+          "bedSize": "Queen (approx 150x200cm)",
+          "privateBathroom": true,
+          "oneBedOnly": true
+        }
+      ],
+      "promos": [
+        "Popular choice for hot springs visitors."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Restaurant nearby",
+        "Laundry facilities"
+      ],
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Hotel-Stendhal",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Good mid-range option in the popular Yuseong hot springs district.",
+      "highlights": [
+        "Near hot springs",
+        "Good reviews",
+        "Relaxed area"
+      ],
+      "fits": true,
+      "fitReason": "Double/Queen · Yuseong area",
+      "lat": 36.36,
+      "lng": 127.35,
+      "priceNote": "Prices are typical 2026 estimates for standard double/queen. Check official site or OTA for live rates on your dates.",
+      "hasOnSiteLaundry": true,
+      "stationWalkTime": "10 min walk to Yuseong area"
+    },
+    {
+      "id": "cheonan-brown-dot",
+      "city": "Cheonan",
+      "name": "Cheonan Brown Dot Hotel Cheonan Station",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Cheonan Station area",
+      "neighborhood": "Very close to Cheonan Station",
+      "priceFrom": 45,
+      "priceTo": 70,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$45–58/night",
+          "note": "Budget-friendly near station",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Often one of the cheapest decent options near the station."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Cheonan-Brown-Dot-Hotel-Cheonan-Station",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Excellent budget pick right by Cheonan Station.",
+      "highlights": [
+        "Closest budget option to station",
+        "Good value"
+      ],
+      "fits": true,
+      "fitReason": "Double · Cheonan Station ~2–4 min",
+      "lat": 36.81,
+      "lng": 127.15
+    },
+    {
+      "id": "cheonan-mains",
+      "city": "Cheonan",
+      "name": "The Mains Hotel",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Central Cheonan",
+      "neighborhood": "Good central location with restaurant",
+      "priceFrom": 55,
+      "priceTo": 80,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$55–72/night",
+          "note": "Clean with restaurant on site",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Has on-site restaurant."
+      ],
+      "amenities": [
+        "Restaurant",
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/The-Mains-Hotel",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Good mid-range value with restaurant.",
+      "highlights": [
+        "On-site restaurant",
+        "Solid reviews"
+      ],
+      "fits": true,
+      "fitReason": "Double · Central Cheonan",
+      "lat": 36.82,
+      "lng": 127.15
+    },
+    {
+      "id": "daejeon-hotel-interciti",
+      "city": "Daejeon",
+      "name": "Hotel Interciti",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Yuseong area",
+      "neighborhood": "Near hot springs and university",
+      "priceFrom": 65,
+      "priceTo": 90,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$65–82/night",
+          "note": "Popular in Yuseong",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Good location near hot springs."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Hotel-Interciti",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Solid mid-range choice in the popular Yuseong district.",
+      "highlights": [
+        "Near hot springs",
+        "Good reviews"
+      ],
+      "fits": true,
+      "fitReason": "Double · Yuseong area",
+      "lat": 36.36,
+      "lng": 127.35
+    },
+    {
+      "id": "daejeon-aank-air",
+      "city": "Daejeon",
+      "name": "Aank Air Hotel Daejeon Station",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Daejeon Station area",
+      "neighborhood": "Very close to Daejeon KTX Station",
+      "priceFrom": 42,
+      "priceTo": 62,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$42–55/night",
+          "note": "Budget option near station",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "One of the cheapest decent options near the station."
+      ],
+      "amenities": [
+        "Free Wi-Fi"
+      ],
+      "hasOnSiteLaundry": false,
+      "officialUrl": null,
+      "officialLabel": "Book via OTA (no official English site)",
+      "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Aank-Air-Hotel-Daejeon-Station",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Great budget pick right by Daejeon Station.",
+      "highlights": [
+        "Closest budget option to station",
+        "Very affordable"
+      ],
+      "fits": true,
+      "fitReason": "Double · Daejeon Station ~3–5 min",
+      "lat": 36.35,
+      "lng": 127.39
+    },
+    {
+      "id": "seoul-skypark-myeongdong3",
+      "city": "Seoul",
+      "name": "Hotel Skypark Myeongdong 3",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Myeongdong",
+      "neighborhood": "Central Myeongdong, excellent location",
+      "priceFrom": 95,
+      "priceTo": 135,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$95–120/night",
+          "note": "Popular Myeongdong hotel",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Consistently high ratings for location."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": "https://www.skyparkhotel.com",
+      "officialLabel": "Book via OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/Hotel-Skypark-Myeongdong-3",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Excellent location in the heart of Myeongdong.",
+      "highlights": [
+        "Prime Myeongdong location",
+        "High guest ratings"
+      ],
+      "fits": true,
+      "fitReason": "Double · Myeongdong Stn ~3 min",
+      "lat": 37.561,
+      "lng": 126.985
+    },
+    {
+      "id": "seoul-lescape",
+      "city": "Seoul",
+      "name": "L'Escape, A Luxury Collection Hotel, Seoul Myeongdong",
+      "tier": "premium",
+      "stars": 5,
+      "area": "Myeongdong",
+      "neighborhood": "Central Myeongdong",
+      "priceFrom": 280,
+      "priceTo": 420,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "12:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 12:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Deluxe King",
+          "price": "$280–350/night",
+          "note": "Luxury Collection standard",
+          "bed": "king",
+          "bedType": "king",
+          "bedSize": "King (approx 180x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single King bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Marriott Bonvoy points."
+      ],
+      "amenities": [
+        "Gym",
+        "Restaurant",
+        "Free Wi-Fi"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": "https://www.marriott.com/hotels/travel/selak-lescape-a-luxury-collection-hotel-seoul-myeongdong/",
+      "officialLabel": "Book via Marriott or OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Seoul,c40k/LEscape-A-Luxury-Collection-Hotel-Seoul-Myeongdong",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Luxury option in prime Myeongdong location.",
+      "highlights": [
+        "Luxury Collection",
+        "Excellent location"
+      ],
+      "fits": true,
+      "fitReason": "King · Myeongdong Stn ~4 min",
+      "lat": 37.562,
+      "lng": 126.984
+    },
+    {
+      "id": "busan-toyoko-haeundae2",
+      "city": "Busan",
+      "name": "Toyoko Inn Busan Haeundae 2",
+      "tier": "budget",
+      "stars": 3,
+      "area": "Haeundae",
+      "neighborhood": "Near Haeundae Beach",
+      "priceFrom": 55,
+      "priceTo": 80,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "10:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 10:00.",
+        "Free breakfast often included."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$55–72/night",
+          "note": "Reliable budget chain near beach",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Often includes breakfast."
+      ],
+      "amenities": [
+        "Free breakfast (often)",
+        "Free Wi-Fi"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": "https://www.toyoko-inn.com/eng/search/detail/00256/",
+      "officialLabel": "Book via OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/Toyoko-Inn-Busan-Haeundae-2",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Great budget option near Haeundae Beach.",
+      "highlights": [
+        "Near beach",
+        "Often includes breakfast"
+      ],
+      "fits": true,
+      "fitReason": "Double · Haeundae area",
+      "lat": 35.16,
+      "lng": 129.16
+    },
+    {
+      "id": "busan-ramada-encore-haeundae",
+      "city": "Busan",
+      "name": "Ramada Encore by Wyndham Busan Haeundae",
+      "tier": "mid",
+      "stars": 3,
+      "area": "Haeundae",
+      "neighborhood": "Haeundae area",
+      "priceFrom": 75,
+      "priceTo": 105,
+      "currency": "USD",
+      "checkIn": "15:00",
+      "checkOut": "11:00",
+      "policies": [
+        "Check-in from 15:00; check-out by 11:00.",
+        "Free Wi-Fi."
+      ],
+      "rooms": [
+        {
+          "name": "Standard Double",
+          "price": "$75–95/night",
+          "note": "Good value in Haeundae",
+          "bed": "double",
+          "bedType": "double",
+          "bedSize": "Double (approx 140x200cm)",
+          "oneBed": true,
+          "oneBedOnly": true,
+          "privateBathroom": true,
+          "bedNote": "Single Double bed (not two beds pushed together)"
+        }
+      ],
+      "promos": [
+        "Wyndham Rewards."
+      ],
+      "amenities": [
+        "Free Wi-Fi",
+        "Laundry facilities"
+      ],
+      "hasOnSiteLaundry": true,
+      "officialUrl": "https://www.wyndhamhotels.com/ramada/busan-south-korea/ramada-encore-haeundae/overview",
+      "officialLabel": "Book via OTA",
+      "compareUrl": "https://www.kayak.com/hotels/Busan,c41830/Ramada-Encore-by-Wyndham-Busan-Haeundae",
+      "compareLabel": "Compare rates (KAYAK)",
+      "why": "Solid mid-range option in Haeundae.",
+      "highlights": [
+        "Good value",
+        "Reliable chain"
+      ],
+      "fits": true,
+      "fitReason": "Double · Haeundae area",
+      "lat": 35.16,
+      "lng": 129.16
+    }
+  ],
+  "meta": {
+    "pricingLastChecked": "2026-08-04",
+    "pricingSource": "Public listings from Trip.com, Booking.com, official hotel sites (estimates only)"
+  }
+}

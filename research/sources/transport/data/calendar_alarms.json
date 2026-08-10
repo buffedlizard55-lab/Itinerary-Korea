@@ -1,0 +1,77 @@
+{
+  "trip_dates": "Oct 31, 2026 - Nov 22, 2026",
+  "timezone_note": "KORAIL KTX train tickets release exactly 30 days in advance at 07:00 Korean Standard Time (KST). In San Francisco (Pacific Time), 07:00 KST is 3:00 PM Pacific Time on the previous calendar day!",
+  "booking_windows": [
+    {
+      "id": "ktx_seoul_busan",
+      "leg": "Day 8: Seoul Station -> Busan Station (KTX High-Speed Train)",
+      "travel_date": "2026-11-07",
+      "release_date_kst": "2026-10-08 07:00 KST",
+      "release_date_sf_pdt": "2026-10-07 3:00 PM PDT (San Francisco)",
+      "action_item": "Book 2 KORAIL Saver Pass seats or individual KTX tickets on KorailTalk app.",
+      "booking_url": "https://www.letskorail.com"
+    },
+    {
+      "id": "ktx_busan_gyeongju",
+      "leg": "Day 13: Busan Station -> Singyeongju Station (35-min KTX/SRT)",
+      "travel_date": "2026-11-12",
+      "release_date_kst": "2026-10-13 07:00 KST",
+      "release_date_sf_pdt": "2026-10-12 3:00 PM PDT (San Francisco)",
+      "action_item": "Reserve 2 KTX seats (or SRT tickets via website).",
+      "booking_url": "https://www.letskorail.com"
+    },
+    {
+      "id": "ktx_gyeongju_seoul",
+      "leg": "Day 16: Singyeongju Station -> Seoul Station (Return KTX)",
+      "travel_date": "2026-11-15",
+      "release_date_kst": "2026-10-16 07:00 KST",
+      "release_date_sf_pdt": "2026-10-15 3:00 PM PDT (San Francisco)",
+      "action_item": "Book return KTX tickets for Sunday afternoon travel back to Seoul.",
+      "booking_url": "https://www.letskorail.com"
+    }
+  ],
+  "checklist_items": [
+    {
+      "id": "chk_naver_map",
+      "category": "iPhone Apps",
+      "task": "Download Naver Map & KakaoMap on both iPhones and set language to English.",
+      "verified_link": "https://map.naver.com",
+      "default_checked": false
+    },
+    {
+      "id": "chk_kakao_t",
+      "category": "iPhone Apps",
+      "task": "Install Kakao T app and verify 'General Taxi -> Pay to Driver' option works without Korean credit card.",
+      "verified_link": "https://www.kakaocorp.com/page/service/service/KakaoT",
+      "default_checked": false
+    },
+    {
+      "id": "chk_wowpass",
+      "category": "Cards & Payments",
+      "task": "Review WOWPASS airport kiosk locations at Incheon Airport T1/T2 for USD cash exchange.",
+      "verified_link": "https://www.wowpass.io",
+      "default_checked": false
+    },
+    {
+      "id": "chk_climate_card",
+      "category": "Cards & Payments",
+      "task": "Plan to purchase two 5-Day Seoul Climate Cards (15,000 KRW each) for Days 1-5 in Seoul.",
+      "verified_link": "https://english.seoul.go.kr",
+      "default_checked": false
+    },
+    {
+      "id": "chk_korail_alarm",
+      "category": "KTX Trains",
+      "task": "Set calendar alarms in SF for Oct 07, Oct 12, and Oct 15 at 3:00 PM PDT to reserve KTX tickets.",
+      "verified_link": "https://www.letskorail.com",
+      "default_checked": false
+    },
+    {
+      "id": "chk_esim",
+      "category": "Connectivity",
+      "task": "Order KT / SK Telecom / LG U+ roaming eSIM QR codes for 23 days of unlimited data.",
+      "verified_link": "https://roaming.kt.com/ib/eng/main.do",
+      "default_checked": false
+    }
+  ]
+}

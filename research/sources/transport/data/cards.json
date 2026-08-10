@@ -1,0 +1,83 @@
+{
+  "last_updated": "2026-08-03",
+  "cards": [
+    {
+      "id": "t_money",
+      "name": "T-money Transit Card",
+      "type": "Essential Pay-As-You-Go IC Transit Card",
+      "price_krw": 3000,
+      "where_to_buy": "All convenience stores (CU, GS25, 7-Eleven, Emart24) and subway station ticket machines.",
+      "where_to_recharge": "Convenience stores or subway station machines (CASH ONLY in KRW for standard T-money).",
+      "coverage": "Subways, buses, taxis, and convenience stores nationwide across all of South Korea (Seoul, Busan, Gyeongju, Jeju, Jeonju).",
+      "official_site": "https://www.t-money.co.kr",
+      "best_for": "Every traveler! This is the mandatory baseline card in Korea.",
+      "sf_japan_equivalent": "Direct equivalent to SF Clipper Card or Japan Suica / Pasmo / ICOCA.",
+      "pro_tip": "Always tap ON when boarding and tap OFF when exiting buses and subways to get free/discounted transfers within 30 minutes!"
+    },
+    {
+      "id": "wowpass",
+      "name": "WOWPASS (All-in-One Tourist Prepaid Debit + T-money)",
+      "type": "All-in-One Foreigner Payment Card + Transit Card",
+      "price_krw": 5000,
+      "where_to_buy": "WOWPASS Kiosks at Incheon Airport, Seoul Station, major subway stations, and hotels.",
+      "where_to_recharge": "Insert USD/EUR/JPY/GBP cash into kiosk to top up KRW debit balance; top up T-money transit balance at convenience stores or subway machines.",
+      "coverage": "Accepted as a regular IC debit card at 99% of shops, cafes, restaurants in Korea + built-in T-money IC chip for subways/buses.",
+      "official_site": "https://www.wowpass.io",
+      "best_for": "First-time foreign tourists who want to avoid carrying stacks of KRW cash while getting competitive exchange rates.",
+      "sf_japan_equivalent": "Like a Suica card combined with an international tourist debit card.",
+      "pro_tip": "Download the official WOWPASS iPhone app to track your expenses in real-time, lock the card if lost, and get cashback at olive young / Starbucks."
+    },
+    {
+      "id": "seoul_climate_card_tourist",
+      "name": "Seoul Climate Card (Tourist Short-Term Pass - 2026)",
+      "type": "Unlimited Transit Pass for Seoul Subways & Buses",
+      "price_krw": 15000,
+      "where_to_buy": "Seoul Subway station Customer Safety Centers (Lines 1-8) and convenience stores near tourist hubs.",
+      "where_to_recharge": "Valid for 1, 2, 3, 5, or 7 consecutive days (e.g., 5-Day Pass is only 15,000 KRW = ~$10.70 USD!).",
+      "coverage": "Unlimited rides on Seoul subways and Seoul city buses (blue, green, yellow). Excludes AREX Express, Shinbundang line, and intercity buses outside Seoul.",
+      "official_site": "https://english.seoul.go.kr",
+      "best_for": "Travelers spending 3 to 7 intensive days exploring Seoul and riding transit 3+ times per day.",
+      "sf_japan_equivalent": "Like the Tokyo Subway 72-hour Ticket or SF Muni 3-Day Visitor Passport, but insanely cheap.",
+      "pro_tip": "At 15,000 KRW for 5 days, you break even after just 10 subway rides! A massive money saver for your Seoul days."
+    },
+    {
+      "id": "korail_saver_pass",
+      "name": "KORAIL Saver Pass (for Groups of 2 to 5 Travelers)",
+      "type": "Unlimited KTX & Korail Train Tourist Pass",
+      "price_krw": 121000,
+      "where_to_buy": "Official KORAIL website or verified partners (Klook, Trazy).",
+      "where_to_recharge": "2-Day Flexible (121,000 KRW/person) or 4-Day Flexible (224,000 KRW/person) for 2+ travelers.",
+      "coverage": "Unlimited KTX, ITX, and Mugunghwa train rides nationwide (excludes SRT). Includes up to 2 free seat reservations per day.",
+      "official_site": "https://www.letskorail.com",
+      "best_for": "Two travelers doing multi-city trips like Seoul -> Busan -> Gyeongju/Jeonju -> Seoul.",
+      "sf_japan_equivalent": "Direct equivalent to the Japan Rail (JR) Pass, but specifically discounted for groups of 2-5 people!",
+      "pro_tip": "If you buy individual roundtrip KTX tickets Seoul-Busan it costs ~119,600 KRW. The 2-Day Flexible Saver Pass is 121,000 KRW and lets you add additional intercity KTX legs for virtually zero extra cost!"
+    },
+    {
+      "id": "discover_seoul_pass",
+      "name": "Discover Seoul Pass (DSP)",
+      "type": "Attractions + AREX Express Train + T-money Function",
+      "price_krw": 50000,
+      "where_to_buy": "Official website, Incheon Airport kiosks, or Klook.",
+      "where_to_recharge": "24h (50,000 KRW), 48h (70,000 KRW), or 72h (90,000 KRW).",
+      "coverage": "Free entry to 70+ top attractions (Lotte World, N Seoul Tower, Gyeongbokgung Palace) + 1 free AREX Express train ticket + T-money card.",
+      "official_site": "https://www.discoverseoulpass.com",
+      "best_for": "First-time visitors who want to pack major tourist sights and airport transport into 48-72 hours.",
+      "sf_japan_equivalent": "Like the San Francisco CityPASS or Osaka Amazing Pass.",
+      "pro_tip": "Use the physical card as a permanent T-money transit card even after your 24/48/72h attraction window expires!"
+    },
+    {
+      "id": "visit_busan_pass",
+      "name": "Visit Busan Pass",
+      "type": "Busan Attractions + Transit Function",
+      "price_krw": 55000,
+      "where_to_buy": "Visit Busan Pass website, Busan Station, or Klook.",
+      "where_to_recharge": "24h Pass (55,000 KRW), 48h Pass (85,000 KRW), or Big3/Big5 Flex Pass.",
+      "coverage": "Free entry to Haeundae Blue Line Park Beach Train, Busan X the Sky, Lotte World Busan, Skyline Luge + built-in transit card.",
+      "official_site": "https://www.visitbusanpass.com",
+      "best_for": "2-3 days of coastal sightseeing in Busan.",
+      "sf_japan_equivalent": "Direct equivalent to Osaka Amazing Pass for Busan.",
+      "pro_tip": "The Haeundae Beach Train and Busan X the Sky observation deck alone cover more than 70% of the 24h pass price!"
+    }
+  ]
+}

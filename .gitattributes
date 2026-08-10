@@ -1,0 +1,2 @@
+# Keep retained printable source artifacts from being treated as textual diffs.
+*.pdf binary

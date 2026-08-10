@@ -1,0 +1,11 @@
+{
+  "last_updated": "2026-08-03",
+  "min_spend_krw": 15000,
+  "max_immediate_refund_krw": 1000000,
+  "vat_rate_percent": 7.5,
+  "rules": [
+    "Immediate Tax Refund (즉시 환급) is available at Olive Young, Lotte Mart, Uniqlo, and major department stores for purchases between 15,000 KRW and 1,000,000 KRW.",
+    "Always carry your physical passport or e-passport scan to the cashier.",
+    "If spend exceeds 1,000,000 KRW, obtain an Airport Tax Refund receipt and scan it at the Incheon Airport T1/T2 automated kiosks before security check-in."
+  ]
+}

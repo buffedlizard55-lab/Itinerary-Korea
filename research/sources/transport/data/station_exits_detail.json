@@ -1,0 +1,29 @@
+{
+  "last_updated": "2026-08-03",
+  "stations": [
+    {
+      "station_name": "Myeongdong Station (Subway Line 4)",
+      "best_luggage_exit": "Exit 7 (Escalator) or Exit 1 (Elevator)",
+      "avoid_exit": "Exit 3 / Exit 4 (Long steep stairs with no elevator)",
+      "nearby_hub": "Myeongdong Shopping Street & Namsan Bus #01 Stop"
+    },
+    {
+      "station_name": "Hongik University Station (Hongdae - Line 2 / AREX)",
+      "best_luggage_exit": "Exit 8 (Elevator) or Exit 2 (Escalator)",
+      "avoid_exit": "Exit 9 (Extreme crowd stairs)",
+      "nearby_hub": "Yeonnam-dong Gyeongui Line Forest Park & AREX All-Stop Terminal"
+    },
+    {
+      "station_name": "Seoul Station (Lines 1 & 4 / KTX / AREX)",
+      "best_luggage_exit": "Exit 15 (Elevator to KTX Concourse) or Underground Exit 1-2 (T-Luggage)",
+      "avoid_exit": "Exit 10 / Exit 11 (Long underground walking tunnels)",
+      "nearby_hub": "KTX High-Speed Rail Concourse & AREX Express Gate B2"
+    },
+    {
+      "station_name": "Busan Station (KTX / Metro Line 1)",
+      "best_luggage_exit": "KTX Exit 1 (Pedestrian Deck Elevator to Metro Line 1)",
+      "avoid_exit": "Metro Exit 3 (Stairs)",
+      "nearby_hub": "Zimcarry Luggage Desk & Express Bus #1003 to Haeundae"
+    }
+  ]
+}

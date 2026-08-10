@@ -1,0 +1,1483 @@
+{
+  "meta": {
+    "name": "Korea Compass",
+    "generatedOn": "2026-08-08",
+    "disclaimer": "This is a planning workspace assembled from the linked repositories. Prices, availability, eligibility, opening hours, visa/entry rules, transport operations, and event dates can change. Open the official link and verify critical details before booking or travel.",
+    "counts": {
+      "sources": 6,
+      "hotels": 34,
+      "food": 535,
+      "events": 110,
+      "activities": 443,
+      "places": 15,
+      "routes": 15,
+      "apps": 9,
+      "savingsGuides": 61,
+      "routeBlueprints": 2
+    }
+  },
+  "sources": [
+    {
+      "id": "transport",
+      "name": "Koreatransport",
+      "focus": "Transport, route choices, apps, cards, stations, and planning tools",
+      "url": "https://github.com/sassnarep3-star/Koreatransport/tree/arena/019fc955-koreatransport",
+      "branch": "arena/019fc955-koreatransport",
+      "commit": "251cb01079fa50b63a9193a24ca2cc9cf3bb843b",
+      "localPath": "research/sources/transport"
+    },
+    {
+      "id": "hotels",
+      "name": "Korea-hotels",
+      "focus": "Hotel comparisons, neighborhoods, rooms, and stay-planning guides",
+      "url": "https://github.com/karagemop466-tech/Korea-hotels/tree/arena/019fc93d-korea-hotels",
+      "branch": "arena/019fc93d-korea-hotels",
+      "commit": "59528de282b2d7ece5d4ad500e37b7504bb37efc",
+      "localPath": "research/sources/hotels"
+    },
+    {
+      "id": "fun",
+      "name": "KoreaFun",
+      "focus": "Events, activities, sports, culture, walking routes, and trip ideas",
+      "url": "https://github.com/karagemop466-tech/KoreaFun",
+      "branch": "main",
+      "commit": "7b075aee8852d1d3132a30e5f146b91f3076eb51",
+      "localPath": "research/sources/fun"
+    },
+    {
+      "id": "food",
+      "name": "Koreafood",
+      "focus": "Restaurant bookmarks, city food guides, and food-planning notes",
+      "url": "https://github.com/karagemop466-tech/Koreafood",
+      "branch": "main",
+      "commit": "d373e09b129d08a50508c10194b40dab7e61d909",
+      "localPath": "research/sources/food"
+    },
+    {
+      "id": "savings",
+      "name": "Korea",
+      "focus": "Tourist promotions, savings, delivery apps, and practical visitor actions",
+      "url": "https://github.com/buffedlizard55-lab/Korea",
+      "branch": "main",
+      "commit": "9852a2763808f8c4a2cb2a6ab74dc85a324ff52c",
+      "localPath": "research/sources/korea"
+    },
+    {
+      "id": "emergency",
+      "name": "Korea-emergency",
+      "focus": "Entry prep, emergency contacts, safety scenarios, and offline checklists",
+      "url": "https://github.com/buffedlizard55-lab/Korea-emergency/tree/arena/019fd2e4-korea-emergency",
+      "branch": "arena/019fd2e4-korea-emergency",
+      "commit": "7073740c6d287e998d6b9db8dcfa94dcdcbc7821",
+      "localPath": "research/sources/emergency"
+    }
+  ],
+  "cities": [
+    {
+      "id": "seoul",
+      "name": "Seoul",
+      "short": "Palaces, neighborhoods, museums, nightlife, and a major rail hub.",
+      "label": "Capital & rail hub",
+      "accent": "violet"
+    },
+    {
+      "id": "busan",
+      "name": "Busan",
+      "short": "Beaches, markets, hillside neighborhoods, and coastal culture.",
+      "label": "Coast & city energy",
+      "accent": "coral"
+    },
+    {
+      "id": "gyeongju",
+      "name": "Gyeongju",
+      "short": "Silla-era heritage, hanok stays, and a slower historic pace.",
+      "label": "Heritage stop",
+      "accent": "gold"
+    },
+    {
+      "id": "daejeon",
+      "name": "Daejeon",
+      "short": "Science, parks, bakeries, hot springs, and central rail access.",
+      "label": "Central-city option",
+      "accent": "mint"
+    },
+    {
+      "id": "cheonan",
+      "name": "Cheonan",
+      "short": "A flexible KTX-corridor stop with culture and nearby sports.",
+      "label": "Flexible rail stop",
+      "accent": "sky"
+    },
+    {
+      "id": "jeonju",
+      "name": "Jeonju",
+      "short": "Hanok heritage and a food-focused detour.",
+      "label": "Food & hanok option",
+      "accent": "rose"
+    },
+    {
+      "id": "jeju",
+      "name": "Jeju",
+      "short": "Island landscapes and a flight-based change of pace.",
+      "label": "Island option",
+      "accent": "ocean"
+    }
+  ],
+  "places": [
+    {
+      "id": "seoul_gyeongbokgung",
+      "name": "Gyeongbokgung Palace & Bukchon Hanok Village",
+      "city": "Seoul",
+      "category": "Historic & Royal Heritage",
+      "nearest_station": "Gyeongbokgung Station (Subway Line 3, Exit 5) or Anguk Station (Line 3, Exit 3)",
+      "official_site": "https://royal.cha.go.kr",
+      "transit_card_used": "Seoul Climate Card or T-money",
+      "est_transit_time_from_center": "10-15 min from Seoul Station / Myeongdong",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "The ginkgo trees along the stone palace walls turn vibrant golden yellow in early November. Royal Guard Changing Ceremony at 10:00 and 14:00 daily (closed Tuesdays).",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "seoul_myeongdong",
+      "name": "Myeongdong Shopping Street & N Seoul Tower",
+      "city": "Seoul",
+      "category": "Shopping & Landmark View",
+      "nearest_station": "Myeongdong Station (Subway Line 4, Exit 6)",
+      "official_site": "https://www.nseoultower.co.kr",
+      "transit_card_used": "Seoul Climate Card or T-money",
+      "est_transit_time_from_center": "5 min from Seoul Station",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "Take the Namsan Suncheon Circular Green Bus #01 up to N Seoul Tower for 360-degree sunset views of Seoul's autumn foliage.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "seoul_hongdae",
+      "name": "Hongdae Youth Culture & Gyeongui Line Forest Park",
+      "city": "Seoul",
+      "category": "Youth Culture & Indie Music",
+      "nearest_station": "Hongik University Station (Subway Line 2, AREX, Gyeongui-Jungang Line)",
+      "official_site": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=113063",
+      "transit_card_used": "Seoul Climate Card or T-money",
+      "est_transit_time_from_center": "15 min from Seoul Station via AREX All-Stop",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "Yeonnam-dong's Gyeongui Line Forest Park (Yeontral Park) is lined with orange maple trees and cozy autumn terrace cafes.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "seoul_gangnam_coex",
+      "name": "Gangnam District & COEX Starfield Library",
+      "city": "Seoul",
+      "category": "Modern Architecture & Shopping",
+      "nearest_station": "Samseong Station (Subway Line 2) or Bongeunsa Station (Subway Line 9)",
+      "official_site": "https://www.coexmall.com",
+      "transit_card_used": "Seoul Climate Card or T-money",
+      "est_transit_time_from_center": "25-30 min from Central Seoul",
+      "est_cost_two_travelers_krw": 3400,
+      "autumn_highlight": "Across from COEX Mall is Bongeunsa Temple, a 1,200-year-old Buddhist sanctuary where red maples frame skyscrapers.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "seoul_seongsu",
+      "name": "Seongsu-dong ('The Brooklyn of Seoul') & DDP",
+      "city": "Seoul",
+      "category": "Design, Fashion Pop-ups & Cafes",
+      "nearest_station": "Seongsu Station (Subway Line 2) / Dongdaemun History & Culture Park Station (Line 2/4/5)",
+      "official_site": "https://ddp.or.kr/?Menunum=131",
+      "transit_card_used": "Seoul Climate Card or T-money",
+      "est_transit_time_from_center": "15-20 min from Central Seoul",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "Industrial brick warehouses converted into flagship fashion pop-ups and artisan bakeries, surrounded by autumn street trees.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "daytrip_suwon",
+      "name": "Suwon Hwaseong Fortress (UNESCO Day Trip)",
+      "city": "Suwon (Gyeonggi-do)",
+      "category": "UNESCO World Heritage Fortress",
+      "nearest_station": "Suwon Station (KORAIL ITX-Saemaeul / KTX / Subway Line 1)",
+      "official_site": "https://www.swcf.or.kr/?p=71",
+      "transit_card_used": "KORAIL Ticket or T-money",
+      "est_transit_time_from_center": "30 min via ITX-Saemaeul Train from Seoul Station (or 60 min via Subway Line 1)",
+      "est_cost_two_travelers_krw": 9600,
+      "autumn_highlight": "Walk the 5.7 km 18th-century stone fortress walls surrounded by red ginkgos and silver grass. Stunning archery pavilion views.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "daytrip_nami_island",
+      "name": "Nami Island & Gapyeong Autumn Foliage",
+      "city": "Gapyeong (Gangwon-do)",
+      "category": "Scenic Nature & Tree-Lined Avenues",
+      "nearest_station": "Gapyeong Station (KORAIL ITX-Cheongchun Train)",
+      "official_site": "https://namisum.com/en/",
+      "transit_card_used": "KORAIL ITX-Cheongchun Ticket (Book on KorailTalk app)",
+      "est_transit_time_from_center": "50 min from Yongsan Station or Cheongnyangni Station",
+      "est_cost_two_travelers_krw": 11800,
+      "autumn_highlight": "Korea's most famous autumn destination! Walk the Ginkgo Tree Lane and Metasequoia Lane under a golden canopy.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "daytrip_dmz",
+      "name": "DMZ (Demilitarized Zone) & Imjingak Peace Park",
+      "city": "Paju (Gyeonggi-do)",
+      "category": "History & Geopolitics",
+      "nearest_station": "Imjingak Station (DMZ Peace Train / Verified Tourist Shuttle)",
+      "official_site": "https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=113110",
+      "transit_card_used": "Verified Tour Voucher / KORAIL Ticket",
+      "est_transit_time_from_center": "60-75 min from Seoul Station",
+      "est_cost_two_travelers_krw": 140000,
+      "autumn_highlight": "Visit the 3rd Infiltration Tunnel and Dora Observatory overlooking North Korea. Civilian access requires passport and booking.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "daytrip_sokcho_seoraksan",
+      "name": "Seoraksan National Park & Sokcho Coastal Village",
+      "city": "Sokcho (Gangwon-do)",
+      "category": "National Park & Autumn Foliage Mountains",
+      "nearest_station": "Sokcho Express Bus Terminal",
+      "official_site": "https://english.knps.or.kr/Experience/ParkOfMonth/seoraksan.do",
+      "transit_card_used": "Express Bus Ticket (Book via KOBUS / T-money GO)",
+      "est_transit_time_from_center": "2 hr 20 min via Express Bus from Seoul Express Bus Terminal (Gangnam)",
+      "est_cost_two_travelers_krw": 42000,
+      "autumn_highlight": "The premier granite mountain range of South Korea. Take the Seoraksan Cable Car up to Gwongeumseong Fortress for crimson foliage peaks.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "busan_haeundae",
+      "name": "Haeundae Beach & Blue Line Park Coastal Train",
+      "city": "Busan",
+      "category": "Coastal Promenade & Beach Train",
+      "nearest_station": "Haeundae Station (Busan Metro Line 2, Exit 5)",
+      "official_site": "https://www.bluelinepark.com/eng/beachTrain.do",
+      "transit_card_used": "Visit Busan Pass or T-money",
+      "est_transit_time_from_center": "45 min from Busan KTX Station via Metro",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "Crisp ocean breezes, golden beach sunsets, and the retro Haeundae Beach Train running along coastal cliffs from Mipo to Songjeong.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "busan_gamcheon",
+      "name": "Gamcheon Culture Village & Jagalchi Seafood Market",
+      "city": "Busan",
+      "category": "Artistic Village & Seafood Harbor",
+      "nearest_station": "Toseong Station (Busan Metro Line 1, Exit 6) + Town Bus Saha 1-1 / 2-2",
+      "official_site": "https://www.gamcheon.or.kr",
+      "transit_card_used": "T-money or WOWPASS",
+      "est_transit_time_from_center": "15 min from Busan KTX Station",
+      "est_cost_two_travelers_krw": 3000,
+      "autumn_highlight": "The 'Machu Picchu of Busan' features colorful terraced houses overlooking the ocean. Walk down to Jagalchi Market for fresh autumn seafood.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "busan_yonggungsa",
+      "name": "Haedong Yonggungsa Seaside Temple",
+      "city": "Busan",
+      "category": "Ocean Cliff Buddhist Temple",
+      "nearest_station": "Osiria Station (Dong해 Line) or Bus #181 / Kakao T Taxi from Haeundae",
+      "official_site": "https://yonggungsa.or.kr",
+      "transit_card_used": "T-money or Kakao T Taxi",
+      "est_transit_time_from_center": "20 min taxi from Haeundae (~12,000 KRW)",
+      "est_cost_two_travelers_krw": 12000,
+      "autumn_highlight": "One of the only Buddhist temples in Korea built directly on ocean rocks, dramatic wave crashes under crisp November skies.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "city3_gyeongju",
+      "name": "Gyeongju Historic Center (Option A - Top Recommended)",
+      "city": "Gyeongju",
+      "category": "Silla Dynasty Royal Heritage",
+      "nearest_station": "Singyeongju Station (KTX / SRT) -> Bus #700 into Historic Center",
+      "official_site": "https://www.gyeongju.go.kr/tour/eng/index.do",
+      "transit_card_used": "KORAIL Ticket + T-money",
+      "est_transit_time_from_center": "35 min KTX from Busan Station (or 2 hr 05 min KTX from Seoul Station)",
+      "est_cost_two_travelers_krw": 22000,
+      "autumn_highlight": "Bulguksa Temple, Seokguram Grotto, and Daereungwon Tumuli Park offer the most magnificent crimson maple and golden ginkgo displays in South Korea.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "city3_jeju",
+      "name": "Jeju Island (Option B - Volcanic Island)",
+      "city": "Jeju",
+      "category": "Island Nature & Volcanic Craters",
+      "nearest_station": "Jeju International Airport (CJU)",
+      "official_site": "https://www.visitjeju.net/en",
+      "transit_card_used": "Domestic Flight + Tourist Taxi Charter / T-money",
+      "est_transit_time_from_center": "1 hr flight from Busan Gimhae (PUS) or Seoul Gimpo (GMP)",
+      "est_cost_two_travelers_krw": 100000,
+      "autumn_highlight": "Silver grass waving across volcanic oreums and Hallasan National Park trails.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    },
+    {
+      "id": "city3_jeonju",
+      "name": "Jeonju Hanok Heritage Village (Option C - Food Capital)",
+      "city": "Jeonju",
+      "category": "Culinary Heritage & Traditional Hanok",
+      "nearest_station": "Jeonju Station (KTX) -> 15 min Kakao T Taxi",
+      "official_site": "https://tour.jeonju.go.kr/eng/index.jeonju",
+      "transit_card_used": "KORAIL Ticket + Kakao T Taxi",
+      "est_transit_time_from_center": "1 hr 40 min KTX from Seoul Yongsan Station",
+      "est_cost_two_travelers_krw": 68800,
+      "autumn_highlight": "Over 800 traditional wooden Hanok houses surrounded by ancient ginkgo trees at Jeonju Hyanggyo Confucian School.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/destinations.json"
+    }
+  ],
+  "routes": [
+    {
+      "id": "icn_to_seoul_arex_express",
+      "from": "Incheon Airport (T1 / T2)",
+      "to": "Seoul Station (Non-Stop)",
+      "mode": "AREX Express Train",
+      "duration": "43 min (T1) / 51 min (T2)",
+      "cost_krw_per_person": 11000,
+      "cost_krw_two_travelers": 22000,
+      "cost_usd_two_travelers": 15.71,
+      "beginner_friendliness": "5/5",
+      "booking_site": "https://www.arex.or.kr",
+      "iphone_app": "AREX / Klook",
+      "recommendation": "Reserved seating, dedicated luggage racks, free Wi-Fi. Easiest and fastest non-stop ride to central Seoul.",
+      "sf_japan_comparison": "Direct equivalent to Tokyo's Narita Express (N'EX) or Skyliner.",
+      "segment": "Airport transfer",
+      "source": "transport"
+    },
+    {
+      "id": "icn_to_seoul_arex_all_stop",
+      "from": "Incheon Airport (T1 / T2)",
+      "to": "Seoul Station (All-Stop Subway)",
+      "mode": "AREX All-Stop Commuter Train",
+      "duration": "59 min (T1) / 66 min (T2)",
+      "cost_krw_per_person": 4450,
+      "cost_krw_two_travelers": 8900,
+      "cost_usd_two_travelers": 6.36,
+      "beginner_friendliness": "4/5",
+      "booking_site": "https://www.arex.or.kr",
+      "iphone_app": "Subway Korea",
+      "recommendation": "Stops at Hongik Univ. (Hongdae) and Gongdeok. Cheaper than express, but commuter subway style seating (no reserved seats). Pay with T-money or WOWPASS.",
+      "sf_japan_comparison": "Like BART from SFO to downtown SF or Tokyo's Keisei Main Line.",
+      "segment": "Airport transfer",
+      "source": "transport"
+    },
+    {
+      "id": "icn_to_seoul_limousine_bus",
+      "from": "Incheon Airport (T1 / T2)",
+      "to": "Myeongdong / Gangnam / Dongdaemun Hotels",
+      "mode": "Airport Limousine Bus (e.g. 6001, 6002, 6009, 6015)",
+      "duration": "60 - 85 min",
+      "cost_krw_per_person": 17000,
+      "cost_krw_two_travelers": 34000,
+      "cost_usd_two_travelers": 24.29,
+      "beginner_friendliness": "5/5",
+      "booking_site": "https://www.airport.kr/ap/en/index.do",
+      "iphone_app": "Naver Map",
+      "recommendation": "No stairs or subway transfers! Driver loads your heavy bags underneath and drops you directly in front of major hotels.",
+      "sf_japan_comparison": "Direct equivalent to Japan's Airport Limousine Bus from Narita/Haneda to Shinjuku hotels.",
+      "segment": "Airport transfer",
+      "source": "transport"
+    },
+    {
+      "id": "icn_to_seoul_taxi",
+      "from": "Incheon Airport (T1 / T2)",
+      "to": "Central Seoul Hotel (Myeongdong / Jongno / Gangnam)",
+      "mode": "Official Airport Taxi / Kakao T / Uber",
+      "duration": "50 - 70 min",
+      "cost_krw_per_person": 32500,
+      "cost_krw_two_travelers": 65000,
+      "cost_usd_two_travelers": 46.43,
+      "beginner_friendliness": "5/5",
+      "booking_site": "https://www.kakaocorp.com",
+      "iphone_app": "Kakao T / Uber",
+      "recommendation": "Total metered cost is ~60,000 to 70,000 KRW including highway toll. Split between 2 travelers ($23/person), it is extremely convenient if you have heavy luggage after a transpacific flight.",
+      "sf_japan_comparison": "Way cheaper than taking an Uber from SFO to Marin or Tokyo Narita taxi ($200+).",
+      "segment": "Airport transfer",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_busan_ktx",
+      "from": "Seoul (Seoul Station)",
+      "to": "Busan (Busan Station)",
+      "mode": "KTX High-Speed Train",
+      "duration": "2 hr 30 min",
+      "cost_krw_per_person": 59800,
+      "cost_krw_two_travelers": 119600,
+      "cost_usd_two_travelers": 85.43,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 15-30 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "Best overall balance of speed, comfort, and center-to-center convenience. If traveling round-trip or connecting to a 3rd city, check the KORAIL Saver Pass (for 2-5 travelers) to save up to 40,000+ KRW.",
+      "sf_japan_comparison": "Similar to riding the Tokaido Shinkansen from Tokyo to Kyoto, but ~50% cheaper.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_busan_srt",
+      "from": "Seoul (Suseo Station - Gangnam)",
+      "to": "Busan (Busan Station)",
+      "mode": "SRT High-Speed Train",
+      "duration": "2 hr 20 min",
+      "cost_krw_per_person": 52600,
+      "cost_krw_two_travelers": 105200,
+      "cost_usd_two_travelers": 75.14,
+      "beginner_friendliness": "4/5",
+      "frequency": "Every 30-40 minutes",
+      "booking_site": "https://etk.srail.kr",
+      "iphone_app": "SRT (Korean only - book via website in English)",
+      "recommendation": "About 10% cheaper than KTX and departs from Gangnam (Suseo). Highly recommended if your hotel is in southern Seoul, though tickets sell out very quickly.",
+      "sf_japan_comparison": "Like an alternative Shinkansen line departing from a southern hub station.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_busan_express_bus",
+      "from": "Seoul Express Bus Terminal (Gangnam)",
+      "to": "Busan Central Bus Terminal (Nopo)",
+      "mode": "Premium Gold Reclining Express Bus",
+      "duration": "4 hr 15 min",
+      "cost_krw_per_person": 39800,
+      "cost_krw_two_travelers": 79600,
+      "cost_usd_two_travelers": 56.86,
+      "beginner_friendliness": "4/5",
+      "frequency": "Every 20-30 minutes",
+      "booking_site": "https://www.kobus.co.kr",
+      "iphone_app": "T-money GO / KOBUS",
+      "recommendation": "Feature 160-degree flat reclining individual pods with privacy curtains and personal entertainment screens. Best budget option with luxury comfort.",
+      "sf_japan_comparison": "Far more luxurious than greyhound/California buses; comparable to Japan's premium highway luxury coaches.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_busan_flight",
+      "from": "Seoul Gimpo Airport (GMP)",
+      "to": "Busan Gimhae Airport (PUS)",
+      "mode": "Domestic Flight (Korean Air, Asiana, Air Busan, Jeju Air)",
+      "duration": "1 hr flight (approx 3 hr 30 min total door-to-door)",
+      "cost_krw_per_person": 45000,
+      "cost_krw_two_travelers": 90000,
+      "cost_usd_two_travelers": 64.29,
+      "beginner_friendliness": "4/5",
+      "frequency": "Multiple flights hourly",
+      "booking_site": "https://www.airport.kr/ap/en/index.do",
+      "iphone_app": "Airline Official Apps / Skyscanner",
+      "recommendation": "Flight time is only 60 mins, but add airport transit and security time. Good if you find a sale (~35,000 KRW one-way), but KTX is more relaxing and drops you in central Busan.",
+      "sf_japan_comparison": "Like flying SFO to LAX on a short shuttle flight.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_gyeongju_ktx",
+      "from": "Seoul (Seoul Station)",
+      "to": "Gyeongju (Singyeongju Station)",
+      "mode": "KTX High-Speed Train",
+      "duration": "2 hr 05 min",
+      "cost_krw_per_person": 49300,
+      "cost_krw_two_travelers": 98600,
+      "cost_usd_two_travelers": 70.43,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 40-60 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "The fastest way to reach historic Gyeongju (Option A for 3rd City). From Singyeongju Station, take Bus 700 or a 15-minute taxi into the historic UNESCO center.",
+      "sf_japan_comparison": "Like taking the Shinkansen from Tokyo to Kyoto's historic temple districts.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "busan_to_gyeongju_ktx",
+      "from": "Busan (Busan Station)",
+      "to": "Gyeongju (Singyeongju Station)",
+      "mode": "KTX / SRT High-Speed Train",
+      "duration": "35 min",
+      "cost_krw_per_person": 11000,
+      "cost_krw_two_travelers": 22000,
+      "cost_usd_two_travelers": 15.71,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 30-45 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "Lightning-fast 35-minute hop! Makes Busan <-> Gyeongju an effortless combination on your itinerary.",
+      "sf_japan_comparison": "Shorter and faster than BART from downtown SF to SFO.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_jeju_flight",
+      "from": "Seoul Gimpo Airport (GMP)",
+      "to": "Jeju International Airport (CJU)",
+      "mode": "Domestic Flight",
+      "duration": "1 hr 10 min flight",
+      "cost_krw_per_person": 55000,
+      "cost_krw_two_travelers": 110000,
+      "cost_usd_two_travelers": 78.57,
+      "beginner_friendliness": "4/5",
+      "frequency": "World's busiest air route (flights every 5-10 minutes)",
+      "booking_site": "https://www.airport.co.kr/jejueng/index.do",
+      "iphone_app": "Korean Air / Jeju Air / T'way",
+      "recommendation": "Essential mode if you select Jeju Island as your 3rd city. Book early for peak autumn foliage weekends in November.",
+      "sf_japan_comparison": "Like flying from Tokyo to Okinawa or SFO to Honolulu, but with 10x flight frequency.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_jeonju_ktx",
+      "from": "Seoul (Yongsan Station or Seoul Station)",
+      "to": "Jeonju Station",
+      "mode": "KTX High-Speed Train",
+      "duration": "1 hr 40 min",
+      "cost_krw_per_person": 34400,
+      "cost_krw_two_travelers": 68800,
+      "cost_usd_two_travelers": 49.14,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 40-60 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "The culinary capital of Korea (Option C for 3rd City). Quick 1 hour 40 min train from Yongsan Station in Seoul.",
+      "sf_japan_comparison": "Like taking an express train from Tokyo to a historic gourmet town like Kanazawa.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_suwon_itx",
+      "from": "Seoul (Seoul Station)",
+      "to": "Suwon Station (Hwaseong Fortress)",
+      "mode": "ITX-Saemaeul Regional Express Train",
+      "duration": "30 min",
+      "cost_krw_per_person": 4800,
+      "cost_krw_two_travelers": 9600,
+      "cost_usd_two_travelers": 6.86,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 20-30 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "Reserved comfortable seats! Much faster and more relaxing than taking the All-Stop Subway Line 1 (which takes 60 mins).",
+      "sf_japan_comparison": "Like taking a JR Limited Express train from Tokyo to Kamakura.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_nami_island_itx",
+      "from": "Seoul (Yongsan or Cheongnyangni Station)",
+      "to": "Gapyeong Station (Nami Island)",
+      "mode": "ITX-Cheongchun Double-Decker Train",
+      "duration": "50 min",
+      "cost_krw_per_person": 5900,
+      "cost_krw_two_travelers": 11800,
+      "cost_usd_two_travelers": 8.43,
+      "beginner_friendliness": "5/5",
+      "frequency": "Every 30-40 minutes",
+      "booking_site": "https://www.letskorail.com",
+      "iphone_app": "KorailTalk",
+      "recommendation": "Korea's only double-decker express train! Drops you at Gapyeong Station where you take a 5-minute taxi or bus to the Nami Island ferry.",
+      "sf_japan_comparison": "Like the double-decker Green Car on JR Shonan-Shinjuku Line.",
+      "segment": "Intercity",
+      "source": "transport"
+    },
+    {
+      "id": "seoul_to_sokcho_express_bus",
+      "from": "Seoul Express Bus Terminal (Gangnam)",
+      "to": "Sokcho Express Bus Terminal (Seoraksan National Park)",
+      "mode": "Express Bus (Excellent Class - Udeung)",
+      "duration": "2 hr 20 min",
+      "cost_krw_per_person": 21000,
+      "cost_krw_two_travelers": 42000,
+      "cost_usd_two_travelers": 30.0,
+      "beginner_friendliness": "4/5",
+      "frequency": "Every 20-30 minutes",
+      "booking_site": "https://www.kobus.co.kr",
+      "iphone_app": "T-money GO / KOBUS",
+      "recommendation": "The most comfortable way to reach Seoraksan National Park for dramatic November mountain foliage.",
+      "sf_japan_comparison": "Like taking a highway coach from Tokyo to Hakone or Fuji Five Lakes.",
+      "segment": "Intercity",
+      "source": "transport"
+    }
+  ],
+  "apps": [
+    {
+      "id": "naver_map",
+      "name": "Naver Map, Navigation",
+      "category": "Navigation & Walking/Transit",
+      "icon_color": "#03C75A",
+      "app_store_url": "https://apps.apple.com/app/naver-map-navigation/id311867728",
+      "official_site": "https://map.naver.com",
+      "why_essential": "Google Maps walking and driving directions do not work in South Korea due to national security and mapping laws. Naver Map is the #1 gold standard for precise subway platforms, bus arrival countdowns, and walking paths.",
+      "sf_japan_comparison": "Your replacement for Google Maps and Apple Maps in Korea.",
+      "beginner_tip": "In App Settings -> Language, switch to English. You can save favorite places (like your hotel) in custom lists. It shows exact exit numbers for subway stations!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "kakao_map",
+      "name": "KakaoMap - Korea No.1 Map",
+      "category": "Navigation & Walking/Transit",
+      "icon_color": "#FEE500",
+      "app_store_url": "https://apps.apple.com/app/kakaomap-korea-no-1-map/id304608425",
+      "official_site": "https://map.kakao.com",
+      "why_essential": "Great backup/alternative to Naver Map. Many locals prefer KakaoMap for bus arrival accuracy and street-view ('Road View') quality.",
+      "sf_japan_comparison": "Like Citymapper for Seoul and Busan.",
+      "beginner_tip": "Works seamlessly with Kakao T when calling a taxi to a specific pin on the map.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "kakao_t",
+      "name": "Kakao T (Taxi, Bike, Driver)",
+      "category": "Taxis & Ride-Hailing",
+      "icon_color": "#FEE500",
+      "app_store_url": "https://apps.apple.com/app/kakao-t/id981110422",
+      "official_site": "https://www.kakaocorp.com/page/service/service/KakaoT",
+      "why_essential": "The undisputed king of taxi dispatching in South Korea. Never worry about language barriers with taxi drivers—your destination is sent automatically to the driver's GPS.",
+      "sf_japan_comparison": "Direct equivalent to Uber or Lyft in San Francisco, or JapanTaxi/GO app in Tokyo.",
+      "beginner_tip": "You can use Kakao T without a Korean credit card! Select 'General Taxi' and choose 'Pay to Driver' (Cash/Card to driver) as your payment method. Pay the driver with your WOWPASS, T-money, or foreign Visa/Mastercard at the end of the ride.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "uber_ut",
+      "name": "Uber / UT",
+      "category": "Taxis & Ride-Hailing",
+      "icon_color": "#000000",
+      "app_store_url": "https://apps.apple.com/app/uber-request-a-ride/id368677368",
+      "official_site": "https://www.uber.com/kr/en/",
+      "why_essential": "In South Korea, the global Uber app operates as a joint venture called UT, dispatching official licensed taxis. If you already have Uber installed on your iPhone from SF, it works right away!",
+      "sf_japan_comparison": "The exact same Uber app you use in San Francisco—your saved credit card in Uber will be charged automatically in KRW.",
+      "beginner_tip": "Compare prices between Kakao T and Uber during rush hours. Uber often has promos for first-time rides in Korea.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "korail_talk",
+      "name": "KorailTalk",
+      "category": "Intercity Trains (KTX/ITX)",
+      "icon_color": "#0054A6",
+      "app_store_url": "https://apps.apple.com/app/korailtalk/id927945147",
+      "official_site": "https://www.letskorail.com",
+      "why_essential": "The official KORAIL app for booking KTX high-speed trains between Seoul, Busan, Gyeongju, and Jeonju.",
+      "sf_japan_comparison": "Like the SmartEX app for Japan Shinkansen or Amtrak app.",
+      "beginner_tip": "Set language to English in the top-right menu. Book KTX tickets 2-4 weeks in advance for weekend travel (tickets open 1 month in advance at 07:00 KST).",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "subway_korea",
+      "name": "Subway Korea (Malang Studio)",
+      "category": "Subway & Metro Timetables",
+      "icon_color": "#FF6B6B",
+      "app_store_url": "https://apps.apple.com/app/subway-korea/id325944444",
+      "official_site": "https://subway.co.kr",
+      "why_essential": "The fastest, most reliable English subway map and timetable app for Seoul, Busan, Daegu, Gwangju, and Daejeon. Works offline!",
+      "sf_japan_comparison": "Like Japan Travel by NAVITIME subway view or BART official app.",
+      "beginner_tip": "Shows which subway car door (e.g. Car 4, Door 2) to board for the fastest transfer or exit!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "papago",
+      "name": "Naver Papago - AI Translator",
+      "category": "Translation & Communication",
+      "icon_color": "#00A8FF",
+      "app_store_url": "https://apps.apple.com/app/naver-papago-ai-translator/id1147874819",
+      "official_site": "https://papago.naver.com",
+      "why_essential": "Naver's AI translation engine is vastly superior to Google Translate for Korean honorifics, idioms, and natural grammar. Essential for dining, taxis, and shopping.",
+      "sf_japan_comparison": "Far more accurate for Korean than Google Translate.",
+      "beginner_tip": "Use 'Image Translation' mode to snap photos of Korean restaurant menus or bus terminal signs for instant English overlays!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "t_money_go",
+      "name": "T-money GO (Integrated Transit & Express Bus)",
+      "category": "Express & Intercity Buses",
+      "icon_color": "#FF4757",
+      "app_store_url": "https://apps.apple.com/app/t-money-go/id1483433333",
+      "official_site": "https://txbus.t-money.co.kr",
+      "why_essential": "Book highway express buses and intercity buses nationwide. Also integrates city bike rentals (Ttareungyi in Seoul).",
+      "sf_japan_comparison": "Like a Greyhound/Flixbus app combined with city bikeshare.",
+      "beginner_tip": "If you have trouble with international credit cards on the app, you can check bus schedules here and buy tickets at the terminal ticket machines or windows.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    },
+    {
+      "id": "bustago",
+      "name": "BUSTAGO (Intercity Bus Reservation)",
+      "category": "Intercity Buses",
+      "icon_color": "#2ED573",
+      "app_store_url": "https://apps.apple.com/app/bustago/id1056586036",
+      "official_site": "https://www.bustago.or.kr",
+      "why_essential": "Official nationwide intercity bus booking platform. Essential for routes to smaller towns or direct airport bus connections.",
+      "sf_japan_comparison": "Highway bus booking portal.",
+      "beginner_tip": "Supports English interface and ticket QR codes.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/apps.json"
+    }
+  ],
+  "cards": [
+    {
+      "id": "t_money",
+      "name": "T-money Transit Card",
+      "type": "Essential Pay-As-You-Go IC Transit Card",
+      "price_krw": 3000,
+      "where_to_buy": "All convenience stores (CU, GS25, 7-Eleven, Emart24) and subway station ticket machines.",
+      "where_to_recharge": "Convenience stores or subway station machines (CASH ONLY in KRW for standard T-money).",
+      "coverage": "Subways, buses, taxis, and convenience stores nationwide across all of South Korea (Seoul, Busan, Gyeongju, Jeju, Jeonju).",
+      "official_site": "https://www.t-money.co.kr",
+      "best_for": "Every traveler! This is the mandatory baseline card in Korea.",
+      "sf_japan_equivalent": "Direct equivalent to SF Clipper Card or Japan Suica / Pasmo / ICOCA.",
+      "pro_tip": "Always tap ON when boarding and tap OFF when exiting buses and subways to get free/discounted transfers within 30 minutes!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    },
+    {
+      "id": "wowpass",
+      "name": "WOWPASS (All-in-One Tourist Prepaid Debit + T-money)",
+      "type": "All-in-One Foreigner Payment Card + Transit Card",
+      "price_krw": 5000,
+      "where_to_buy": "WOWPASS Kiosks at Incheon Airport, Seoul Station, major subway stations, and hotels.",
+      "where_to_recharge": "Insert USD/EUR/JPY/GBP cash into kiosk to top up KRW debit balance; top up T-money transit balance at convenience stores or subway machines.",
+      "coverage": "Accepted as a regular IC debit card at 99% of shops, cafes, restaurants in Korea + built-in T-money IC chip for subways/buses.",
+      "official_site": "https://www.wowpass.io",
+      "best_for": "First-time foreign tourists who want to avoid carrying stacks of KRW cash while getting competitive exchange rates.",
+      "sf_japan_equivalent": "Like a Suica card combined with an international tourist debit card.",
+      "pro_tip": "Download the official WOWPASS iPhone app to track your expenses in real-time, lock the card if lost, and get cashback at olive young / Starbucks.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    },
+    {
+      "id": "seoul_climate_card_tourist",
+      "name": "Seoul Climate Card (Tourist Short-Term Pass - 2026)",
+      "type": "Unlimited Transit Pass for Seoul Subways & Buses",
+      "price_krw": 15000,
+      "where_to_buy": "Seoul Subway station Customer Safety Centers (Lines 1-8) and convenience stores near tourist hubs.",
+      "where_to_recharge": "Valid for 1, 2, 3, 5, or 7 consecutive days (e.g., 5-Day Pass is only 15,000 KRW = ~$10.70 USD!).",
+      "coverage": "Unlimited rides on Seoul subways and Seoul city buses (blue, green, yellow). Excludes AREX Express, Shinbundang line, and intercity buses outside Seoul.",
+      "official_site": "https://english.seoul.go.kr",
+      "best_for": "Travelers spending 3 to 7 intensive days exploring Seoul and riding transit 3+ times per day.",
+      "sf_japan_equivalent": "Like the Tokyo Subway 72-hour Ticket or SF Muni 3-Day Visitor Passport, but insanely cheap.",
+      "pro_tip": "At 15,000 KRW for 5 days, you break even after just 10 subway rides! A massive money saver for your Seoul days.",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    },
+    {
+      "id": "korail_saver_pass",
+      "name": "KORAIL Saver Pass (for Groups of 2 to 5 Travelers)",
+      "type": "Unlimited KTX & Korail Train Tourist Pass",
+      "price_krw": 121000,
+      "where_to_buy": "Official KORAIL website or verified partners (Klook, Trazy).",
+      "where_to_recharge": "2-Day Flexible (121,000 KRW/person) or 4-Day Flexible (224,000 KRW/person) for 2+ travelers.",
+      "coverage": "Unlimited KTX, ITX, and Mugunghwa train rides nationwide (excludes SRT). Includes up to 2 free seat reservations per day.",
+      "official_site": "https://www.letskorail.com",
+      "best_for": "Two travelers doing multi-city trips like Seoul -> Busan -> Gyeongju/Jeonju -> Seoul.",
+      "sf_japan_equivalent": "Direct equivalent to the Japan Rail (JR) Pass, but specifically discounted for groups of 2-5 people!",
+      "pro_tip": "If you buy individual roundtrip KTX tickets Seoul-Busan it costs ~119,600 KRW. The 2-Day Flexible Saver Pass is 121,000 KRW and lets you add additional intercity KTX legs for virtually zero extra cost!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    },
+    {
+      "id": "discover_seoul_pass",
+      "name": "Discover Seoul Pass (DSP)",
+      "type": "Attractions + AREX Express Train + T-money Function",
+      "price_krw": 50000,
+      "where_to_buy": "Official website, Incheon Airport kiosks, or Klook.",
+      "where_to_recharge": "24h (50,000 KRW), 48h (70,000 KRW), or 72h (90,000 KRW).",
+      "coverage": "Free entry to 70+ top attractions (Lotte World, N Seoul Tower, Gyeongbokgung Palace) + 1 free AREX Express train ticket + T-money card.",
+      "official_site": "https://www.discoverseoulpass.com",
+      "best_for": "First-time visitors who want to pack major tourist sights and airport transport into 48-72 hours.",
+      "sf_japan_equivalent": "Like the San Francisco CityPASS or Osaka Amazing Pass.",
+      "pro_tip": "Use the physical card as a permanent T-money transit card even after your 24/48/72h attraction window expires!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    },
+    {
+      "id": "visit_busan_pass",
+      "name": "Visit Busan Pass",
+      "type": "Busan Attractions + Transit Function",
+      "price_krw": 55000,
+      "where_to_buy": "Visit Busan Pass website, Busan Station, or Klook.",
+      "where_to_recharge": "24h Pass (55,000 KRW), 48h Pass (85,000 KRW), or Big3/Big5 Flex Pass.",
+      "coverage": "Free entry to Haeundae Blue Line Park Beach Train, Busan X the Sky, Lotte World Busan, Skyline Luge + built-in transit card.",
+      "official_site": "https://www.visitbusanpass.com",
+      "best_for": "2-3 days of coastal sightseeing in Busan.",
+      "sf_japan_equivalent": "Direct equivalent to Osaka Amazing Pass for Busan.",
+      "pro_tip": "The Haeundae Beach Train and Busan X the Sky observation deck alone cover more than 70% of the 24h pass price!",
+      "source": "transport",
+      "sourcePath": "research/sources/transport/data/cards.json"
+    }
+  ],
+  "stations": [
+    {
+      "id": "seoul_station",
+      "name": "Seoul Station (KTX / AREX / Subway Lines 1 & 4)",
+      "city": "Seoul",
+      "category": "Primary National Hub",
+      "arex_express_location": "B2 - B7 (Underground Airport Railroad concourse). Follow orange 'Airport Railroad Express' signs.",
+      "wowpass_tmoney_location": "WOWPASS Kiosks located near AREX gates (B2) and Subway Line 1 concourse. T-money recharge at any subway ticket machine (cash only).",
+      "luggage_services": [
+        {
+          "name": "T-Luggage (Seoul Metro Official)",
+          "location": "Underground passage between Exit 1 and Exit 2",
+          "cost": "9,000 KRW for 4 hrs (weekdays) / 13,000 KRW (weekends), +1,000 KRW/hr after",
+          "official_site": "https://tluggage.co.kr",
+          "notes": "Face-to-face counter, offers same-day hotel and airport luggage delivery."
+        },
+        {
+          "name": "Zimcarry (KORAIL KTX Official)",
+          "location": "Main KTX concourse near 2nd floor shopping area",
+          "cost": "10,000 KRW for 4 hrs, or ~15,000-20,000 KRW for same-day delivery to Busan/hotel",
+          "official_site": "https://www.zimcarry.net",
+          "notes": "Best service for forwarding heavy bags from Seoul Station directly to your Busan hotel!"
+        },
+        {
+          "name": "T-Locker / LuggageQ (24/7 Coin Lockers)",
+          "location": "Near Exit 15 and throughout B1 subway interchange",
+          "cost": "~1,000 KRW per hour per locker (one locker fits 2-3 large 27-inch suitcases)",
+          "official_site": "http://www.seoulmetro.co.kr",
+          "notes": "Self-service touchscreen kiosks with English interface. Pay by credit card or T-money."
+        }
+      ],
+      "transfer_tip": "When transferring from Subway Line 1 or 4 to KTX, allow at least 10-15 minutes to navigate the escalator concourses."
+    },
+    {
+      "id": "busan_station",
+      "name": "Busan KTX Station & Busan Metro Line 1",
+      "city": "Busan",
+      "category": "Southern Coastal Rail Hub",
+      "arex_express_location": "N/A (Use Gimhae Light Rail or Airport Limousine Bus for Gimhae Airport)",
+      "wowpass_tmoney_location": "WOWPASS Kiosk inside 2nd floor KTX waiting hall. T-money/Busan Metro machines on B1.",
+      "luggage_services": [
+        {
+          "name": "Zimcarry Busan Station Desk",
+          "location": "2nd floor KTX waiting hall near Exit 1",
+          "cost": "~15,000 KRW per large suitcase for hotel delivery or airport transfer",
+          "official_site": "https://www.zimcarry.net",
+          "notes": "Drop your suitcases when your KTX arrives at 11:30 AM and go straight to Haeundae Beach empty-handed! Bags arrive at your hotel by 4 PM."
+        }
+      ],
+      "transfer_tip": "Exit 1 on the 2nd floor leads to the pedestrian deck and Busan Metro Line 1 (Orange Line) entrance."
+    },
+    {
+      "id": "singyeongju_station",
+      "name": "Singyeongju Station (Gyeongju KTX / SRT)",
+      "city": "Gyeongju",
+      "category": "High-Speed Rail Gateway to Historic Gyeongju",
+      "arex_express_location": "N/A",
+      "wowpass_tmoney_location": "Convenience store (StoryWay / CU) inside station hall.",
+      "luggage_services": [
+        {
+          "name": "Singyeongju Station Luggage Lockers",
+          "location": "Main waiting hall to the right of the exit gates",
+          "cost": "2,000 - 5,000 KRW per locker for 24 hours",
+          "official_site": "https://www.letskorail.com",
+          "notes": "Coin/card lockers. Ideal if you want to explore Bulguksa Temple before checking into your hotel."
+        }
+      ],
+      "transfer_tip": "Exit 1 leads directly to the bus terminal for Bus #700 and the official Kakao T taxi stand."
+    },
+    {
+      "id": "incheon_airport_t1_t2",
+      "name": "Incheon International Airport (ICN - T1 / T2)",
+      "city": "Incheon / Seoul",
+      "category": "International Airport Hub",
+      "arex_express_location": "Transportation Center (B1) in both Terminal 1 and Terminal 2.",
+      "wowpass_tmoney_location": "WOWPASS Kiosks located in Arrivals Hall (1F) and AREX ticket area (B1). CU/GS25 convenience stores sell T-money cards.",
+      "luggage_services": [
+        {
+          "name": "Hanjin Express / Airport Baggage Delivery",
+          "location": "Terminal 1 (3F near check-in counter B/N) and Terminal 2 (1F/3F)",
+          "cost": "~15,000 - 25,000 KRW per suitcase for same-day hotel delivery in Seoul",
+          "official_site": "https://www.airport.kr/ap/en/index.do",
+          "notes": "Drop bags after landing and ride AREX to Seoul empty-handed."
+        }
+      ],
+      "transfer_tip": "If flying Korean Air or Asiana on Day 23 departure, use the Seoul Station City Airport Terminal (B2) to check your luggage and clear immigration downtown before boarding AREX!"
+    }
+  ],
+  "stationExits": [
+    {
+      "station_name": "Myeongdong Station (Subway Line 4)",
+      "best_luggage_exit": "Exit 7 (Escalator) or Exit 1 (Elevator)",
+      "avoid_exit": "Exit 3 / Exit 4 (Long steep stairs with no elevator)",
+      "nearby_hub": "Myeongdong Shopping Street & Namsan Bus #01 Stop"
+    },
+    {
+      "station_name": "Hongik University Station (Hongdae - Line 2 / AREX)",
+      "best_luggage_exit": "Exit 8 (Elevator) or Exit 2 (Escalator)",
+      "avoid_exit": "Exit 9 (Extreme crowd stairs)",
+      "nearby_hub": "Yeonnam-dong Gyeongui Line Forest Park & AREX All-Stop Terminal"
+    },
+    {
+      "station_name": "Seoul Station (Lines 1 & 4 / KTX / AREX)",
+      "best_luggage_exit": "Exit 15 (Elevator to KTX Concourse) or Underground Exit 1-2 (T-Luggage)",
+      "avoid_exit": "Exit 10 / Exit 11 (Long underground walking tunnels)",
+      "nearby_hub": "KTX High-Speed Rail Concourse & AREX Express Gate B2"
+    },
+    {
+      "station_name": "Busan Station (KTX / Metro Line 1)",
+      "best_luggage_exit": "KTX Exit 1 (Pedestrian Deck Elevator to Metro Line 1)",
+      "avoid_exit": "Metro Exit 3 (Stairs)",
+      "nearby_hub": "Zimcarry Luggage Desk & Express Bus #1003 to Haeundae"
+    }
+  ],
+  "contingencies": [
+    {
+      "city": "Seoul",
+      "weather_condition": "Rain / Cold Wind",
+      "plan_a": "Gyeongbokgung Palace & Bukchon Walking Tour",
+      "plan_b": "The Hyundai Seoul (Yeouido) Indoor Botanical Mall & National Museum of Korea",
+      "transit_mode": "Subway Line 5 (Yeouinaru Station) / Line 4 (Ichon Underground Walkway)",
+      "why_better": "Both venues are connected directly to subway exits via covered underground tunnels—zero rain exposure!"
+    },
+    {
+      "city": "Seoul",
+      "weather_condition": "Heavy Crowds (Weekend Peak Foliage)",
+      "plan_a": "Nami Island / Gapyeong (Saturday/Sunday)",
+      "plan_b": "Suwon Hwaseong Fortress or Eunpyeong Hanok Village",
+      "transit_mode": "ITX-Saemaeul Train (30 min) or Subway Line 3 + Bus #7211",
+      "why_better": "Nami Island ferry lines on November weekends can exceed 45 minutes. Suwon's 5.7 km fortress wall never feels crowded."
+    },
+    {
+      "city": "Busan",
+      "weather_condition": "Rain / High Coastal Winds",
+      "plan_a": "Taejongdae Cliff Walking & Songdo Cable Car",
+      "plan_b": "Spa Land Centum City (Luxury Korean Sauna) & Shinsegae Mall + Busan X the Sky",
+      "transit_mode": "Busan Metro Line 2 (Centum City Station - Underground direct entrance)",
+      "why_better": "Spa Land is an 18-temperature therapeutic hot spring sauna inside the world's largest department store."
+    },
+    {
+      "city": "Gyeongju",
+      "weather_condition": "Rain",
+      "plan_a": "Outdoor Daereungwon Burial Mounds & Cycling",
+      "plan_b": "Gyeongju National Museum & Hwangnyongwon Tea Pavilion",
+      "transit_mode": "Kakao T Taxi (~6,000 KRW) or Bus #10 / #11",
+      "why_better": "World-class Silla gold crowns and artifacts indoors."
+    }
+  ],
+  "bikeShare": [
+    {
+      "city": "Seoul",
+      "system_name": "Ttareungyi (`따릉이` - Seoul Public Bike)",
+      "how_to_use": "Rent directly inside the T-money GO iPhone app using your international credit card or WOWPASS without Korean resident registration.",
+      "cost": "1,000 KRW (~$0.70 USD) for 1 hour of cycling",
+      "best_route": "Yeouido Han River Park loop to Banpo Bridge Rainbow Fountain."
+    },
+    {
+      "city": "Gyeongju",
+      "system_name": "TaSoJa / Gyeongju Heritage Bikeshare",
+      "how_to_use": "Rent bikes outside Singyeongju Station or along Hwangridan-gil.",
+      "cost": "5,000 KRW for a half-day rental",
+      "best_route": "Flat cycling path from Daereungwon Burial Mounds to Cheomseongdae Observatory and Wolji Pond."
+    }
+  ],
+  "taxRefund": {
+    "last_updated": "2026-08-03",
+    "min_spend_krw": 15000,
+    "max_immediate_refund_krw": 1000000,
+    "vat_rate_percent": 7.5,
+    "rules": [
+      "Immediate Tax Refund (즉시 환급) is available at Olive Young, Lotte Mart, Uniqlo, and major department stores for purchases between 15,000 KRW and 1,000,000 KRW.",
+      "Always carry your physical passport or e-passport scan to the cashier.",
+      "If spend exceeds 1,000,000 KRW, obtain an Airport Tax Refund receipt and scan it at the Incheon Airport T1/T2 automated kiosks before security check-in."
+    ]
+  },
+  "transitFood": [
+    {
+      "hub": "Seoul Station KTX Concourse (2F)",
+      "spot_name": "Korail Dosirak (`도시락` - Train Bento) & Kakao Friends Cafe",
+      "best_item": "Bulgogi & Kimchi Hanwoo Bento Box (11,000 KRW / ~$7.80 USD)",
+      "tip": "Buy your bento box 15 minutes before your KTX departs and eat at your seat!"
+    },
+    {
+      "hub": "Busan Station KTX Concourse (2F)",
+      "spot_name": "Samjin Amook (`삼진어묵` - Busan Gourmet Fish Cake Bakery)",
+      "best_item": "Cheese Amook Croquette & Hot Fish Cake Skewer (3,500 KRW / ~$2.50 USD)",
+      "tip": "Busan's most iconic snack bakery is located right inside the KTX waiting hall."
+    },
+    {
+      "hub": "Express Bus Highway Rest Area (`휴게소` - Hyugeso)",
+      "spot_name": "Highway Rest Area Food Court",
+      "best_item": "Sotteok Sotteok (`소떡소떡` - Sausage & Rice Cake Skewer) + Walnut Pastry (`호두과자` - Hodu-gwaja)",
+      "tip": "On your Premium Gold bus ride, the driver will pause for 15 minutes at a highway rest area. Remember your bus license plate number!"
+    }
+  ],
+  "logistics": {
+    "last_updated": "2026-08-03",
+    "logistics_philosophy": "We prioritize 'The Korea Transit Sweet Spot': finding the lowest cost transportation that does NOT sacrifice convenience, time, or hassle. Saving $4 on an airport train after a 12-hour flight or saving $14 on an intercity bus to sit in 2 hours of highway traffic is a poor trade-off.",
+    "sweet_spot_comparisons": [
+      {
+        "scenario": "Incheon Airport (ICN) -> Central Seoul Hotel",
+        "cheapest_option": {
+          "mode": "AREX All-Stop Commuter Train",
+          "time": "59 - 66 min",
+          "cost_2_people_krw": 8900,
+          "cost_2_people_usd": 6.36,
+          "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage)"
+        },
+        "sweet_spot_option": {
+          "mode": "AREX Express Train (Non-Stop)",
+          "time": "43 - 51 min",
+          "cost_2_people_krw": 22000,
+          "cost_2_people_usd": 15.71,
+          "hassle_level": "Zero (Reserved reclining seats, dedicated luggage racks, free Wi-Fi, drops at Seoul Station)",
+          "why_sweet_spot": "For only $9.35 extra total for both travelers, you eliminate commuter crowds and get a relaxing non-stop express ride after a transpacific flight."
+        },
+        "luxury_option": {
+          "mode": "Official Airport Taxi / Kakao T",
+          "time": "50 - 70 min",
+          "cost_2_people_krw": 65000,
+          "cost_2_people_usd": 46.43,
+          "hassle_level": "Zero (Door-to-door directly to hotel)"
+        }
+      },
+      {
+        "scenario": "Seoul -> Busan Intercity Travel",
+        "cheapest_option": {
+          "mode": "Economy Highway Bus (Ilban - 2x2 seats)",
+          "time": "4 hr 30 min+",
+          "cost_2_people_krw": 44000,
+          "cost_2_people_usd": 31.43,
+          "hassle_level": "High (Cramped seats, traffic risk, long travel day)"
+        },
+        "sweet_spot_option": {
+          "mode": "KTX High-Speed Train (or KORAIL Saver Pass)",
+          "time": "2 hr 30 min",
+          "cost_2_people_krw": 119600,
+          "cost_2_people_usd": 85.43,
+          "hassle_level": "Zero (305 km/h bullet train, center-to-center from Seoul Station to Busan Station)",
+          "why_sweet_spot": "Saves 2 full hours of travel time! If doing a multi-city loop (Seoul->Busan->Gyeongju->Seoul), the KORAIL Saver Pass drops your effective cost even lower."
+        },
+        "luxury_option": {
+          "mode": "Premium Gold Reclining Express Bus (160° Pods)",
+          "time": "4 hr 15 min",
+          "cost_2_people_krw": 79600,
+          "cost_2_people_usd": 56.86,
+          "hassle_level": "Medium (Luxury lie-flat comfort, but still 4+ hours on highway)"
+        }
+      },
+      {
+        "scenario": "Short Urban Hop (<3.5 km with Luggage or in Rain)",
+        "cheapest_option": {
+          "mode": "Subway Line 2 / Line 3",
+          "time": "20 - 25 min (including walking & stairs)",
+          "cost_2_people_krw": 3000,
+          "cost_2_people_usd": 2.14,
+          "hassle_level": "Medium-High (Stair climbing, navigating turnstiles with bags)"
+        },
+        "sweet_spot_option": {
+          "mode": "Kakao T Taxi / Uber (UT)",
+          "time": "8 - 12 min door-to-door",
+          "cost_2_people_krw": 6000,
+          "cost_2_people_usd": 4.29,
+          "hassle_level": "Zero (Driver picks you up at hotel curb and drops at destination)",
+          "why_sweet_spot": "Because taxi base fares are only 4,800 KRW and you are splitting between 2 travelers, you pay only ~$2 USD extra total to save 20 minutes of stairs and hassle!"
+        },
+        "luxury_option": {
+          "mode": "Kakao T Venti / Luxury Van",
+          "time": "8 - 12 min",
+          "cost_2_people_krw": 12000,
+          "cost_2_people_usd": 8.57,
+          "hassle_level": "Zero"
+        }
+      },
+      {
+        "scenario": "Intensive Seoul Sightseeing Day (4+ Transit Rides)",
+        "cheapest_option": {
+          "mode": "T-money Pay-As-You-Go IC Card",
+          "time": "Standard subway/bus times",
+          "cost_2_people_krw": 15000,
+          "cost_2_people_usd": 10.71,
+          "hassle_level": "Low (Must monitor cash balance and top up at convenience stores)"
+        },
+        "sweet_spot_option": {
+          "mode": "Seoul Climate Card (5-Day Tourist Edition)",
+          "time": "Standard subway/bus times",
+          "cost_2_people_krw": 6000,
+          "cost_2_people_usd": 4.29,
+          "hassle_level": "Zero (Unlimited rides on all Seoul subways and blue/green buses for 15,000 KRW / 5 days = 3,000 KRW/day)",
+          "why_sweet_spot": "At 3,000 KRW per person per day, you break even after just 2 rides! Never worry about top-ups during your Seoul days."
+        },
+        "luxury_option": {
+          "mode": "Full-Day Charter Taxi",
+          "time": "Door-to-door",
+          "cost_2_people_krw": 200000,
+          "cost_2_people_usd": 142.86,
+          "hassle_level": "Zero"
+        }
+      }
+    ],
+    "operating_hours_directory": [
+      {
+        "system": "Seoul Subway (Lines 1 - 9)",
+        "operating_hours": "05:30 AM - 00:00 (Midnight) / 01:00 AM on select lines",
+        "peak_rush_hours": "07:30 - 09:00 and 18:00 - 19:30 (Avoid with luggage!)",
+        "official_site": "http://www.seoulmetro.co.kr/en/index.do"
+      },
+      {
+        "system": "Busan Metro (Lines 1 - 4)",
+        "operating_hours": "05:10 AM - 23:45 PM",
+        "peak_rush_hours": "08:00 - 09:00 and 18:00 - 19:30",
+        "official_site": "http://www.humetro.busan.kr"
+      },
+      {
+        "system": "AREX Airport Express Train (ICN <-> Seoul Station)",
+        "operating_hours": "From ICN T2: 05:15 - 22:40 | From Seoul Station: 06:10 - 22:50",
+        "peak_rush_hours": "Runs every 40 minutes (reserved seating)",
+        "official_site": "https://www.arex.or.kr"
+      },
+      {
+        "system": "KORAIL KTX High-Speed Train (Seoul <-> Busan)",
+        "operating_hours": "05:15 AM - 22:50 PM",
+        "peak_rush_hours": "Friday afternoon & Sunday evening trains sell out fastest",
+        "official_site": "https://www.letskorail.com"
+      },
+      {
+        "system": "Seoul N-Buses (Late-Night Night Buses)",
+        "operating_hours": "23:30 PM - 05:00 AM",
+        "peak_rush_hours": "Runs every 25-40 minutes across nightlife hubs",
+        "official_site": "https://english.seoul.go.kr"
+      },
+      {
+        "system": "Gyeongbokgung Palace (Seoul)",
+        "operating_hours": "09:00 - 17:00 (Nov winter hours; Closed Tuesdays)",
+        "peak_rush_hours": "Royal Guard Changing at 10:00 & 14:00",
+        "official_site": "https://royal.cha.go.kr"
+      },
+      {
+        "system": "N Seoul Tower (Namsan)",
+        "operating_hours": "10:00 - 23:00 daily",
+        "peak_rush_hours": "Sunset (17:00 - 18:30 in November)",
+        "official_site": "https://www.nseoultower.co.kr"
+      },
+      {
+        "system": "National Museum of Korea",
+        "operating_hours": "10:00 - 18:00 (Mon/Tue/Thu/Fri/Sun) | 10:00 - 21:00 (Wed/Sat Night Open)",
+        "peak_rush_hours": "Free general admission",
+        "official_site": "https://english.visitkorea.or.kr"
+      },
+      {
+        "system": "Haeundae Blue Line Beach Train (Busan)",
+        "operating_hours": "09:30 - 19:00 (November autumn hours)",
+        "peak_rush_hours": "Sunset slots sell out 2-3 weeks in advance",
+        "official_site": "https://www.bluelinepark.com/eng/beachTrain.do"
+      },
+      {
+        "system": "Bulguksa Temple (Gyeongju)",
+        "operating_hours": "08:00 - 17:30 daily",
+        "peak_rush_hours": "Best light for maple foliage is 08:30 - 10:30 AM",
+        "official_site": "https://www.gyeongju.go.kr/tour/eng/index.do"
+      }
+    ]
+  },
+  "emergency": {
+    "contacts": [
+      {
+        "number": "112",
+        "label": "Police",
+        "note": "Dial from any phone in Korea."
+      },
+      {
+        "number": "119",
+        "label": "Ambulance · fire · rescue",
+        "note": "Dial from any phone in Korea."
+      },
+      {
+        "number": "1330",
+        "label": "Korea Travel Helpline",
+        "note": "English availability is listed as 24/7 in the source; confirm close to travel."
+      },
+      {
+        "number": "1366",
+        "label": "Domestic-violence hotline",
+        "note": "Toll-free domestic hotline."
+      },
+      {
+        "number": "+82-2-3210-0404",
+        "label": "Korea Emergency Call Center",
+        "note": "For international callers; request an English-speaking operator."
+      },
+      {
+        "number": "+82-2-397-4114",
+        "label": "U.S. Embassy Seoul (24/7 emergency)",
+        "note": "For U.S. citizens; use your own embassy/consulate if applicable."
+      }
+    ],
+    "preDeparture": [
+      {
+        "section": "Documents & entry",
+        "label": "U.S. passports valid for the full stay (≥6 months best practice)"
+      },
+      {
+        "section": "Documents & entry",
+        "label": "No K-ETA needed — exemption runs through 31 Dec 2026 (re-verify)"
+      },
+      {
+        "section": "Documents & entry",
+        "label": "Submit free e-Arrival Card within 72 h of landing → e-arrivalcard.go.kr"
+      },
+      {
+        "section": "Documents & entry",
+        "label": "Return/onward ticket + accommodation addresses on hand"
+      },
+      {
+        "section": "Documents & entry",
+        "label": "3 copies of docs (carry-on, main bag, secure cloud) — see 02"
+      },
+      {
+        "section": "Documents & entry",
+        "label": "Enroll in STEP → step.state.gov"
+      },
+      {
+        "section": "Health & meds",
+        "label": "Up to date on routine vaccines (MMR, Tdap, flu)"
+      },
+      {
+        "section": "Health & meds",
+        "label": "Review every Rx/OTC against MFDS restricted list (04)"
+      },
+      {
+        "section": "Health & meds",
+        "label": "Get original prescriptions + doctor's letters for any medication"
+      },
+      {
+        "section": "Health & meds",
+        "label": "MFDS advance approval if bringing any controlled/stimulant med (allow ≥2 weeks)"
+      },
+      {
+        "section": "Health & meds",
+        "label": "Nothing containing cannabis/CBD packed"
+      },
+      {
+        "section": "Health & meds",
+        "label": "Travel insurance active; save 24/7 emergency line + policy number"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "Layers for 2–12 °C weather; warm jacket, scarf, gloves, beanie"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "KF94/N95 masks (fine dust)"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "Basic first-aid kit + personal meds"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "Universal adapter (Type C/F, 220V)"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "Power bank, offline maps (Naver/Kakao) downloaded"
+      },
+      {
+        "section": "Gear & packing",
+        "label": "T-money card (buy on arrival) or plan to buy immediately"
+      },
+      {
+        "section": "Money & connectivity",
+        "label": "Notify bank of travel; carry 2 payment methods + some KRW"
+      },
+      {
+        "section": "Money & connectivity",
+        "label": "eSIM / travel SIM or pocket Wi-Fi arranged"
+      },
+      {
+        "section": "Money & connectivity",
+        "label": "Confirm plan for late-night arrival transport (AREX/night bus/taxi) — 07"
+      },
+      {
+        "section": "Traffic/holiday awareness",
+        "label": "Note CSAT 19 Nov — build in time; avoid ~1 PM flights that day (06)"
+      },
+      {
+        "section": "Traffic/holiday awareness",
+        "label": "Confirm no holiday conflicts (none in 1–22 Nov window)"
+      }
+    ],
+    "duringTrip": [
+      {
+        "section": "Right after landing (Sun 1 Nov, ~9 PM)",
+        "label": "Complete immigration, collect bags"
+      },
+      {
+        "section": "Right after landing (Sun 1 Nov, ~9 PM)",
+        "label": "Catch AREX (~until 11:32 PM) or night bus N6000/N6001, or taxi"
+      },
+      {
+        "section": "Right after landing (Sun 1 Nov, ~9 PM)",
+        "label": "Buy/load a T-money card at a convenience store"
+      },
+      {
+        "section": "Right after landing (Sun 1 Nov, ~9 PM)",
+        "label": "Set up local eSIM/SIM or Wi-Fi, confirm 1330 + Embassy numbers saved"
+      },
+      {
+        "section": "Right after landing (Sun 1 Nov, ~9 PM)",
+        "label": "Share \"arrived safely\" message with home contact"
+      },
+      {
+        "section": "Daily",
+        "label": "Check AirKorea for fine-dust; wear KF94 if high (05)"
+      },
+      {
+        "section": "Daily",
+        "label": "Carry hotel card/address in Korean + passport copy"
+      },
+      {
+        "section": "Daily",
+        "label": "Keep 2 payment methods in separate places (09)"
+      },
+      {
+        "section": "Daily",
+        "label": "Follow any Emergency Alert texts (treat as drill unless told otherwise) (08)"
+      },
+      {
+        "section": "On CSAT day — Thursday 19 Nov",
+        "label": "If traveling within Korea: extra morning time; avoid driving near schools/test sites"
+      },
+      {
+        "section": "On CSAT day — Thursday 19 Nov",
+        "label": "No flights ~12:30–2:00 PM (nationwide aviation hold 1:05–1:40 PM)"
+      },
+      {
+        "section": "On CSAT day — Thursday 19 Nov",
+        "label": "Expect offices/banks open later (10 AM)"
+      },
+      {
+        "section": "Departure day — Sun 22 Nov",
+        "label": "Arrive ICN ~3 h before international departure"
+      },
+      {
+        "section": "Departure day — Sun 22 Nov",
+        "label": "Process any tax-refund forms (TTS) before security"
+      },
+      {
+        "section": "Departure day — Sun 22 Nov",
+        "label": "Declare cash ≥ $10,000 if applicable"
+      },
+      {
+        "section": "Departure day — Sun 22 Nov",
+        "label": "Confirm return flight + any CSAT-adjacent schedule"
+      }
+    ],
+    "sourcePath": "research/sources/emergency/docs/03-emergency-contacts.md",
+    "printCard": "research/sources/emergency/print/emergency-card.html",
+    "scenariosPath": "research/sources/emergency/docs/11-emergency-scenarios.md"
+  },
+  "hotelTripTemplate": {
+    "title": "South Korea Trip — Seoul · Gyeongju · Busan",
+    "checkIn": "2026-10-31",
+    "checkOut": "2026-11-22",
+    "nights": 22,
+    "note": "Oct 31 – Nov 22, 2026 (22 nights). Autumn shoulder season — leaf-peeping, mild temps, lighter crowds than summer, and generally better hotel rates than spring high season. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
+  },
+  "hotelSplitTemplate": {
+    "recommended": "Seoul 8 nights (Oct 31–Nov 8) · Gyeongju 6 nights (Nov 8–Nov 14) · Busan 8 nights (Nov 14–Nov 22)",
+    "rationale": "Seoul is the biggest city and main transport hub, so bookending the trip there is practical. Gyeongju is compact (5–7 nights = relaxed pace + day trips to Bulguksa & Yangdong Village). Busan is large and spread across two personalities (Haeundae beachside vs. Nampo old town), so 7–9 nights lets you split between neighborhoods.",
+    "alternatives": [
+      "More Seoul: 10 / 4 / 8 (Gyeongju trimmed to a long weekend)",
+      "More Gyeongju: 8 / 7 / 7 (relaxed heritage immersion)"
+    ]
+  },
+  "itineraryBlueprintMeta": {
+    "title": "November 2026 Korea route blueprints",
+    "version": 1,
+    "trip": {
+      "arrival": {
+        "date": "2026-11-01",
+        "day": "Sunday",
+        "time": "21:00",
+        "airport": "Incheon International Airport (ICN)",
+        "city": "Seoul"
+      },
+      "departure": {
+        "date": "2026-11-22",
+        "day": "Sunday",
+        "time": "13:00",
+        "airport": "Incheon International Airport (ICN)",
+        "city": "Seoul"
+      },
+      "nights": 21,
+      "partyAssumption": "Two travelers",
+      "planningPrinciples": [
+        "Use one practical hotel base per city; the only intentional return is the final two Seoul nights for a low-stress ICN departure.",
+        "Travel by direct KTX on city-change days, with only a light neighborhood plan after check-in.",
+        "Group sights by neighborhood rather than crisscrossing each city for a single attraction.",
+        "Keep a weather-friendly indoor alternative every day and avoid making time-sensitive events the sole anchor.",
+        "Treat all rail times, event dates, pricing, opening hours, and entry rules as details to verify in official apps and sites before purchase."
+      ],
+      "importantDates": [
+        {
+          "date": "2026-11-19",
+          "label": "CSAT / Suneung day",
+          "note": "Keep this Busan day deliberately low-stakes. The retained emergency research flags morning traffic management, later office/bank opening, and an approximately 13:05–13:40 aviation hold; verify the current notice before travel."
+        },
+        {
+          "date": "2026-11-22",
+          "label": "13:00 ICN departure",
+          "note": "Plan to be at the airport around three hours before an international departure, subject to airline guidance. Stay in Seoul the final two nights instead of attempting a same-day Busan-to-ICN connection."
+        }
+      ],
+      "sourceNote": "These are deliberately detailed planning blueprints synthesized from the retained transport, hotel, activity, food, savings, and emergency research. They are not confirmations or a live timetable.",
+      "scheduleNote": "Times below are intentional planning windows, not a live timetable. They are designed to make the day explicit while retaining enough buffer for weather, queues, rests, and transit.",
+      "flightReconciliation": "The Korea-based plan begins with a local ICN arrival at 21:00 on Nov. 1 and ends with a local ICN departure at 13:00 on Nov. 22. Because Seoul is well ahead of San Francisco, do not assume a Nov. 1 SFO departure can also be a Nov. 1 ICN arrival; reconcile the outbound calendar date, airline, terminal, and arrival time from the actual ticket before booking the first hotel night.",
+      "weatherAndPacking": [
+        "Use layers rather than one heavy coat: a warm mid-layer, wind/rain shell, comfortable broken-in walking shoes, and evening accessories are more useful than a fixed temperature promise.",
+        "Check the actual forecast and AirKorea a few days before departure. The route includes outdoor palace, coast, park, and market days, but every one has an indoor or low-walking fallback.",
+        "Carry a compact umbrella or waterproof layer, a power bank, a universal Type C/F adapter, any personal medicines in original packaging, and a small day bag for train days."
+      ],
+      "budgetFrame": [
+        {
+          "label": "Stay strategy",
+          "detail": "Price live hotel rooms by exact dates and one-bed/private-bath requirements. The plans favor a practical Myeongdong/Seoul Station base, a station-oriented middle-city base, and one Haeundae base rather than costly hotel moves."
+        },
+        {
+          "label": "Transport strategy",
+          "detail": "Direct KTX is the value/convenience default for city changes. T-money/WOWPASS-style local payment remains useful, but re-check current accepted cards, pass coverage, and actual fares."
+        },
+        {
+          "label": "Experience strategy",
+          "detail": "Use a few paid anchors that matter to you, then layer in markets, parks, coastal walks, museums, and neighborhood food. Do not buy a pass solely because it is discounted; compare it with your actual saved list."
+        },
+        {
+          "label": "Food strategy",
+          "detail": "Keep one quality meal or market experience per day, then use convenience-store, bakery, café, or hotel-neighborhood meals to protect pace and budget."
+        }
+      ],
+      "arrivalChecklist": [
+        "Confirm hotel late check-in and save its Korean address before boarding the last flight.",
+        "Keep passport, arrival/entry confirmation, insurance contact, final hotel address, and an offline emergency card accessible before landing.",
+        "Choose the airport transfer based on live arrival time, luggage, terminal, and hotel—not a generic cheapest-fare rule.",
+        "Do not schedule sightseeing, a nonrefundable dinner, or a timed ticket on the arrival night."
+      ],
+      "departureChecklist": [
+        "Complete online check-in and verify the airline terminal, baggage allowance, and airport cutoff the day before.",
+        "Pack passports, cards, devices, receipts/tax-refund paperwork, and medicines in a known carry-on location on Nov. 21.",
+        "Leave central Seoul early enough to be at ICN around three hours before the 13:00 international departure, following airline advice.",
+        "Handle airline, security, and any valid tax-refund process before duty-free browsing or a meal."
+      ],
+      "budgetMethodNote": "Hotel examples below multiply the retained research’s indicative one-room nightly USD ranges by the planned nights. They are planning math only: taxes, service fees, room type, weekend/date demand, currency conversion, promotions, and availability can materially change the real total.",
+      "dailySpendGuardrails": [
+        "Keep food, local transit, and paid activities as separate envelopes rather than relying on the rough draft’s old all-in daily price. Your actual balance depends on how many paid anchors you keep.",
+        "Use the planner’s saved ideas and route days to identify the handful of paid tickets, reservations, spa/cooking-class choices, and special meals that deserve a confirmed budget.",
+        "Price the full transportation stack only after the airline, KTX trains, airport transfer, local payment card/pass, and hotel districts are selected."
+      ],
+      "flightBookingChecklist": [
+        "Search to the actual local ICN arrival target first: 21:00 on Nov. 1. The originating SFO calendar date may be earlier because Seoul is far ahead of San Francisco.",
+        "Compare live direct and one-stop options by total arrival time, baggage/cancellation terms, seat comfort, airline terminal, and the ability to reach the Seoul hotel after immigration—not by an old fare screenshot.",
+        "After purchase, add flight numbers, both airport terminals, airline check-in cutoff, baggage allowance, seat assignment, and travel-insurance details to My plan.",
+        "Do not build a nonrefundable Seoul arrival-night plan until the flight and the hotel’s late check-in policy are confirmed."
+      ]
+    }
+  }
+}

@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="theme-color" content="#14332d" />
+    <meta
+      name="description"
+      content="Korea Compass — a calm, beginner-friendly trip planning workspace built from your Korea travel research."
+    />
+    <title>Korea Compass · Master trip planner</title>
+    <link rel="icon" href="assets/compass.svg" type="image/svg+xml" />
+    <link rel="manifest" href="manifest.webmanifest" />
+    <link rel="apple-touch-icon" href="assets/icons/icon-192.png" />
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-title" content="Korea Compass" />
+    <link rel="stylesheet" href="assets/app.css" />
+    <script defer src="assets/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main-content">Skip to planner</a>
+
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="brand" type="button" data-view="dashboard" aria-label="Korea Compass home">
+          <span class="brand-mark" aria-hidden="true">
+            <svg viewBox="0 0 32 32" role="img"><path d="M25.9 6.1 18.5 18.5 6.1 25.9l7.4-12.4L25.9 6.1Z" fill="currentColor"/><circle cx="16" cy="16" r="3.2" fill="none" stroke="currentColor" stroke-width="2"/><circle cx="16" cy="16" r="12.2" fill="none" stroke="currentColor" stroke-width="1.4" opacity=".65"/></svg>
+          </span>
+          <span>
+            <strong>Korea Compass</strong>
+            <small>Master trip workspace</small>
+          </span>
+        </button>
+
+        <div class="topbar-actions">
+          <span class="sync-note" id="sync-note" aria-live="polite">Loading your planner…</span>
+          <button class="button button-quiet button-small" type="button" data-action="open-profile">
+            <span aria-hidden="true">✦</span> Trip setup
+          </button>
+        </div>
+      </header>
+
+      <div class="app-layout">
+        <nav class="side-nav" aria-label="Main navigation">
+          <button class="nav-item is-active" type="button" data-view="dashboard">
+            <span class="nav-icon" aria-hidden="true">⌂</span><span>Overview</span>
+          </button>
+          <button class="nav-item" type="button" data-view="discover">
+            <span class="nav-icon" aria-hidden="true">⌕</span><span>Discover</span>
+          </button>
+          <button class="nav-item" type="button" data-view="itineraries">
+            <span class="nav-icon" aria-hidden="true">⇄</span><span>Route options</span>
+          </button>
+          <button class="nav-item" type="button" data-view="plan">
+            <span class="nav-icon" aria-hidden="true">▤</span><span>My plan</span>
+          </button>
+          <button class="nav-item" type="button" data-view="bookings">
+            <span class="nav-icon" aria-hidden="true">✓</span><span>Bookings</span>
+          </button>
+          <button class="nav-item" type="button" data-view="toolkit">
+            <span class="nav-icon" aria-hidden="true">↗</span><span>Transit kit</span>
+          </button>
+          <button class="nav-item" type="button" data-view="safety">
+            <span class="nav-icon" aria-hidden="true">✚</span><span>Safety</span>
+          </button>
+
+          <div class="nav-spacer"></div>
+
+          <button class="nav-item nav-item-saved" type="button" data-view="saved">
+            <span class="nav-icon" aria-hidden="true">♡</span><span>Saved ideas</span><b id="saved-count" class="nav-count">0</b>
+          </button>
+          <button class="nav-item" type="button" data-view="sources">
+            <span class="nav-icon" aria-hidden="true">◫</span><span>Sources</span>
+          </button>
+        </nav>
+
+        <main id="main-content" class="main-content" tabindex="-1">
+          <div id="app" class="app-loading" aria-live="polite">
+            <div class="loading-orbit" aria-hidden="true"></div>
+            <p>Assembling your Korea planning desk…</p>
+          </div>
+        </main>
+      </div>
+    </div>
+
+    <div id="modal-root" class="modal-root" hidden></div>
+    <div id="toast-root" class="toast-root" aria-live="polite" aria-atomic="true"></div>
+  </body>
+</html>

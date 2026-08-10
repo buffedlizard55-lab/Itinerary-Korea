@@ -1,0 +1,91 @@
+{
+  "last_updated": "2026-08-03",
+  "stations": [
+    {
+      "id": "seoul_station",
+      "name": "Seoul Station (KTX / AREX / Subway Lines 1 & 4)",
+      "city": "Seoul",
+      "category": "Primary National Hub",
+      "arex_express_location": "B2 - B7 (Underground Airport Railroad concourse). Follow orange 'Airport Railroad Express' signs.",
+      "wowpass_tmoney_location": "WOWPASS Kiosks located near AREX gates (B2) and Subway Line 1 concourse. T-money recharge at any subway ticket machine (cash only).",
+      "luggage_services": [
+        {
+          "name": "T-Luggage (Seoul Metro Official)",
+          "location": "Underground passage between Exit 1 and Exit 2",
+          "cost": "9,000 KRW for 4 hrs (weekdays) / 13,000 KRW (weekends), +1,000 KRW/hr after",
+          "official_site": "https://tluggage.co.kr",
+          "notes": "Face-to-face counter, offers same-day hotel and airport luggage delivery."
+        },
+        {
+          "name": "Zimcarry (KORAIL KTX Official)",
+          "location": "Main KTX concourse near 2nd floor shopping area",
+          "cost": "10,000 KRW for 4 hrs, or ~15,000-20,000 KRW for same-day delivery to Busan/hotel",
+          "official_site": "https://www.zimcarry.net",
+          "notes": "Best service for forwarding heavy bags from Seoul Station directly to your Busan hotel!"
+        },
+        {
+          "name": "T-Locker / LuggageQ (24/7 Coin Lockers)",
+          "location": "Near Exit 15 and throughout B1 subway interchange",
+          "cost": "~1,000 KRW per hour per locker (one locker fits 2-3 large 27-inch suitcases)",
+          "official_site": "http://www.seoulmetro.co.kr",
+          "notes": "Self-service touchscreen kiosks with English interface. Pay by credit card or T-money."
+        }
+      ],
+      "transfer_tip": "When transferring from Subway Line 1 or 4 to KTX, allow at least 10-15 minutes to navigate the escalator concourses."
+    },
+    {
+      "id": "busan_station",
+      "name": "Busan KTX Station & Busan Metro Line 1",
+      "city": "Busan",
+      "category": "Southern Coastal Rail Hub",
+      "arex_express_location": "N/A (Use Gimhae Light Rail or Airport Limousine Bus for Gimhae Airport)",
+      "wowpass_tmoney_location": "WOWPASS Kiosk inside 2nd floor KTX waiting hall. T-money/Busan Metro machines on B1.",
+      "luggage_services": [
+        {
+          "name": "Zimcarry Busan Station Desk",
+          "location": "2nd floor KTX waiting hall near Exit 1",
+          "cost": "~15,000 KRW per large suitcase for hotel delivery or airport transfer",
+          "official_site": "https://www.zimcarry.net",
+          "notes": "Drop your suitcases when your KTX arrives at 11:30 AM and go straight to Haeundae Beach empty-handed! Bags arrive at your hotel by 4 PM."
+        }
+      ],
+      "transfer_tip": "Exit 1 on the 2nd floor leads to the pedestrian deck and Busan Metro Line 1 (Orange Line) entrance."
+    },
+    {
+      "id": "singyeongju_station",
+      "name": "Singyeongju Station (Gyeongju KTX / SRT)",
+      "city": "Gyeongju",
+      "category": "High-Speed Rail Gateway to Historic Gyeongju",
+      "arex_express_location": "N/A",
+      "wowpass_tmoney_location": "Convenience store (StoryWay / CU) inside station hall.",
+      "luggage_services": [
+        {
+          "name": "Singyeongju Station Luggage Lockers",
+          "location": "Main waiting hall to the right of the exit gates",
+          "cost": "2,000 - 5,000 KRW per locker for 24 hours",
+          "official_site": "https://www.letskorail.com",
+          "notes": "Coin/card lockers. Ideal if you want to explore Bulguksa Temple before checking into your hotel."
+        }
+      ],
+      "transfer_tip": "Exit 1 leads directly to the bus terminal for Bus #700 and the official Kakao T taxi stand."
+    },
+    {
+      "id": "incheon_airport_t1_t2",
+      "name": "Incheon International Airport (ICN - T1 / T2)",
+      "city": "Incheon / Seoul",
+      "category": "International Airport Hub",
+      "arex_express_location": "Transportation Center (B1) in both Terminal 1 and Terminal 2.",
+      "wowpass_tmoney_location": "WOWPASS Kiosks located in Arrivals Hall (1F) and AREX ticket area (B1). CU/GS25 convenience stores sell T-money cards.",
+      "luggage_services": [
+        {
+          "name": "Hanjin Express / Airport Baggage Delivery",
+          "location": "Terminal 1 (3F near check-in counter B/N) and Terminal 2 (1F/3F)",
+          "cost": "~15,000 - 25,000 KRW per suitcase for same-day hotel delivery in Seoul",
+          "official_site": "https://www.airport.kr/ap/en/index.do",
+          "notes": "Drop bags after landing and ride AREX to Seoul empty-handed."
+        }
+      ],
+      "transfer_tip": "If flying Korean Air or Asiana on Day 23 departure, use the Seoul Station City Airport Terminal (B2) to check your luggage and clear immigration downtown before boarding AREX!"
+    }
+  ]
+}

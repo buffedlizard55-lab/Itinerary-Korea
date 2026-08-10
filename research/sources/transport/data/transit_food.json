@@ -1,0 +1,23 @@
+{
+  "last_updated": "2026-08-03",
+  "transit_food_spots": [
+    {
+      "hub": "Seoul Station KTX Concourse (2F)",
+      "spot_name": "Korail Dosirak (`도시락` - Train Bento) & Kakao Friends Cafe",
+      "best_item": "Bulgogi & Kimchi Hanwoo Bento Box (11,000 KRW / ~$7.80 USD)",
+      "tip": "Buy your bento box 15 minutes before your KTX departs and eat at your seat!"
+    },
+    {
+      "hub": "Busan Station KTX Concourse (2F)",
+      "spot_name": "Samjin Amook (`삼진어묵` - Busan Gourmet Fish Cake Bakery)",
+      "best_item": "Cheese Amook Croquette & Hot Fish Cake Skewer (3,500 KRW / ~$2.50 USD)",
+      "tip": "Busan's most iconic snack bakery is located right inside the KTX waiting hall."
+    },
+    {
+      "hub": "Express Bus Highway Rest Area (`휴게소` - Hyugeso)",
+      "spot_name": "Highway Rest Area Food Court",
+      "best_item": "Sotteok Sotteok (`소떡소떡` - Sausage & Rice Cake Skewer) + Walnut Pastry (`호두과자` - Hodu-gwaja)",
+      "tip": "On your Premium Gold bus ride, the driver will pause for 15 minutes at a highway rest area. Remember your bus license plate number!"
+    }
+  ]
+}
