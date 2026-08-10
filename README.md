@@ -2,9 +2,27 @@
 
 A calm, beginner-friendly South Korea trip-planning workspace. **Korea Compass** consolidates the travel research supplied across six repositories into one static GitHub Pages app, while preserving a local, attributed snapshot of the original source material.
 
-**Live Pages URL:** <https://karagemop466-tech.github.io/KoreaMasterItinerary1/>
+**Live Pages URL:** <https://buffedlizard55-lab.github.io/Itinerary-Korea/>
 
 > This is a research and planning tool, not a booking engine or a live travel-data service. Verify event dates, prices, availability, entry requirements, transport operations, eligibility, health guidance, and emergency information with the relevant official provider before acting.
+
+## ⭐ 10 sample trip itineraries (start here)
+
+**The review-ready itineraries live in [`trip-itineraries/`](trip-itineraries/)** — five for Seoul → Daejeon → Busan → Seoul (Route A) and five for Seoul → Cheonan → Busan → Seoul (Route B), all on the fixed Nov 1–22, 2026 frame (arrive ICN 21:00, depart ICN 13:00).
+
+- **Easiest way to read them:** the static review index at [`review/index.html`](review/index.html) — online at <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/>. Every itinerary renders as a clean, document-style page with a one-click **Print / Save PDF** button.
+- **Every itinerary guarantees a 24-hour check-in Seoul hotel for the arrival night** — the 9 PM landing means check-in can pass midnight, so Night 1 always uses a hotel with a 24-hour front desk near the AREX Seoul Station corridor, with alternates and late-night transit backups.
+- Edit the Markdown in `trip-itineraries/`, then refresh the browser pages with `python3 scripts/build_itinerary_review.py`.
+
+| Route A (Daejeon) | Route B (Cheonan) |
+| --- | --- |
+| [A1 Classic First-Timer](trip-itineraries/route-a-daejeon/a1-classic-first-timer.md) · 7·5·7·2 | [B1 Classic First-Timer](trip-itineraries/route-b-cheonan/b1-classic-first-timer.md) · 7·5·7·2 |
+| [A2 Food-First](trip-itineraries/route-a-daejeon/a2-food-first.md) · 8·4·7·2 | [B2 History & Heritage](trip-itineraries/route-b-cheonan/b2-history-and-heritage.md) · 8·5·6·2 |
+| [A3 Slow & Easy](trip-itineraries/route-a-daejeon/a3-slow-and-easy.md) · 7·5·6·3 | [B3 Food-First & Small-Town](trip-itineraries/route-b-cheonan/b3-food-first-small-town.md) · 7·5·7·2 |
+| [A4 K-Culture & Nights](trip-itineraries/route-a-daejeon/a4-k-culture-and-nights.md) · 8·3·8·2 | [B4 Rest & Recharge](trip-itineraries/route-b-cheonan/b4-rest-and-recharge.md) · 7·6·6·2 |
+| [A5 Nature & Science](trip-itineraries/route-a-daejeon/a5-nature-and-science.md) · 6·6·7·2 | [B5 Budget & Local](trip-itineraries/route-b-cheonan/b5-budget-local.md) · 6·5·8·2 |
+
+*(Night splits read Seoul · middle city · Busan · Seoul.)*
 
 ## What is in the master planner
 
@@ -72,7 +90,7 @@ The application is static and its entry point is [`index.html`](index.html), so 
 
 After merging, allow GitHub Pages a moment to publish, then use:
 
-<https://karagemop466-tech.github.io/KoreaMasterItinerary1/>
+<https://buffedlizard55-lab.github.io/Itinerary-Korea/> — the planner — and <https://buffedlizard55-lab.github.io/Itinerary-Korea/review/> — the itinerary review index.
 
 ## Refreshing source research
 
@@ -92,8 +110,14 @@ The browser reads a small generated index plus per-collection files. The generat
    python3 scripts/build_itinerary_docs.py
    ```
 
-5. Review the diff, especially time-sensitive records and links.
-6. Validate locally with a static server before merging to `main`.
+5. If any sample itinerary under `trip-itineraries/` changed, rebuild the review site:
+
+   ```bash
+   python3 scripts/build_itinerary_review.py
+   ```
+
+6. Review the diff, especially time-sensitive records and links.
+7. Validate locally with a static server before merging to `main`.
 
 The PWA icons under `assets/icons/` are rendered reproducibly from vector math (no image tooling required):
 
