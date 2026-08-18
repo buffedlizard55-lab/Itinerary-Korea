@@ -1,12 +1,12 @@
-# Trip Itineraries — 10 Sample Plans for Review
+# Trip Itineraries — 30 Sample Plans for Review
 
-**This folder is the review home for our 10 sample itineraries.** Five cover the Seoul → Daejeon → Busan → Seoul route (Route A) and five cover the Seoul → Cheonan → Busan → Seoul route (Route B). Each is a standalone, Word-style document you can read top to bottom, print, or review in the browser.
+**This folder is the review home for our 30 sample itineraries.** Fifteen cover the Seoul → Daejeon → Busan → Seoul route (Route A) and fifteen cover the Seoul → Cheonan → Busan → Seoul route (Route B). Each is a standalone, Word-style document you can read top to bottom, print, or review in the browser.
 
-- **Readable online (recommended):** open [`../review/index.html`](../review/index.html) — a simple page that lists all 10 itineraries, grouped by route, and renders each one like a clean document. On GitHub Pages it lives at `…/review/`.
-- **One-screen overview:** [`../review/compare.html`](../review/compare.html) compares all 10 side-by-side (nights, pace, hotels, signature days, tradeoffs).
+- **Readable online (recommended):** open [`../review/index.html`](../review/index.html) — a simple page that lists all 30 itineraries, grouped by route, and renders each one like a clean document. On GitHub Pages it lives at `…/review/`.
+- **One-screen overview:** [`../review/compare.html`](../review/compare.html) compares all 30 side-by-side (nights, pace, hotels, signature days, tradeoffs).
 - **Raw source:** the Markdown files below. Edit these, then re-run `python3 scripts/build_itinerary_review.py` to refresh the browser versions.
 
-## Fixed trip frame (all 10 itineraries)
+## Fixed trip frame (all 30 itineraries)
 
 | Item | Detail |
 | --- | --- |

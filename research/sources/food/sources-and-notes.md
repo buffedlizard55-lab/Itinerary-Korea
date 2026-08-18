@@ -13,7 +13,7 @@
 
 ## 🔍 August 2026 Master Verification Audit (Official Sites & Menus)
 
-To guarantee 100% accuracy for our 20-day trip, we have audited the master list of 200 restaurants against official city-tourism portals (Visit Seoul, Visit Busan, Visit Korea), dedicated brand websites, and live Naver Map business profiles.
+The generated “Local / Harbour / Hub / Town + number” placeholders (486 rows) were removed on 18 Aug 2026. What remains is a **named** list only. Hours and prices below are planning notes from tourism pages or earlier menu snapshots — **not** a live booking feed. Re-check Naver or the official page before you go. Woo Lae Oak is a real restaurant mentioned in older notes but is **not** in the current bookmark CSV.
 
 ### 🏛️ Seoul - Top-Tier Verification Aligned with Menus & Websites
 * **Myeongdong Kyoja (명동교자)**: Cross-referenced with their [Official Website](http://www.mdkj.co.kr/). Verified core menu prices: *Kalguksu* (₩11,000) and *Mandu* (₩12,000). Confirmed that their main and branch outlets on Myeongdong 10-gil are open daily 10:30–21:00 with no holiday breaks.

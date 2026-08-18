@@ -22,7 +22,7 @@ A verified emergency-preparedness repo for your trip — entry rules, emergency 
 ## 🚨 TOP 5 — Read These First
 
 1. **e-Arrival Card (mandatory):** U.S. citizens on **K-ETA exemption through 31 Dec 2026** — no K-ETA needed. Submit [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) within 72 h of arrival. → [`docs/02-entry-documents.md`](docs/02-entry-documents.md)
-2. **Late-night arrival (9 PM):** AREX last train ~23:32; night buses `N6000/N6001`; taxi **night surcharge 10 PM–4 AM** (~+40% 11 PM–2 AM). Use **Kakao T**. Save hotel address in **Korean**. → [`docs/07-transportation.md`](docs/07-transportation.md)
+2. **Late-night arrival (9 PM):** AREX Express last ~22:40 T2; All-Stop last ~23:32 T2; night buses `N6000/N6001/N6002`; taxi **night surcharge 10 PM–4 AM** (~+40% 11 PM–2 AM). Use **Kakao T**. Save hotel address in **Korean**. → [`docs/07-transportation.md`](docs/07-transportation.md)
 3. **CSAT exam — Thu 19 Nov:** Inside your Busan stay. Morning traffic mgmt 7–10 AM; **~1:05–1:40 PM flight hold**; no driving near ~1,200 test centers in AM. → [`docs/06-holidays-traffic-dates.md`](docs/06-holidays-traffic-dates.md) · [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md)
 4. **No Korean holidays** 1–22 Nov — no mass-travel disruptions. → [`docs/06-holidays-traffic-dates.md`](docs/06-holidays-traffic-dates.md)
 5. **Medication rules:** No cannabis/CBD; controlled meds need MFDS approval (`narcotics@korea.kr`, ≥2 weeks); non-controlled up to ~6 bottles / 3 months with original Rx + doctor's letter. → [`docs/04-health-medications.md`](docs/04-health-medications.md)

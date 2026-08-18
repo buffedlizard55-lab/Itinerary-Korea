@@ -15,8 +15,9 @@
 | Depart South Korea | 22 Nov 2026 | Sunday |
 
 ## Key takeaways for this trip
-1. **You arrive late (9 PM) on a Sunday.** The AREX airport train runs until
-   ~11:32 PM and night buses operate, but if you clear immigration late, plan
+1. **You arrive late (9 PM) on a Sunday.** AREX **Express** last trains are about
+   **22:40 from T2 / 22:48 from T1**. AREX **All-Stop** runs later (~23:32 from T2).
+   Night buses also operate, but if you clear immigration late, plan
    for a night bus (N6000/N6001) or taxi (night surcharge applies
    10 PM–4 AM). See `07-transportation.md`.
 2. **No K-ETA needed** for your 2026 dates — the exemption runs through 31

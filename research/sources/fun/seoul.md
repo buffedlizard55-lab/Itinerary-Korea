@@ -133,11 +133,10 @@ All listed on the official Visit Seoul events calendar (links = official listing
 - **Price:** K League 1 singles ~₩13,000–25,000 (~$9–18)
 - **Official sources:** [kleague.com](https://www.kleague.com) · [fcseoul.com](https://www.fcseoul.com)
 
-### 16) Seoul E-Land FC — K League 2 — ✅ CONFIRMED home fixtures
-- **Sat Nov 7, 2026 — 16:30** vs Jeonnam Dragons — **Mokdong Stadium** (Subway Line 5)
-- **Sun Nov 22, 2026 — 16:30** vs Chungnam Asan — **Mokdong Stadium** (final home match of the regular season!)
-- **Price:** K League 2 singles ~₩10,000–20,000 (~$7–14)
-- **Official source:** [kleague.com](https://www.kleague.com)
+### 16) Seoul E-Land FC — K League 2 — 👀 WATCH (re-check kleague.com)
+- Earlier research listed **Sat Nov 7 vs Jeonnam** and **Sun Nov 22 vs Chungnam Asan** at Mokdong Stadium. Those kickoffs were **not re-confirmed** on kleague.com in the 18 Aug 2026 audit.
+- **Price:** K League 2 singles typically ~₩10,000–20,000 — verify per match
+- **Official source:** [kleague.com](https://www.kleague.com) · [seoulelandfc.com](https://www.seoulelandfc.com)
 
 ### 17) 🇰🇷 Korea national football team — November friendlies — 👀 WATCH
 - **What:** FIFA consolidated 2026's windows, so the **November window (~Nov 9–17, 9 days)** carries **two friendlies**. Korea is currently under an **interim coach** (post-World Cup); October's confirmed friendlies (Venezuela Oct 2, Uzbekistan Oct 6) fall *before* your trip — November opponents & venue TBA, expect the KFA announcement ~Sep–Oct.
@@ -202,7 +201,7 @@ Korean musical theatre is huge and production values are world-class — note th
 
 ### 22) Autumn foliage — 🔁 seasonal
 - **When:** Peak foliage late Oct – early Nov (official forecast ~late Sept: [weather.go.kr](https://www.weather.go.kr) / Visit Korea)
-- **Where:** Namsan + N Seoul Tower, Deoksugung, Seoul Forest, Gyeongbokgung, Bukhansan — parks free; palaces ~₩3,000; tower ~₩21,000
+- **Where:** Namsan + N Seoul Tower, Deoksugung, Seoul Forest, Gyeongbokgung, Bukhansan — parks free; palaces ~₩3,000; N Seoul Tower observatory **₩29,000 adult / ₩23,000 child** on [nseoultower.co.kr](https://www.nseoultower.co.kr/visit/use2.asp)
 
 ### 23) 🏮 Changgyeonggung "Mulbit Yeonhwa" — palace night media art — ✅ CONFIRMED season (through Nov 8)
 - **When:** Fall 2026 run **Sep 8 – Sun Nov 8, 2026** (annual Korea Heritage Service program; fall = full-media season ~19:00–21:00, closed Mondays) — **your first 9 days are inside the window**
@@ -265,7 +264,7 @@ Korean musical theatre is huge and production values are world-class — note th
 ### 33) 🚠 Namsan Cable Car & N Seoul Tower Observatory — 🔁 always on
 - **What:** Seoul's defining skyline landmark atop Mt. Namsan. Ride the historic suspended cable car up the mountain, then visit the 239m tower observatory for 360-degree panoramas of the capital
 - **Cable Car Hours & Fees:** Daily **10:00–23:00** (last round-trip 22:30 / one-way 22:45). Round-trip Adult **₩15,000** (~$11) / Child **₩11,500**; One-way Adult ₩12,000 / Child ₩9,000. Official site: [cablecar.co.kr](https://www.cablecar.co.kr). Access lower station via "Namsan Orumi" inclined elevator from Namsan Tunnel 3 entrance (free)
-- **N Seoul Tower Observatory:** Mon–Fri 10:30–22:30 · Sat–Sun 10:00–23:00. Adult **₩21,000** (~$15) / Child & Senior **₩16,000**. Official site: [seoultower.co.kr](https://www.seoultower.co.kr)
+- **N Seoul Tower Observatory (official nseoultower.co.kr):** weekdays **10:00–22:30** · weekends/holidays **10:00–23:00**; last entry 30 min before close. Adult **₩29,000** / child & senior (3–12 / 65+) **₩23,000**. Plaza/YTN site is [seoultower.co.kr](https://www.seoultower.co.kr); observatory operator is [nseoultower.co.kr](https://www.nseoultower.co.kr/visit/use.asp).
 - **Beginner notes:** Night lighting on the tower displays air quality status (Blue = Good, Green = Fair, Yellow = Poor, Red = Bad). The base plaza features the famous "Love Locks" fence and outdoor terraces (free access). Alternative ascent: Namsan Sunhwan Bus 01 from Myeongdong/Chungmuro or scenic autumn foliage hiking trails up Namsan Park.
 
 ### 34) 🏛️ National Museum of Korea (국립중앙박물관) — 🔁 always on (FREE)
@@ -754,7 +753,7 @@ Korean musical theatre is huge and production values are world-class — note th
 - **What:** Seoul's legendary 24-hour wholesale fish market across the Han River. Walk the bustling auction floors downstairs, pick fresh King crab or flounder, and have it prepared at 2nd-floor restaurants
 - **Hours:** Market open **24/7** daily
 - **Price:** Free entry; seafood pay-per-item
-- **Official source:** [suhyup-yangyang.co.kr](https://www.suhyup-yangyang.co.kr) · Line 1/9 Noryangjin Station (Exit 7)
+- **Official source:** [susansijang.co.kr](https://www.susansijang.co.kr/) (Noryangjin Fisheries Wholesale Market) · Line 1/9 Noryangjin Station (Exit 7)
 - **Beginner notes:** A Seoul culinary rite of passage for seafood lovers.
 
 ### 104) 🛕 Bongeunsa Temple Stay & Night Lanterns — 🔁 always on (FREE)
@@ -880,7 +879,7 @@ Korean musical theatre is huge and production values are world-class — note th
 - **What:** Scenic mountain park walking paths wrapping around Mt. Namsan leading to N Seoul Tower (#33), offering panoramic sunset views over central Seoul
 - **Hours:** Open **24/7** daily
 - **Price:** Park access **FREE**
-- **Official source:** [seoultower.co.kr](https://www.seoultower.co.kr) · Line 4 Myeongdong Station / Yellow Bus 01
+- **Official source:** [nseoultower.co.kr](https://www.nseoultower.co.kr) · Line 4 Myeongdong Station / Namsan circulation bus 01A/01B
 - **Beginner notes:** Sunset walk along Namsan's autumn maple trails.
 
 ### 122) 🏮 Gyeongbokgung Palace Autumn Night Viewing (경복궁 야간관람) — 🔁 seasonal
@@ -904,12 +903,11 @@ Korean musical theatre is huge and production values are world-class — note th
 - **Official source:** [royal.khs.go.kr](https://royal.khs.go.kr) · Line 4 Hyehwa Station
 - **Beginner notes:** Located beside Chunjangji pond near Mulbit Yeonhwa media show (#23).
 
-### 125) ⛸️ Seoul Plaza Outdoor Ice Rink & Winter Festival — 🔁 seasonal
-- **What:** Seoul Metropolitan Government's seasonal open-air ice skating rink in front of City Hall, featuring skate rentals, holiday lights, and food stalls
-- **Hours:** Daily **10:00–21:30** (Fri/Sat until 23:00)
-- **Price:** **₩1,000 per hour** (~$0.70; includes skate rental)
-- **Official source:** [seoul.go.kr](https://www.seoul.go.kr) · Line 1/2 City Hall Station
-- **Beginner notes:** Best $1 winter experience in central Seoul.
+### 125) ⛸️ Seoul Plaza Outdoor Ice Rink & Winter Festival — ⏳ NOT in the Nov 1–22 window
+- **What:** Seoul Metropolitan Government seasonal open-air rink in front of City Hall.
+- **2025–26 season (official Seoul city news):** **19 Dec 2025 – 8 Feb 2026**, ₩1,000/hour including skate rental. November editions are not typical — **do not plan this for 1–22 Nov 2026**.
+- **Official source:** [news.seoul.go.kr](https://news.seoul.go.kr/culture/archives/531226) · [seoul.go.kr](https://www.seoul.go.kr)
+- **Beginner notes:** Watch Seoul city announcements in December if you extend the trip.
 
 ### 126) 📚 Gwanghwamun Book Plaza & Open-Air Lounge — 🔁 always on (FREE)
 - **What:** Open-air reading lounge on Gwanghwamun Plaza featuring shaded armchairs, lending libraries, and cultural stages beneath King Sejong statue

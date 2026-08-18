@@ -10,12 +10,12 @@ When you land at Incheon Airport (T1 or T2), you have 4 main options to reach ce
 
 | Option | Travel Time to Seoul Station / Center | Cost per Person (KRW / USD) | Total for 2 Travelers | Why Choose This Option |
 | :--- | :--- | :--- | :--- | :--- |
-| **AREX Express Train (Non-Stop)** | **43 min (T1) / 51 min (T2)** | 11,000 KRW ($7.86) | **22,000 KRW ($15.71)** | **Fastest & most comfortable.** Reserved seats, luggage racks, free Wi-Fi. Drops at Seoul Station. |
-| **AREX All-Stop Train** | 59 min (T1) / 66 min (T2) | 4,450 KRW ($3.18) | **8,900 KRW ($6.36)** | **Cheapest.** Commuter train with subway seating. Great if staying in Hongdae or Gongdeok. |
+| **AREX Express Train (Non-Stop)** | **43 min (T1) / 51 min (T2)** | **13,000 KRW** official adult (airportrailroad.com) | **26,000 KRW** | **Fastest & most comfortable.** Reserved seats, luggage racks, free Wi-Fi. Drops at Seoul Station. Last Express from T2 **22:40** / T1 **22:48**. |
+| **AREX All-Stop Train** | **~61 min (T1) / 67 min (T2)** | **4,750 KRW T1 / 5,350 KRW T2** (IC card) | **9,500–10,700 KRW** | **Cheapest.** Commuter train. Great if staying in Hongdae or Gongdeok. The old 4,450 figure is the Cargo Terminal fare, not ICN. |
 | **Airport Limousine Bus** *(e.g. 6001, 6002, 6015)* | 60 - 85 min | 17,000 KRW ($12.14) | **34,000 KRW ($24.29)** | **Zero stairs or transfers.** Driver loads luggage underneath; bus drops directly at major hotels. |
 | **Official Taxi / Kakao T** | 50 - 70 min | ~32,500 KRW ($23.21) *split* | **~65,000 KRW ($46.43)** | **Best after long flights with heavy bags.** Total metered fare (~65,000 KRW including tolls) split between 2 people is a bargain compared to SF/Japan taxis. |
 
-* **AREX Official Website:** [https://www.arex.or.kr](https://www.arex.or.kr)
+* **AREX passenger site (tickets, fares, timetable):** [https://www.airportrailroad.com](https://www.airportrailroad.com) — company site remains [arex.or.kr](https://www.arex.or.kr)
 * **Incheon Airport Official Portal:** [https://www.airport.kr/ap/en/index.do](https://www.airport.kr/ap/en/index.do)
 
 ---
@@ -35,7 +35,7 @@ When you land at Incheon Airport (T1 or T2), you have 4 main options to reach ce
 Seoul buses are color-coded by their function:
 * **Blue Buses (`간선버스`):** Major arterial routes connecting different districts across Seoul.
 * **Green Buses (`지선버스`):** Shorter neighborhood routes that feed into subway stations and blue bus stops.
-* **Yellow Buses (`순환버스`):** Circular tourist routes (e.g., Namsan Suncheon Bus #01 to N Seoul Tower).
+* **Yellow Buses (`순환버스`):** Circular tourist routes (e.g., Namsan circulation bus 01A/01B to N Seoul Tower).
 * **Red Buses (`광역버스`):** Express regional commuter buses connecting Seoul to suburbs (e.g., Incheon, Suwon). *Not covered by Climate Card.*
 * **Maeul Buses (`마을버스` - Small Green):** Mini neighborhood shuttles winding up residential hills.
 

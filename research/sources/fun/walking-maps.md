@@ -72,7 +72,7 @@ Self-guided, beginner-friendly 1-day walking and food routes for **Seoul, Busan,
 - **01:00 PM — Namsan Orumi & Namsan Cable Car**
   - Walk to Namsan Tunnel 3 entrance and ride the free inclined glass elevator (*Namsan Orumi*). Board the Namsan Cable Car ([cablecar.co.kr](https://www.cablecar.co.kr); ₩15,000 adult round-trip / ₩12,000 one-way) soaring over autumn foliage to the top of Mt. Namsan.
 - **02:30 PM — N Seoul Tower Observatory & Love Locks Plaza**
-  - Visit the Love Locks Plaza and ascend N Seoul Tower Observatory ([seoultower.co.kr](https://www.seoultower.co.kr); ₩21,000 adult). Check the air quality via the tower's evening LED illumination color scheme.
+  - Visit the Love Locks Plaza and ascend N Seoul Tower Observatory ([nseoultower.co.kr](https://www.nseoultower.co.kr/visit/use2.asp); official adult **₩29,000** / child & senior **₩23,000**; hours 10:00–22:30 weekdays / 10:00–23:00 weekends, last entry 30 min before close). Check the air quality via the tower's evening LED illumination color scheme.
 - **04:30 PM — Scenic Foliage Hike Down Namsan Park to Itaewon**
   - Hike down the wooden stair paths through Namsan Park's maple forest (or take Yellow Bus 01) toward Itaewon / Hannam-dong.
 - **06:00 PM — Leeum Museum of Art & Hannam Dining**

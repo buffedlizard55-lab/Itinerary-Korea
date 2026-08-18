@@ -2,7 +2,7 @@
 
 > **New here? Start with [START-HERE.md](START-HERE.md).** It explains the trip, the four cities, how to choose a restaurant, and what the labels mean.
 
-A highly practical, meticulously verified two-person food plan for **Seoul + Busan**, with **Cheonan (천안)** and **Daejeon (대전)** as the flex-city shortlist. Trip: **31 October–22 November 2026**.
+A two-person food plan for **Seoul + Busan**, with **Cheonan (천안)** and **Daejeon (대전)** as the flex-city shortlist. Live itinerary frame: **1–22 November 2026**. Only **named** restaurants remain after the 18 Aug 2026 purge of generated placeholders.
 
 ---
 
@@ -10,21 +10,21 @@ A highly practical, meticulously verified two-person food plan for **Seoul + Bus
 
 | Category | Seoul | Busan | Cheonan | Daejeon |
 |---|---|---|---|---|
-| **Ramen & Noodles** | **Oreno Ramen** (Michelin, free refills) <br> **Menten** (Michelin, precise Shoyu) | **Nagahama Mangetsu** (Michelin, 36h Tonkotsu) | **Menya Matsuri** (Blue Ribbon x6, 300°C stone-pot) | **Subarashi Ramen** (Daejeon's #1 spicy tonkotsu) |
-| **Jajangmyeon** | **Sinseonggak** (Gongdeok, hand-pulled) <br> **Hong Kong Banjum** (Baek Jong-won's budget) | **Hwaguk Banjeom** (Nampo, 1960s movie-set Ganjajang) | **Daecheon Banjeom** (Market node, Jajang for ₩5,000) | **Tae Hwa Ru** (Yongjeon-dong, green-chili Ganjajang) |
-| **AYCE & Hanwoo BBQ** | **Myeongnyun Jinsa Galbi** (AYCE BBQ king) <br> **Daedo Sikdang** (Wangsimni Hanwoo pioneer since 1964) | **Myeongnyun Jinsa Galbi** (Seomyeon AYCE) <br> **Haeundae Amso Galbi-jip** (Haeundae legend since 1964) | **Myeongnyun Jinsa Galbi** (Sinbu-dong/Dujeong AYCE) | **Myeongnyun Jinsa Galbi** (Dunsan-dong AYCE) |
-| **Classic & Specialty** | **Imun Seolleongtang** (Oldest restaurant, since 1907) <br> **Myeongdong Kyoja** (Michelin Kalguksu since 1966) | **Songjeong Samdae** (Gukbap since 1946) <br> **Hapcheon Ilryu** (#1 garlicky dwaeji gukbap) | **Byeongcheon Sundae Street** (Park Sun-ja, Cheonghwa-jip) | **Jinro-jip** (Birthplace of Dubu-duruchigi since 1969) |
-| **Dessert & Cafe** | **Shin Old Tea House** (130y hanok) <br> **Fritz Coffee Company** (Vintage roastery) | **Brown Hands Baekje** (1922 brick hospital) <br> **Samjin Amook** (Oldest 1953 fishcake bakery) | **Toujours Dolgama Village** (Fairytale Hobbit Shire bread village) | **Sungsimdang Main & Cake Boutique** (10m visitors/year landmark) |
+| **Ramen & Noodles** | **Oreno Ramen** · **Menten** | **Nagahama Mangetsu** · **Gukje / Gaya milmyeon** | — | **Sutgol Won Naengmyeon** · **Ossi Kalguksu** |
+| **Jajangmyeon** | **Sinseonggak** · **Hong Kong Banjum 0410** | **Hwaguk Banjeom** · **Shinbalwon** | **Dongsunwon** (Seonghwan) | — |
+| **BBQ** | **Myeongnyun Jinsa Galbi** · **Daedo Sikdang** | **Haeundae Somunnan Amso Galbi-jip** | — | — |
+| **Classic** | **Imun Seolleongtang** · **Myeongdong Kyoja** | **Songjeong Samdae Gukbap** · **Jagalchi Market** | — | **Taepyeong Sogukbap** |
+| **Dessert & Cafe** | **Fritz Coffee Company** | **Samjin Amook** · **Brown Hands Baekje** | — | **Sungsimdang** |
 
 ---
 
 ## 🛠️ How to use this guide
 
-* **Cost Efficiency & Quality First:** This plan groups **57 highly verified physical restaurants and cafes** with clear prices, highlighting free refills (Oreno Ramen, Chanyang-jip, Myeongdong Kyoja), budget staples, and Michelin-recognized culinary anchors.
+* **Named restaurants only:** Generated placeholder names (`Seoul Local Ramen 1`, `Busan Harbour BBQ 12`, `Cheonan Hub Cafe 3`, `Daejeon Town Jajangmyeon 8`, etc.) were removed on **2026-08-18**. They were not real businesses. An unverified “Ramen Jiro Seoul” row was also removed. **Toujours Dolgama Village** was restored from Cheonan city tourism + toujours.co.kr. Confirm hours and prices on the official or Naver listing before you go.
 * **16 Curated Neighborhood Walks:** To save time, use **[cities/walking-food-routes.md](cities/walking-food-routes.md)**, which features 16 complete, day-by-day food walking itineraries combining local shopping and sightseeing with lunch, cafe, and dinner stops.
 * **The Customization Pool:** Want to swap a meal? Go to Part 2 of the walking routes document and modularly substitute lunch or dinner with nearby alternatives.
 * **Navigation & Booking Tech:** Use **[booking-and-tech-guide.md](booking-and-tech-guide.md)** to set up Naver Map and CatchTable Global (which supports foreign numbers) before you depart.
-* **Pre-Trip Booking:** All 60 physical outlets are cataloged with direct Naver Map search URLs in **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)** for instant bookmarking.
+* **Bookmarks:** Named restaurants are cataloged with Naver Map **search** URLs in **[restaurants-bookmarks.csv](restaurants-bookmarks.csv)**. A search URL is not a guarantee the place still exists.
 
 ---
 

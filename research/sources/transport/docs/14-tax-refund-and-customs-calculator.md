@@ -1,6 +1,6 @@
 # Korean VAT Tax Refund & Customs Guide (`즉시 환급`)
 
-South Korea levies a 10% VAT on goods, but foreign tourists are entitled to a **7–8% refund** on purchases over 15,000 KRW (~$11 USD).
+South Korea levies a **10% VAT** on most goods (VisitSeoul / National Tax Service). Foreign tourists can claim a refund on qualifying purchases of at least **15,000 KRW**. The cash you actually receive is usually **less than 10%** after the refund operator's fee — do not treat 7–8% as the VAT rate.
 
 ---
 
@@ -10,7 +10,7 @@ South Korea levies a 10% VAT on goods, but foreign tourists are entitled to a **
 * **Eligible Spend:** Between **15,000 KRW** and **1,000,000 KRW** per transaction.
 * **How It Works:**
   1. Present your physical passport (or electronic passport scan) at the cash register.
-  2. The cashier instantly deducts the 7–8% VAT tax from your total bill!
+  2. The cashier processes an immediate refund. You typically receive less than the full 10% VAT after the operator fee.
   3. No paperwork or airport kiosk queues required.
 
 ---

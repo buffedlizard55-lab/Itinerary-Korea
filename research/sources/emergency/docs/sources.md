@@ -26,7 +26,7 @@ departure, because policies can change with little notice.
 | S12 | Korea Meteorological Administration (KMA) | https://www.kma.go.kr/eng/ |
 | S13 | Air Quality (AirKorea, KECO) | https://www.airkorea.or.kr |
 | S14 | Incheon International Airport | https://www.airport.kr |
-| S15 | AREX Airport Railroad | https://www.arex.or.kr |
+| S15 | AREX Airport Railroad (passenger site) | https://www.airportrailroad.com |
 
 ## Key facts and the source that confirms them
 

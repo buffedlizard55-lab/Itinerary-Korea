@@ -18,7 +18,7 @@ This 23-day itinerary is structured to optimize travel time, cost, and peak Nove
 | :---: | :---: | :--- | :--- | :--- | :---: | :---: |
 | **1** | Oct 31 | **Seoul** | Arrive ICN Airport & Hotel Check-in | AREX Express Train (ICN -> Seoul Station) | WOWPASS / T-money | 22,000 KRW ($15.71) |
 | **2** | Nov 01 | **Seoul** | Palaces & Bukchon Hanok Village | Subway Line 3 (Gyeongbokgung / Anguk) | Seoul Climate Card (Day 1/5) | 15,000 KRW *pass* |
-| **3** | Nov 02 | **Seoul** | Myeongdong & N Seoul Tower Sunset | Subway Line 4 + Namsan Suncheon Bus #01 | Seoul Climate Card (Day 2/5) | Included |
+| **3** | Nov 02 | **Seoul** | Myeongdong & N Seoul Tower Sunset | Subway Line 4 + Namsan circulation bus 01A/01B | Seoul Climate Card (Day 2/5) | Included |
 | **4** | Nov 03 | **Seoul** | Hongdae Youth Culture & Han River | Subway Line 2 (Green Loop Line) | Seoul Climate Card (Day 3/5) | Included |
 | **5** | Nov 04 | **Seoul** | Gangnam & COEX Starfield Library | Subway Line 2 / Line 9 (Express Train) | Seoul Climate Card (Day 4/5) | Included |
 | **6** | Nov 05 | **Seoul** | Suwon Hwaseong Fortress Day Trip | ITX-Saemaeul Train (Seoul -> Suwon) | T-money / KORAIL Ticket | 19,200 KRW ($13.71) |

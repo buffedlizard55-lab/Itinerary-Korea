@@ -7,7 +7,7 @@
       "city": "Seoul",
       "category": "Historic & Royal Heritage",
       "nearest_station": "Gyeongbokgung Station (Subway Line 3, Exit 5) or Anguk Station (Line 3, Exit 3)",
-      "official_site": "https://royal.cha.go.kr",
+      "official_site": "https://royal.khs.go.kr",
       "transit_card_used": "Seoul Climate Card or T-money",
       "est_transit_time_from_center": "10-15 min from Seoul Station / Myeongdong",
       "est_cost_two_travelers_krw": 3000,
@@ -23,7 +23,7 @@
       "transit_card_used": "Seoul Climate Card or T-money",
       "est_transit_time_from_center": "5 min from Seoul Station",
       "est_cost_two_travelers_krw": 3000,
-      "autumn_highlight": "Take the Namsan Suncheon Circular Green Bus #01 up to N Seoul Tower for 360-degree sunset views of Seoul's autumn foliage."
+      "autumn_highlight": "Take Namsan circulation bus 01A/01B (green circular / 순환버스, not a Suncheon city bus) up to N Seoul Tower for sunset views of Seoul's autumn foliage."
     },
     {
       "id": "seoul_hongdae",
@@ -76,7 +76,7 @@
     {
       "id": "daytrip_nami_island",
       "name": "Nami Island & Gapyeong Autumn Foliage",
-      "city": "Gapyeong (Gangwon-do)",
+      "city": "Gapyeong (Gyeonggi-do)",
       "category": "Scenic Nature & Tree-Lined Avenues",
       "nearest_station": "Gapyeong Station (KORAIL ITX-Cheongchun Train)",
       "official_site": "https://namisum.com/en/",
@@ -138,7 +138,7 @@
       "name": "Haedong Yonggungsa Seaside Temple",
       "city": "Busan",
       "category": "Ocean Cliff Buddhist Temple",
-      "nearest_station": "Osiria Station (Dong해 Line) or Bus #181 / Kakao T Taxi from Haeundae",
+      "nearest_station": "Osiria Station (Donghae Line) or Bus #181 / Kakao T Taxi from Haeundae",
       "official_site": "https://yonggungsa.or.kr",
       "transit_card_used": "T-money or Kakao T Taxi",
       "est_transit_time_from_center": "20 min taxi from Haeundae (~12,000 KRW)",

@@ -23,7 +23,7 @@ ITINERARY_BLUEPRINTS = ROOT / "data" / "itineraries.json"
 
 # This date identifies the curation pass, not a promise that third-party
 # opening times, prices, visas, or event dates are current.
-CATALOG_DATE = "2026-08-08"
+CATALOG_DATE = "2026-08-18"
 
 # Large collections are written to their own files so the browser can load a
 # small index first and fetch each collection on demand.

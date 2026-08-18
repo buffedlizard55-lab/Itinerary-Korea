@@ -1,6 +1,6 @@
 # Start here: Korea Food Trip 2026
 
-Welcome! This guide is for **two travelers from the United States** visiting Korea from **October 31 to November 22, 2026**.
+Welcome! This guide is for **two travelers from the United States**. The live trip frame used by the 30 sample itineraries is **ICN arrival 21:00 on 1 Nov 2026** and **ICN departure 13:00 on 22 Nov 2026**. Older food notes that say 31 Oct are a research snapshot, not the live start.
 
 ## Your cities
 
@@ -24,7 +24,7 @@ Welcome! This guide is for **two travelers from the United States** visiting Kor
 |---|---|---|
 | Seoul | [Open Seoul guide](cities/seoul.md) | The widest selection and easiest neighborhood-hopping |
 | Busan | [Open Busan guide](cities/busan.md) | Milmyeon, jajangmyeon, seafood, markets, and ocean-view cafes |
-| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Byeongcheon sundae, Toujours bread village, and a quieter local stop |
+| Cheonan | [Open Cheonan guide](cities/cheonan.md) | Dongsunwon, Toujours Dolgama Village (city-listed bakery), and quieter local stops to research on arrival |
 | Daejeon | [Open Daejeon guide](cities/daejeon.md) | KTX convenience, kalguksu, dubu-duruchigi, and Sungsimdang cakes |
 
 ## What the labels mean
@@ -47,7 +47,7 @@ Very roughly, for two people:
 
 * **[Draft Walking Food Routes](cities/walking-food-routes.md)** — beautifully organized neighborhood food walks combining lunch, shopping, cafes, and dinner in Seoul and Busan.
 * **[Tech & Booking Guide](booking-and-tech-guide.md)** — essential mobile apps, on-site queue instructions, and payment/cash strategy in Korea.
-* **[Naver Map Bookmarks CSV](restaurants-bookmarks.csv)** — a clean, structured table of all 535 verified restaurants with English/Korean names, addresses, and Naver Search links for instant pre-trip planning.
+* **[Naver Map Bookmarks CSV](restaurants-bookmarks.csv)** — named restaurants only (generated “Local / Harbour / Hub / Town + number” placeholders were removed on 2026-08-18). Links are Naver search URLs, not guaranteed live listings.
 
 ## Research status
 

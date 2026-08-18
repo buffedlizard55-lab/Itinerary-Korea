@@ -17,7 +17,7 @@
 2. After shaking stops: check for injuries; call **119** for ambulance if serious; check gas / water / electricity — if gas smell, turn off at valve if safe; do not use elevators.
 3. Gather at pre-agreed meeting point (hotel lobby / outside away from buildings / train station open area). Confirm both travelers are safe.
 4. Use **1330** (English 24/7) or **U.S. Embassy Seoul (+82-2-397-4114)** for guidance if communications fail / buildings are Unsafe.
-5. Monitor **KMA** (`https://www.kma.go.kr/eng/`, S12) for weather / storm updates; check **ICN** (`https://www.airport.kr`, S14) for flight delays; check **AREX** (`https://www.arex.or.kr`, S15) for train disruptions.
+5. Monitor **KMA** (`https://www.kma.go.kr/eng/`, S12) for weather / storm updates; check **ICN** (`https://www.airport.kr`, S14) for flight delays; check **AREX** (`https://www.airportrailroad.com`, S15) for train disruptions.
 
 **If an early winter storm delays your 8 Nov / 13 Nov / 20 Nov KTX:**
 - Build **3-hour buffer** for any critical travel day (arrival, inter-city moves, departure). Do not book non-refundable events on travel days.
@@ -197,7 +197,7 @@
 | Weather / storm / snow / temperature | **https://www.kma.go.kr/eng/** | S12 |
 | Air quality / fine dust / AQI / mask recommendation | **https://www.airkorea.or.kr** | S13 |
 | Airport flight / arrival / transport info | **https://www.airport.kr** | S14 |
-| AREX train schedules / fares / last train | **https://www.arex.or.kr** | S15 |
+| AREX train schedules / fares / last train | **https://www.airportrailroad.com** | S15 |
 | CSAT date / confirmation | **https://www.kice.re.kr** (search 수능 시행기본계획) | S10 |
 | Korean holidays / traffic calendar | **https://english.visitkorea.or.kr** | S9 |
 | Medication import / narcotics approval (if needed) | **narcotics@korea.kr** / **+82-43-719-2813** / **https://www.mfds.go.kr** | S4 / S11 |

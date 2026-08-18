@@ -73,7 +73,7 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 1. **Immigration / e-Arrival Card check:** Have your passport, printed / saved e-Arrival Card confirmation (submitted ≥72h before — do this now if you haven't), and return/onward info. No visa needed (≤90 days tourism; S1).
 2. **Baggage / customs:** Declare anything over limits; never carry marijuana / CBD / hemp products in checked or carry-on (even on layover — strictly enforced at ICN; S2/S4/S11).
 3. **Transport from ICN to Seoul (late-night):**
-   - **AREX (Airport Railroad Express):** Runs ~05:20–23:32 (last train ~23:32 / 11:32 PM; check https://www.arex.or.kr, S15). From Terminal 1 to Seoul Station ~43 min; fare ~₩9,000–11,000. If your flight lands at 21:00 and you clear immigration by 21:45–22:00, you may catch the ~22:30 departure — but it is tight. **Backup plan:** Night bus or taxi.
+   - **AREX Express:** Official last trains about **22:40 from T2 / 22:48 from T1**; T1→Seoul Station ~43 min; official adult fare **₩13,000** ([airportrailroad.com](https://www.airportrailroad.com)). A 21:00 landing is tight. **AREX All-Stop** runs later (~23:32 from T2; ₩4,750 T1 / ₩5,350 T2). **Backup:** night bus or taxi.
    - **Night bus N6000 / N6001:** Runs late into night; check airport info screens (S14).
    - **Taxi:** ~₩65,000–85,000 to central Seoul; **night surcharge 10 PM – 4 AM applies** (peaks ~+40% 11 PM – 2 AM). Use **Kakao T** (app) to avoid overcharge; ask for estimated fare before getting in; show the driver your **hotel address written in Korean** (save it in notes; S7).
    - **Emergency:** If the taxi refuses or overcharges severely, call **112** (police); have your hotel address ready; ask 1330 (English 24/7, +82-2-1330 from overseas) for help.
@@ -201,7 +201,7 @@ CSAT is Korea's national university entrance exam (~500,000+ test-takers, ~1,200
 
 **Transport to ICN:**
 
-- **AREX (Airport Railroad Express):** Runs ~05:20–23:32; from **Seoul Station** to **ICN Terminal 1** ~43 min; fare ~₩9,000–11,000 (S15). Best option if your hotel is near Seoul Station.
+- **AREX Express:** Seoul Station → ICN T1 ~43 min; official adult fare **₩13,000**; last Express from Seoul Station is late evening (confirm live). All-Stop is cheaper (₩4,750–₩5,350) and runs later.
 - **Airport bus:** Multiple lines from major hotels / subway stations; check airport info or ask 1330 / hotel concierge.
 - **Taxi:** ~₩65,000–85,000 to ICN from central Seoul; night / early-morning surcharges apply if you travel before 09:00; allow extra time for Sunday morning traffic (usually lighter; allow 60–90 min total from central Seoul to airport, plus check-in time).
 - **Kakao T:** Use to get exact fare estimate.
@@ -260,7 +260,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 | **KMA — Korea weather** | https://www.kma.go.kr/eng/ | Daily forecast / snow / rain / wind / temperature | S12 |
 | **AirKorea — air quality** | https://www.airkorea.or.kr | Fine dust / AQI / mask recommendation | S13 |
 | **Incheon Airport (ICN)** | https://www.airport.kr | Flight info / arrivals / departures / transport | S14 |
-| **AREX (airport train)** | https://www.arex.or.kr | Train schedules / fares / last train | S15 |
+| **AREX (airport train)** | https://www.airportrailroad.com | Train schedules / fares / last train | S15 |
 | **KICE — CSAT** | https://www.kice.re.kr (search "수능 시행기본계획") | Confirm CSAT date / time | S10 |
 | **KTO / VISITKOREA — holidays** | https://english.visitkorea.or.kr | Confirm no holidays / traffic | S9 |
 

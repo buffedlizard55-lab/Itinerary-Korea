@@ -27,8 +27,8 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 1. **🎆 Busan Fireworks Festival — Sat, Nov 7, 2026 (CONFIRMED)** — ~80,000 fireworks over Gwangalli Beach. Free public viewing. *(busan)*
 2. **🎮 G-STAR 2026 — Thu Nov 19 – Sun Nov 22, 2026 (CONFIRMED)** — Korea's biggest gaming expo at BEXCO, Busan. Perfect ending to your trip. *(busan)*
 3. **🏐 V-League volleyball season opener — Oct 31, 2026 (CONFIRMED)** — teams in **all four cities** (Seoul, Busan, Daejeon, Cheonan). Loud, cheap, wildly fun first live-sport experience. *(every city)*
-4. **⚽ Cheonan City FC vs Busan IPark — Sun, Nov 8, 2026 (CONFIRMED fixture)** — a real K-League 2 match right in the flex-city region. *(daejeon-cheonan)*
-5. **⚽ Seoul E-Land FC home games — Sat Nov 7 & Sun Nov 22, 2026 (CONFIRMED fixtures)** — cheap, easy K-League 2 soccer in Seoul's Mokdong Stadium. *(seoul)*
+4. **⚽ Cheonan City FC vs Busan IPark — listed as Sun Nov 8, 2026 (WATCH)** — re-check [kleague.com](https://www.kleague.com) before planning around it. *(daejeon-cheonan)*
+5. **⚽ Seoul E-Land FC home games — listed as Sat Nov 7 & Sun Nov 22 (WATCH)** — re-check kleague.com; kickoffs were not re-confirmed in the 18 Aug 2026 audit. *(seoul)*
 6. **🥬 Seoul Kimjang (Kimchi-Making) Culture Festival — early November, TBA** — UNESCO-listed kimchi culture; traditionally the first weekend of Nov at Seoul Plaza. *(seoul)*
 7. **🎨 BANKSY: Still Here — ends Tue Nov 3, 2026 (CONFIRMED)** — world-famous street-art exhibition at The Hyundai Seoul. Catch it in your first days. *(seoul)*
 8. **🏆 Melon Music Awards (MMA 2026) — Sat–Sun Nov 14–15, 2026 (CONFIRMED)** — K-pop's biggest award show, first-ever two-day edition, at Gocheok Sky Dome. Lineup & tickets drop ~Oct — watch Melon. *(seoul)*
@@ -45,9 +45,9 @@ A beginner-friendly guide to **live events, sports, festivals, attractions, and 
 | **Sun Nov 1** | **JTBC Seoul Marathon** (07:30 start — spectate or run) · Dear Evan Hansen musical closes | Seoul | ✅ |
 | Nov (recent yrs Nov 9–30) | **Korea Sale FESTA** — nationwide shopping discounts | Nationwide | ⏳ |
 | **Fri–Sun Nov 6–8** | **Daejeon International Wine EXPO** (tastings at Hanbit Tower) | Daejeon | ✅ |
-| Sat Nov 7 | **Busan Fireworks Festival** · Seoul E-Land vs Jeonnam · MCR / Jujutsu Kaisen concerts | Busan / Seoul / Incheon | ✅ |
+| Sat Nov 7 | **Busan Fireworks Festival** · MCR concert · E-Land fixture **WATCH** | Busan / Incheon / Seoul | ✅ / 👀 |
 | **Sat–Sun Nov 7–8** | **KGMA 2026** (Korea Grand Music Awards, first year at Gocheok) | Seoul (Gocheok Sky Dome) | ✅ |
-| Sun Nov 8 | Cheonan City FC vs Busan IPark (K-League 2) | Cheonan | ✅ |
+| Sun Nov 8 | Cheonan City FC vs Busan IPark (K-League 2) | Cheonan | 👀 |
 | ~Nov 9–17 | Korea national team friendlies (if announced) | Seoul / Suwon | 👀 |
 | ~Nov 9–15 | KBO **Korean Series** (baseball finals, may end before you land) | TBD (watch Seoul/Daejeon/Busan) | 👀 |
 | Thu Nov 12–13 | Bavarian Radio Symphony w/ Sir Simon Rattle (Seoul Arts Center) | Seoul | ✅ |
