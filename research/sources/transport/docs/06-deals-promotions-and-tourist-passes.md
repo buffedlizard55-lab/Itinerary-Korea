@@ -29,12 +29,14 @@ The standard KORAIL Pass allows unlimited KTX and regional train rides across Ko
 
 ## 2. Discover Seoul Pass (DSP)
 
-* **What it is:** A tourist pass providing free admission to 70+ attractions (Lotte World, N Seoul Tower, Gyeongbokgung Palace, river cruises) + **1 free AREX Express Train ticket** + built-in T-money IC transit card.
-* **Pricing (2026):**
-  * **24-Hour Pass:** 50,000 KRW ($35.71 USD)
-  * **48-Hour Pass:** 70,000 KRW ($50.00 USD)
-  * **72-Hour Pass:** 90,000 KRW ($64.29 USD)
-* **Break-Even Analysis:** A ticket to Lotte World (~59,000 KRW) + N Seoul Tower (~21,000 KRW) + AREX Express (~11,000 KRW) = **91,000 KRW**. A 48-Hour pass for 70,000 KRW saves 21,000+ KRW per person!
+* **What it is:** Official Seoul Tourism Organization pass for partner attractions. Physical card can be topped up for subway/bus; mobile pass includes a 5-day eSIM. **Confirm AREX inclusion on the current product page** before purchase — it is not guaranteed on every SKU.
+* **Official lineup (discoverseoulpass.com, Aug 2026):**
+  * **72-hour Pass:** 90,000 KRW
+  * **120-hour Pass:** 130,000 KRW
+  * **Pick 3 Basic:** 49,000 KRW
+  * **Pick 3 Theme Park:** 70,000 KRW
+  * Older 24h/48h SKUs may still appear on resellers — use the official site.
+* **Break-even:** Only buy if the partner attractions you would already pay for exceed the pass price. Observatory + theme-park math changes with live ticket prices (N Seoul Tower observatory is **₩29,000 adult** on nseoultower.co.kr; AREX Express is **₩13,000**).
 * **Official Website:** [https://www.discoverseoulpass.com](https://www.discoverseoulpass.com)
 
 ---
@@ -62,5 +64,5 @@ The standard KORAIL Pass allows unlimited KTX and regional train rides across Ko
 ## 5. Immediate Tax Refund (Duty-Free & Tax-Free Shopping)
 
 South Korea offers an **Immediate Tax Refund (`즉시 환급`)** for foreign tourists at participating shops (Olive Young, Lotte Mart, Uniqlo, department stores):
-* **How it works:** When spending over **15,000 KRW** in a single purchase, present your physical passport (or electronic passport scan) at the cash register.
-* **The Benefit:** The **7–8% VAT tax is instantly deducted** from your total bill at checkout—no need to wait in line at Incheon Airport refund kiosks!
+* **How it works:** Korea's standard VAT is **10%**. Immediate Tax Refund (`즉시 환급`) at participating stores typically requires a single purchase of at least **15,000 KRW** and less than **1,000,000 KRW**, with a typical trip cap around **5,000,000 KRW**. Present your physical passport at the cashier.
+* **The cash you receive is usually less than 10%** because refund operators deduct a service fee. Do not treat 7.5% as the VAT rate.

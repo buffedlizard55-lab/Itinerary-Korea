@@ -20,7 +20,7 @@ To secure the lowest fares and guaranteed side-by-side seating for 2 travelers, 
 | **Day 13: Busan -> Gyeongju** *(KTX/SRT)* | Thursday, Nov 12, 2026 | Oct 13 at 07:00 KST | **Monday, Oct 12 at 3:00 PM PDT** | Book 35-min KTX hop to Singyeongju Station on [letskorail.com](https://www.letskorail.com) or SRT on [etk.srail.kr](https://etk.srail.kr). |
 | **Day 16: Gyeongju -> Seoul** *(KTX)* | Sunday, Nov 15, 2026 | Oct 16 at 07:00 KST | **Thursday, Oct 15 at 3:00 PM PDT** | High demand Sunday return! Reserve 2 side-by-side seats on [letskorail.com](https://www.letskorail.com). |
 | **Option B: Jeju Flights** *(If chosen)* | Nov 12 - Nov 15 | 2–3 Months in advance | **August – September 2026** | Compare Jeju Air, T'way, Korean Air on [airport.co.kr/jejueng](https://www.airport.co.kr/jejueng/index.do). |
-| **AREX Express Train** *(ICN -> Seoul)* | Oct 31 & Nov 22 | Up to 2 months early | **September 2026** | Book non-stop AREX tickets on [arex.or.kr](https://www.arex.or.kr) or via Discover Seoul Pass. |
+| **AREX Express Train** *(ICN -> Seoul)* | **Nov 1 arrival 21:00** (do not count on last Express) & Nov 22 | Up to 60 days ahead on airportrailroad.com | **September 2026** | Book on [airportrailroad.com](https://www.airportrailroad.com). Official adult fare **₩13,000**. Last Express T2 **22:40** / T1 **22:48** — a 21:00 landing is tight; plan All-Stop, night bus, or taxi. |
 
 ---
 

@@ -18,7 +18,7 @@ This folder contains all verified reference material. Start with [`README.md` at
 - [`04-health-medications.md`](04-health-medications.md) — CDC vaccines; medication import rules (no cannabis/CBD; narcotics/amphetamines/benzodiazepines need MFDS approval); travel insurance
 - [`05-weather-packing.md`](05-weather-packing.md) — Nov avg ~11–12 °C / 2–3 °C low; 5–7 rainy days; possible snow late month; fine-dust / AQI; pack KF94/N95
 - [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: morning traffic mgmt, ~1:05–1:40 PM aviation hold
-- [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: AREX last ~23:32 / night bus N6000/N6001 / taxi night surcharge +40% 11 PM–2 AM / Kakao T / Korean address
+- [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: AREX Express last ~22:40 T2 / All-Stop last ~23:32 T2 / night bus N6000/N6001 / taxi night surcharge +40% 11 PM–2 AM / Kakao T / Korean address
 - [`08-safety-security.md`](08-safety-security.md) — Level 1 advisory; STEP enrollment; crowd-crush awareness (Itaewon 2022); lost passport
 
 ## Money & Communication

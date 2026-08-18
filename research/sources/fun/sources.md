@@ -133,7 +133,7 @@ Every entry in this repo links to an **official, verified source** (government b
 | COEX | COEX Exhibition Center conventions | https://www.coex.co.kr |
 | KINTEX | KINTEX Exhibition Center (Ilsan) | https://www.kintex.com |
 | Garak Market | Garak agricultural & seafood market | https://www.garak.co.kr |
-| Noryangjin Market | Noryangjin fisheries wholesale market | https://www.suhyup-yangyang.co.kr |
+| Noryangjin Market | Noryangjin fisheries wholesale market | https://www.susansijang.co.kr |
 | Platform 61 | 창동 Platform 61 container art hub | http://platform61.scf.or.kr |
 | Bongeunsa Temple | Bongeunsa temple stay & Maitreya Buddha | http://www.bongeunsa.org |
 | Jogyesa Temple | Jogyesa head temple & chrysanthemum displays | http://www.jogyesa.kr |
@@ -264,7 +264,8 @@ Every entry in this repo links to an **official, verified source** (government b
 | Fever | Candlelight Concerts ticketing platform | https://feverup.com |
 | Seoul Sky | Lotte World Tower Observatory (Seoul) | https://seoulsky.lotteworld.com |
 | Namsan Cable Car | Cable car to N Seoul Tower | https://www.cablecar.co.kr |
-| N Seoul Tower | Namsan tower observatory & plaza | https://www.seoultower.co.kr |
+| N Seoul Tower observatory (CJ) | Official observatory hours & fares | https://www.nseoultower.co.kr |
+| N Seoul Tower plaza (YTN) | Plaza / Love Locks site | https://www.seoultower.co.kr |
 | Busan Infrastructure Corporation (BISCO) | Busan Tower (Diamond Tower) operator | https://www.bisco.or.kr |
 | Daejeon Astronomical Observatory | Public stargazing observatory (Daejeon) | https://djstar.kr |
 | Daejeon Tourism Organization | Hanbit Tower & Expo Park tourism | https://www.djto.kr |

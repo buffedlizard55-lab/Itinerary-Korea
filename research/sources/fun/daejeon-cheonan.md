@@ -19,11 +19,11 @@ Both cities are 35–60 minutes from Seoul by KTX, and both sit right on the Seo
 - **Price:** Typically ~₩10,000–25,000 (~$7–18) — verify per match
 - **Beginner notes:** This is the single best "event insurance" for the flex cities — nearly every week of November has a home match in **both** Daejeon and Cheonan. Korean volleyball = drums, chants, mascots, and ridiculously good rallies.
 
-## 2) ⚽ Cheonan City FC — K League 2 — ✅ CONFIRMED fixture
-- **Sun, Nov 8, 2026 — 14:00** vs **Busan IPark** — **Cheonan General Stadium** (천안종합운동장; city center, bus/taxi from Cheonan-Asan KTX station)
-- **Price:** K League 2 singles commonly ~₩10,000–20,000 (~$7–14); Cheonan is known for budget-friendly tickets
+## 2) ⚽ Cheonan City FC — K League 2 — 👀 WATCH (re-check kleague.com)
+- Earlier research listed **Sun Nov 8, 2026 vs Busan IPark** at Cheonan General Stadium. That kickoff was **not re-confirmed** on kleague.com in the 18 Aug 2026 audit.
+- **Price:** K League 2 singles commonly ~₩10,000–20,000 — verify per match
 - **Official sources:** [kleague.com](https://www.kleague.com) · [cheonancityfc.kr](https://cheonancityfc.kr)
-- **Beginner notes:** A real match day in a mid-size Korean city — local food stalls, family crowd, no English needed to have fun. Great anchor for a Cheonan weekend (Nov 7–8).
+- **Beginner notes:** A mid-size Korean city match day is fun if the date lands — do not lock hotels or trains to this fixture until the official list is live.
 
 ## 3) 🍜 Noodle Daejeon Festival (누들대전축제) — ⏳ TBA (2025: Nov 7–9)
 - **Dates:** 2026 TBA — 2025 edition ran **Nov 7–9** at Hanbit Tower Plaza, Yuseong, Daejeon; expect a similar early-November weekend

@@ -50,14 +50,14 @@ We land at **21:00**. Expect hotel arrival **23:00–01:00+**. Elevator routing 
 ### Day 2 · Mon, Nov 2 — Seoul · Seated palace
 - **First move:** check out arrival hotel (~10:00); Nine Tree Myeongdong continuation — bags stored.
 
-- **Late morning:** **Gyeongbokgung Palace & Bukchon Hanok Village** — use **Gyeongbokgung Station Line 3 Exit 5** or **Anguk Station Line 3 Exit 3** per destinations.json (both have elevator per `station_exits_detail.json` — verify on Seoul Metro elevator page night-before). Royal Guard Changing Ceremony 10:00/14:00 (closed Tuesdays) per `royal.cha.go.kr` via destinations.json.
+- **Late morning:** **Gyeongbokgung Palace & Bukchon Hanok Village** — use **Gyeongbokgung Station Line 3 Exit 5** or **Anguk Station Line 3 Exit 3** per destinations.json (both have elevator per `station_exits_detail.json` — verify on Seoul Metro elevator page night-before). Royal Guard Changing Ceremony 10:00/14:00 (closed Tuesdays) per `royal.khs.go.kr` via destinations.json.
 - **Afternoon:** Gyeongbokgung with frequent bench stops; National Palace Museum (indoor, benches) if stairs fatigue.
 - **Evening:** Early night.
 - **Stay:** Seoul — Nine Tree Myeongdong (night 2/7).
 
 ### Day 3 · Tue, Nov 3 — Seoul · Namsan without stairs
 
-- **Morning:** **Myeongdong Shopping Street & N Seoul Tower** — use **Myeongdong Station Line 4 Exit 6** per destinations.json, then **Namsan Suncheon Green Bus #01** up to tower (seated shuttle per walking-maps Seoul Route C) rather than cable-car queue; or **Namsan Orumi** inclined glass elevator + cable car (₩15,000 round-trip per `cablecar.co.kr` in walking-maps C) for step-free ascent. Plaza sitting, rooftop views.
+- **Morning:** **Myeongdong Shopping Street & N Seoul Tower** — use **Myeongdong Station Line 4 Exit 6** per destinations.json, then **Namsan circulation bus 01A/01B** up to tower (seated shuttle per walking-maps Seoul Route C) rather than cable-car queue; or **Namsan Orumi** inclined glass elevator + cable car (₩15,000 round-trip per `cablecar.co.kr` in walking-maps C) for step-free ascent. Plaza sitting, rooftop views.
 - **Afternoon:** Myeongdong market rest; Cheonggyecheon flat boardwalk.
 - **Evening:** DDP Dream in Light 18:00–22:00 free seated hourly ~25 min per `ddp.or.kr` (events.csv).
 - **Stay:** Seoul — night 3/7.

@@ -4,7 +4,7 @@
     "checkIn": "2026-10-31",
     "checkOut": "2026-11-22",
     "nights": 22,
-    "note": "Oct 31 – Nov 22, 2026 (22 nights). Autumn shoulder season — leaf-peeping, mild temps, lighter crowds than summer, and generally better hotel rates than spring high season. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
+    "note": "EXAMPLE hotel-comparison frame only (Seoul–Gyeongju–Busan). The live trip window used by the 30 sample itineraries is ICN arrival 21:00 on 1 Nov 2026 and ICN departure 13:00 on 22 Nov 2026. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
   },
   "split": {
     "recommended": "Seoul 8 nights (Oct 31–Nov 8) · Gyeongju 6 nights (Nov 8–Nov 14) · Busan 8 nights (Nov 14–Nov 22)",
@@ -1285,8 +1285,8 @@
         "Laundry",
         "24-hr reception"
       ],
-      "officialUrl": null,
-      "officialLabel": "Book via OTA (no official English site)",
+      "officialUrl": "http://www.gghotel.co.kr/main.asp?lang=en",
+      "officialLabel": "Official site (gghotel.co.kr)",
       "compareUrl": "https://www.kayak.com/hotels/Gyeongju,c41830/GG-Hotel-Gyeongju",
       "compareLabel": "Compare rates (KAYAK)",
       "why": "Clean, central, very affordable — the smart budget base in Gyeongju.",
@@ -1642,8 +1642,8 @@
         "Business center",
         "Laundry facilities"
       ],
-      "officialUrl": "https://www.bestwestern.com/en_US/book/hotel-details.cheonan-south-korea.html",
-      "officialLabel": "Official site (bestwestern.com)",
+      "officialUrl": null,
+      "officialLabel": "No official Best Western property page found Aug 2026 — book via a live OTA and confirm the property still exists",
       "compareUrl": "https://www.kayak.com/hotels/Cheonan,c58525/Best-Western-Asan-Hotel",
       "compareLabel": "Compare rates (KAYAK)",
       "why": "Best location for pure KTX convenience — right by the high-speed station.",
@@ -2157,8 +2157,8 @@
         "Laundry facilities"
       ],
       "hasOnSiteLaundry": true,
-      "officialUrl": null,
-      "officialLabel": "Book via OTA (no official English site)",
+      "officialUrl": "https://www.hotelinterciti.com/english",
+      "officialLabel": "Official site (hotelinterciti.com) / VisitKorea",
       "compareUrl": "https://www.kayak.com/hotels/Daejeon,c61292/Hotel-Interciti",
       "compareLabel": "Compare rates (KAYAK)",
       "why": "Solid mid-range choice in the popular Yuseong district.",

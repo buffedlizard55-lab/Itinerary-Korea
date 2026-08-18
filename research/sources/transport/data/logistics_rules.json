@@ -4,20 +4,20 @@
   "sweet_spot_comparisons": [
     {
       "scenario": "Incheon Airport (ICN) -> Central Seoul Hotel",
-      "cheapest_option": {
+        "cheapest_option": {
         "mode": "AREX All-Stop Commuter Train",
-        "time": "59 - 66 min",
-        "cost_2_people_krw": 8900,
-        "cost_2_people_usd": 6.36,
-        "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage)"
+        "time": "61 - 67 min",
+        "cost_2_people_krw": 9500,
+        "cost_2_people_usd": 6.79,
+        "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage). T1 fare 4,750 KRW; T2 fare 5,350 KRW."
       },
       "sweet_spot_option": {
         "mode": "AREX Express Train (Non-Stop)",
         "time": "43 - 51 min",
-        "cost_2_people_krw": 22000,
-        "cost_2_people_usd": 15.71,
+        "cost_2_people_krw": 26000,
+        "cost_2_people_usd": 18.57,
         "hassle_level": "Zero (Reserved reclining seats, dedicated luggage racks, free Wi-Fi, drops at Seoul Station)",
-        "why_sweet_spot": "For only $9.35 extra total for both travelers, you eliminate commuter crowds and get a relaxing non-stop express ride after a transpacific flight."
+        "why_sweet_spot": "For about $12 extra total for both travelers at the official 13,000 KRW adult fare, you eliminate commuter crowds and get a reserved non-stop ride after a transpacific flight."
       },
       "luxury_option": {
         "mode": "Official Airport Taxi / Kakao T",
@@ -118,9 +118,9 @@
     },
     {
       "system": "AREX Airport Express Train (ICN <-> Seoul Station)",
-      "operating_hours": "From ICN T2: 05:15 - 22:40 | From Seoul Station: 06:10 - 22:50",
-      "peak_rush_hours": "Runs every 40 minutes (reserved seating)",
-      "official_site": "https://www.arex.or.kr"
+      "operating_hours": "Published Express table: first T2 05:16 / T1 05:24; last T2 22:40 / T1 22:48. All-stop last from T2 about 23:32. Confirm live on airportrailroad.com.",
+      "peak_rush_hours": "Express about every 30–40 minutes (reserved seating)",
+      "official_site": "https://www.airportrailroad.com"
     },
     {
       "system": "KORAIL KTX High-Speed Train (Seoul <-> Busan)",
@@ -138,19 +138,19 @@
       "system": "Gyeongbokgung Palace (Seoul)",
       "operating_hours": "09:00 - 17:00 (Nov winter hours; Closed Tuesdays)",
       "peak_rush_hours": "Royal Guard Changing at 10:00 & 14:00",
-      "official_site": "https://royal.cha.go.kr"
+      "official_site": "https://royal.khs.go.kr"
     },
     {
       "system": "N Seoul Tower (Namsan)",
-      "operating_hours": "10:00 - 23:00 daily",
+      "operating_hours": "Observatory 10:00–22:30 weekdays / 10:00–23:00 weekends & holidays (last entry 30 min before close; nseoultower.co.kr)",
       "peak_rush_hours": "Sunset (17:00 - 18:30 in November)",
       "official_site": "https://www.nseoultower.co.kr"
     },
     {
       "system": "National Museum of Korea",
-      "operating_hours": "10:00 - 18:00 (Mon/Tue/Thu/Fri/Sun) | 10:00 - 21:00 (Wed/Sat Night Open)",
+      "operating_hours": "09:30–17:30 Mon/Tue/Thu/Fri/Sun | 09:30–21:00 Wed/Sat (official museum.go.kr; last admission 30 min before close)",
       "peak_rush_hours": "Free general admission",
-      "official_site": "https://english.visitkorea.or.kr"
+      "official_site": "https://www.museum.go.kr"
     },
     {
       "system": "Haeundae Blue Line Beach Train (Busan)",

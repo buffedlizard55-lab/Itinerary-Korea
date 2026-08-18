@@ -26,12 +26,11 @@ Sorted by date. Everything links to an official source. Status legend: ✅ confi
 - **Official sources:** [gstar.or.kr](https://www.gstar.or.kr) · [bexco.co.kr](https://www.bexco.co.kr)
 - **Beginner notes:** Korea's biggest gaming expo — free-play demos of the year's most hyped PC/mobile games, indie booths, cosplayers, and esports stages. It lands on your **final 4 days in Korea** — a perfect closing weekend in Busan. Crowds are big on Sat/Sun; go Friday if you can.
 
-## 3) ⚽ Busan IPark — K League 2 — ✅ CONFIRMED home fixture
-- **Sat, Nov 21, 2026 — 14:00** vs Chungnam Cheongju — **Gudeok Stadium** (Busan's historic stadium; Subway Line 1, Toseong station + walk)
-- **Price:** Busan IPark single tickets ≈ ₩15,000 (~$11) — verify on club ticketing
+## 3) ⚽ Busan IPark — K League 2 — 👀 WATCH (re-check kleague.com)
+- Earlier research listed **Sat Nov 21 vs Chungnam Cheongju** at Gudeok Stadium, and an away match at Cheonan City on Nov 8. Those kickoffs were **not re-confirmed** on kleague.com in the 18 Aug 2026 audit.
+- **Price:** Club singles often around ₩15,000 — verify on club ticketing
 - **Official sources:** [kleague.com](https://www.kleague.com) · [busanipark.com](https://www.busanipark.com)
-- **Beginner notes:** Same weekend as G-STAR — BEXCO (Haeundae) and Gudeok (Seo-gu) are ~1 hr apart by subway, so an afternoon match + evening expo is doable but tight; pick your priority.
-- *(Also: Busan plays **away at Cheonan City FC on Nov 8** — see the Daejeon/Cheonan file if your flex lines up.)*
+- **Beginner notes:** If a home date lands on the G-STAR weekend, BEXCO and Gudeok are ~1 hr apart by subway — pick a priority after the official list is live.
 
 ## 4) 🏐 V-League Volleyball — Busan OK Savings Bank (men) — ✅ CONFIRMED season
 - **Season:** Oct 31, 2026 – Apr 2, 2027 (official KOVO dates); home matches run through November

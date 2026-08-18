@@ -34,9 +34,9 @@ We land at **21:00**. Hotel arrival **23:00–01:00+**.
 - **Korea Sale Festa** — national autumn festival **late Oct–mid Nov** (2025 ran Oct 29–Nov 16 per `koreasalefesta.co.kr` in docs; 2026 expected to cover Oct 31–Nov 22). Look for official banners at F&B chains, food halls, convenience stores — instant coupon/scan, **no ID**.
 - **Airline boarding pass** — Asiana Magic / Korean Air Excellent Boarding Pass → **10–20% off** at participating Seoul restaurants/tea houses/hotel buffets for **7 days to 1 month after arrival** (source: `flyasiana.com` per docs). Bring passport (name match).
 - **Tongin Market** — coin lunchbox **₩10,000 for 20 brass coins** + tray, Tue–Sun 11:00–16:00, closed Mondays/3rd Sunday per `ivisitkorea.com` video-verified link.
-- **Dookki tteokbokki buffet** — AYCE adult **₩11,900** (8 rice-cake styles, fried, ramen, soft drinks — per NamuWiki 2026 TOS link); **Myeongryun Jinsa Galbi** pork BBQ AYCE **₩21,900** with soft drinks (same source tier) — both **zero app/ID needed**.
+- **Dookki / Myeongnyun Jinsa Galbi** — real national chains; treat posted AYCE prices as **live quotes to confirm on the branch page or Naver**, not as a guaranteed 2026 fare.
 - **Convenience stores** CU/GS25/7-Eleven/emart24 — **1+1 and 2+1 on drinks/snacks**, promos reset 1st of each month per `cu.bgfretail.com` · `gs25.gsretail.com`.
-- **Depart-mart immediate tax refund** — at Lotte Mart & E-Mart, **immediate ~6–7% tax exemption at checkout ≥₩15,000 on edible gifts/groceries** with passport per `lottedepart` guides (docs). No airport kiosk needed for these.
+- **Immediate tax refund** — Korea VAT is **10%**. At participating stores (including some Lotte Mart / E-Mart counters), a single purchase of at least **₩15,000** can be refunded at the cashier with your passport. The cash you receive is usually **less than 10%** after the operator fee. Confirm the store is in the immediate-refund program.
 
 **Skip (needs Korean phone `본인인증` — blocked for US tourists):** Starbucks Korea Rewards, Outback/Burger King tier birthdays, most native delivery apps — use Shuttle+Klook or Baemin Guest Checkout (`비회원 주문` with foreign card per `apps.json` note) instead.
 
@@ -60,7 +60,7 @@ We land at **21:00**. Hotel arrival **23:00–01:00+**.
 ### Day 3 · Tue, Nov 3 — Seoul · Dookki + BanK libraries
 
 - **Morning:** National Museum of Korea free (museum.go.kr) — half day, no ticket.
-- **Afternoon:** **Dookki tteokbokki buffet ₩11,900 AYCE** — zero phone, zero ID per verification table — good cheap anchor before the Festa.
+- **Afternoon:** **Dookki tteokbokki buffet** — confirm the live adult AYCE price on the branch listing before you go.
 - **Evening:** War Memorial of Korea free.
 - **Stay:** Seoul — night 3/6.
 
@@ -154,7 +154,7 @@ We land at **21:00**. Hotel arrival **23:00–01:00+**.
 
 ### Day 18 · Wed, Nov 18 — Busan · Lotte Mart tax-free shop
 
-- **Full day:** **Lotte Mart & E-Mart immediate tax refund** — edible gifts/groceries **≥₩15,000 get ~6–7% immediate exemption at checkout with passport** per `straits times` / `smalltownofsuajjang.com` guides in verification table (checked 2026-07). This replaces the airport kiosk for these buys. Keep sealed bags sealed until ICN.
+- **Full day:** **Lotte Mart / E-Mart immediate tax refund (if the store participates)** — VAT is **10%**; you typically receive less after the operator fee. Single purchase usually must be at least **₩15,000**. Confirm on the store’s tax-refund sign and keep sealed bags intact until ICN. Do not treat blog “6–7%” figures as the VAT rate.
 - **Stay:** Busan — night 7/8.
 - **Note:** Fireworks/G-STAR mid-Nov windows — free if dates land here per `research/sources/fun/busan.md`.
 

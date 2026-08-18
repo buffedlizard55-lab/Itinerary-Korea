@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-03",
+  "last_updated": "2026-08-18",
   "cards": [
     {
       "id": "t_money",
@@ -33,7 +33,7 @@
       "type": "Unlimited Transit Pass for Seoul Subways & Buses",
       "price_krw": 15000,
       "where_to_buy": "Seoul Subway station Customer Safety Centers (Lines 1-8) and convenience stores near tourist hubs.",
-      "where_to_recharge": "Valid for 1, 2, 3, 5, or 7 consecutive days (e.g., 5-Day Pass is only 15,000 KRW = ~$10.70 USD!).",
+      "where_to_recharge": "Seoul-published tourist prices: 1-day ₩5,000, 2-day ₩8,000, 3-day ₩10,000, 5-day ₩15,000 (english.seoul.go.kr, 2024 launch; still cited in 2026 guides). A 7-day option is often listed around ₩20,000 — confirm at the machine.",
       "coverage": "Unlimited rides on Seoul subways and Seoul city buses (blue, green, yellow). Excludes AREX Express, Shinbundang line, and intercity buses outside Seoul.",
       "official_site": "https://english.seoul.go.kr",
       "best_for": "Travelers spending 3 to 7 intensive days exploring Seoul and riding transit 3+ times per day.",
@@ -56,15 +56,15 @@
     {
       "id": "discover_seoul_pass",
       "name": "Discover Seoul Pass (DSP)",
-      "type": "Attractions + AREX Express Train + T-money Function",
-      "price_krw": 50000,
-      "where_to_buy": "Official website, Incheon Airport kiosks, or Klook.",
-      "where_to_recharge": "24h (50,000 KRW), 48h (70,000 KRW), or 72h (90,000 KRW).",
-      "coverage": "Free entry to 70+ top attractions (Lotte World, N Seoul Tower, Gyeongbokgung Palace) + 1 free AREX Express train ticket + T-money card.",
+      "type": "Attractions + transit card / mobile pass",
+      "price_krw": 90000,
+      "where_to_buy": "Official site discoverseoulpass.com (Seoul Tourism Organization).",
+      "where_to_recharge": "Official lineup as of Aug 2026: 72-hour 90000 KRW; 120-hour 130000 KRW; Pick 3 Basic 49000 KRW; Pick 3 Theme Park 70000 KRW. Older 24h/48h SKUs may still appear on resellers.",
+      "coverage": "Free entry to 70+ partner attractions plus discounts. Physical card can be topped up for subway/bus; mobile pass includes a 5-day eSIM. Confirm AREX inclusion on the current product page before purchase.",
       "official_site": "https://www.discoverseoulpass.com",
-      "best_for": "First-time visitors who want to pack major tourist sights and airport transport into 48-72 hours.",
+      "best_for": "First-time visitors stacking several paid Seoul attractions into 3-5 days.",
       "sf_japan_equivalent": "Like the San Francisco CityPASS or Osaka Amazing Pass.",
-      "pro_tip": "Use the physical card as a permanent T-money transit card even after your 24/48/72h attraction window expires!"
+      "pro_tip": "Compare the official attraction list with your actual saved list. A pass is only a saving if you would have paid those admissions anyway."
     },
     {
       "id": "visit_busan_pass",
@@ -72,7 +72,7 @@
       "type": "Busan Attractions + Transit Function",
       "price_krw": 55000,
       "where_to_buy": "Visit Busan Pass website, Busan Station, or Klook.",
-      "where_to_recharge": "24h Pass (55,000 KRW), 48h Pass (85,000 KRW), or Big3/Big5 Flex Pass.",
+      "where_to_recharge": "Official card prices on visitbusanpass.com: 24h ₩55,000; 48h ₩85,000; Big 3 ₩45,000; Big 5 ₩65,000.",
       "coverage": "Free entry to Haeundae Blue Line Park Beach Train, Busan X the Sky, Lotte World Busan, Skyline Luge + built-in transit card.",
       "official_site": "https://www.visitbusanpass.com",
       "best_for": "2-3 days of coastal sightseeing in Busan.",

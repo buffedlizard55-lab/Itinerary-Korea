@@ -24,7 +24,7 @@ When you are ready to finalize your exact dates and activities for your Oct 31 â
 
 | Destination | Category | Nearest Station / Exit | Primary Mode & Card | Est. Cost (2 People) | Verified Official Website |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Gyeongbokgung & Bukchon Hanok Village** | Royal Palace & Hanok | Gyeongbokgung Station (Line 3, Exit 5) | Subway Line 3<br>*(Climate Card / T-money)* | 3,000 KRW | [royal.cha.go.kr](https://royal.cha.go.kr) |
+| **Gyeongbokgung & Bukchon Hanok Village** | Royal Palace & Hanok | Gyeongbokgung Station (Line 3, Exit 5) | Subway Line 3<br>*(Climate Card / T-money)* | 3,000 KRW | [royal.khs.go.kr](https://royal.khs.go.kr) |
 | **Myeongdong & N Seoul Tower** | Shopping & Viewpoint | Myeongdong Station (Line 4) + Namsan Bus #01 | Subway Line 4 + Bus #01<br>*(Climate Card / T-money)* | 3,000 KRW | [nseoultower.co.kr](https://www.nseoultower.co.kr) |
 | **Hongdae & Yeonnam-dong** | Youth Culture & Parks | Hongik Univ. Station (Line 2 / AREX) | Subway Line 2 (Green Loop)<br>*(Climate Card / T-money)* | 3,000 KRW | [visitkorea.or.kr](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=113063) |
 | **Gangnam & COEX / Bongeunsa** | Architecture & Temple | Samseong (Line 2) / Bongeunsa (Line 9) | Subway Line 2 / 9 Express<br>*(Climate Card / T-money)* | 3,400 KRW | [coexmall.com](https://www.coexmall.com) |

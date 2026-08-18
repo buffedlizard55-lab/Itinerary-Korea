@@ -118,8 +118,8 @@ Koreatransport/
 * **[KORAIL Saver Pass (for 2–5 People)](https://www.letskorail.com)**: When two travelers book a **2-Day Flexible Pass (121,000 KRW / ~$86 USD per person)** or **4-Day Flexible Pass (224,000 KRW / ~$160 USD per person)**, you save 10–20% compared to standard passes AND get up to 2 free reserved seat selections per day. Ideal for the **Seoul ➔ Busan ➔ Gyeongju ➔ Seoul** loop!
 * **[Seoul Climate Card (2026 Tourist Edition)](https://english.seoul.go.kr)**: Buy a **5-Day Pass for 15,000 KRW (~$10.70 USD)** at any Seoul subway station to enjoy unlimited subway and bus rides in Seoul. You break even after just 10 rides!
 * **[WOWPASS All-in-One Card](https://www.wowpass.io)**: Buy at Incheon Airport kiosks (5,000 KRW card fee). Convert your USD cash to KRW debit balance at competitive exchange rates without bank foreign transaction fees, plus enjoy cashback at Olive Young and Starbucks.
-* **[Discover Seoul Pass](https://www.discoverseoulpass.com)** & **[Visit Busan Pass](https://www.visitbusanpass.com)**: 24h, 48h, and 72h passes that include free entry to top attractions (Lotte World, N Seoul Tower, Haeundae Beach Train, Spa Land) plus built-in transit functions.
-* **Immediate Tax Refund (`즉시 환급`)**: Bring your passport when shopping over 15,000 KRW at Olive Young, Lotte Mart, Uniqlo, or department stores to have the 7–8% VAT tax deducted instantly at the cash register!
+* **[Discover Seoul Pass](https://www.discoverseoulpass.com)** official SKUs (Aug 2026): **72h ₩90,000 · 120h ₩130,000 · Pick 3 Basic ₩49,000 · Pick 3 Theme ₩70,000**. **[Visit Busan Pass](https://www.visitbusanpass.com)**: 24h ₩55,000 · 48h ₩85,000 · Big 3 ₩45,000 · Big 5 ₩65,000.
+* **Immediate Tax Refund (`즉시 환급`)**: Korea VAT is **10%**. At participating stores, a single purchase of at least 15,000 KRW (under 1,000,000 KRW) can be refunded at the cashier with your passport. The cash you receive is usually less than 10% after the operator fee.
 
 ---
 
@@ -139,7 +139,7 @@ Don't drag 27-inch+ suitcases across subway stairs or on day trips! Use these of
 * **KOBUS (Korea Express Bus Network):** [https://www.kobus.co.kr](https://www.kobus.co.kr)
 * **TxBus (Intercity Bus Booking):** [https://txbus.t-money.co.kr](https://txbus.t-money.co.kr)
 * **BUSTAGO (National Intercity Bus):** [https://www.bustago.or.kr](https://www.bustago.or.kr)
-* **AREX (Incheon Airport Express Train):** [https://www.arex.or.kr](https://www.arex.or.kr)
+* **AREX passenger site (tickets / fares / timetable):** [https://www.airportrailroad.com](https://www.airportrailroad.com) · company site: [https://www.arex.or.kr](https://www.arex.or.kr)
 * **Incheon International Airport (ICN):** [https://www.airport.kr/ap/en/index.do](https://www.airport.kr/ap/en/index.do)
 * **Gimhae International Airport (Busan):** [https://www.airport.co.kr/gimhaeeng/index.do](https://www.airport.co.kr/gimhaeeng/index.do)
 * **T-money Official Tourist Portal:** [https://www.t-money.co.kr](https://www.t-money.co.kr)

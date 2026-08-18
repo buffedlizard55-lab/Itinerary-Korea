@@ -1,12 +1,12 @@
 {
   "meta": {
     "name": "Korea Compass",
-    "generatedOn": "2026-08-08",
+    "generatedOn": "2026-08-18",
     "disclaimer": "This is a planning workspace assembled from the linked repositories. Prices, availability, eligibility, opening hours, visa/entry rules, transport operations, and event dates can change. Open the official link and verify critical details before booking or travel.",
     "counts": {
       "sources": 6,
       "hotels": 34,
-      "food": 535,
+      "food": 50,
       "events": 110,
       "activities": 443,
       "places": 15,
@@ -130,7 +130,7 @@
       "city": "Seoul",
       "category": "Historic & Royal Heritage",
       "nearest_station": "Gyeongbokgung Station (Subway Line 3, Exit 5) or Anguk Station (Line 3, Exit 3)",
-      "official_site": "https://royal.cha.go.kr",
+      "official_site": "https://royal.khs.go.kr",
       "transit_card_used": "Seoul Climate Card or T-money",
       "est_transit_time_from_center": "10-15 min from Seoul Station / Myeongdong",
       "est_cost_two_travelers_krw": 3000,
@@ -148,7 +148,7 @@
       "transit_card_used": "Seoul Climate Card or T-money",
       "est_transit_time_from_center": "5 min from Seoul Station",
       "est_cost_two_travelers_krw": 3000,
-      "autumn_highlight": "Take the Namsan Suncheon Circular Green Bus #01 up to N Seoul Tower for 360-degree sunset views of Seoul's autumn foliage.",
+      "autumn_highlight": "Take Namsan circulation bus 01A/01B (green circular / 순환버스, not a Suncheon city bus) up to N Seoul Tower for sunset views of Seoul's autumn foliage.",
       "source": "transport",
       "sourcePath": "research/sources/transport/data/destinations.json"
     },
@@ -211,7 +211,7 @@
     {
       "id": "daytrip_nami_island",
       "name": "Nami Island & Gapyeong Autumn Foliage",
-      "city": "Gapyeong (Gangwon-do)",
+      "city": "Gapyeong (Gyeonggi-do)",
       "category": "Scenic Nature & Tree-Lined Avenues",
       "nearest_station": "Gapyeong Station (KORAIL ITX-Cheongchun Train)",
       "official_site": "https://namisum.com/en/",
@@ -283,7 +283,7 @@
       "name": "Haedong Yonggungsa Seaside Temple",
       "city": "Busan",
       "category": "Ocean Cliff Buddhist Temple",
-      "nearest_station": "Osiria Station (Dong해 Line) or Bus #181 / Kakao T Taxi from Haeundae",
+      "nearest_station": "Osiria Station (Donghae Line) or Bus #181 / Kakao T Taxi from Haeundae",
       "official_site": "https://yonggungsa.or.kr",
       "transit_card_used": "T-money or Kakao T Taxi",
       "est_transit_time_from_center": "20 min taxi from Haeundae (~12,000 KRW)",
@@ -342,13 +342,13 @@
       "to": "Seoul Station (Non-Stop)",
       "mode": "AREX Express Train",
       "duration": "43 min (T1) / 51 min (T2)",
-      "cost_krw_per_person": 11000,
-      "cost_krw_two_travelers": 22000,
-      "cost_usd_two_travelers": 15.71,
+      "cost_krw_per_person": 13000,
+      "cost_krw_two_travelers": 26000,
+      "cost_usd_two_travelers": 18.57,
       "beginner_friendliness": "5/5",
-      "booking_site": "https://www.arex.or.kr",
+      "booking_site": "https://www.airportrailroad.com",
       "iphone_app": "AREX / Klook",
-      "recommendation": "Reserved seating, dedicated luggage racks, free Wi-Fi. Easiest and fastest non-stop ride to central Seoul.",
+      "recommendation": "Official adult fare is 13,000 KRW on airportrailroad.com/train/express/introduce (child 9,500 KRW). Reserved seating and dedicated luggage racks. Published timetable: first Express T2 05:16 / T1 05:24; last Express T2 22:40 / T1 22:48 — confirm the live table before you fly.",
       "sf_japan_comparison": "Direct equivalent to Tokyo's Narita Express (N'EX) or Skyliner.",
       "segment": "Airport transfer",
       "source": "transport"
@@ -358,14 +358,14 @@
       "from": "Incheon Airport (T1 / T2)",
       "to": "Seoul Station (All-Stop Subway)",
       "mode": "AREX All-Stop Commuter Train",
-      "duration": "59 min (T1) / 66 min (T2)",
-      "cost_krw_per_person": 4450,
-      "cost_krw_two_travelers": 8900,
-      "cost_usd_two_travelers": 6.36,
+      "duration": "~61 min (T1) / 67 min (T2)",
+      "cost_krw_per_person": 4750,
+      "cost_krw_two_travelers": 9500,
+      "cost_usd_two_travelers": 6.79,
       "beginner_friendliness": "4/5",
-      "booking_site": "https://www.arex.or.kr",
+      "booking_site": "https://www.airportrailroad.com/train/normal/fare",
       "iphone_app": "Subway Korea",
-      "recommendation": "Stops at Hongik Univ. (Hongdae) and Gongdeok. Cheaper than express, but commuter subway style seating (no reserved seats). Pay with T-money or WOWPASS.",
+      "recommendation": "Official adult IC-card fare is 4,750 KRW Seoul–T1 and 5,350 KRW Seoul–T2 (airportrailroad.com fare table). The old 4,450 figure is the Cargo Terminal fare, not ICN. Stops at Hongik Univ. and Gongdeok. Pay with T-money or WOWPASS. Last all-stop from T2 is about 23:32.",
       "sf_japan_comparison": "Like BART from SFO to downtown SF or Tokyo's Keisei Main Line.",
       "segment": "Airport transfer",
       "source": "transport"
@@ -759,7 +759,7 @@
       "type": "Unlimited Transit Pass for Seoul Subways & Buses",
       "price_krw": 15000,
       "where_to_buy": "Seoul Subway station Customer Safety Centers (Lines 1-8) and convenience stores near tourist hubs.",
-      "where_to_recharge": "Valid for 1, 2, 3, 5, or 7 consecutive days (e.g., 5-Day Pass is only 15,000 KRW = ~$10.70 USD!).",
+      "where_to_recharge": "Seoul-published tourist prices: 1-day ₩5,000, 2-day ₩8,000, 3-day ₩10,000, 5-day ₩15,000 (english.seoul.go.kr, 2024 launch; still cited in 2026 guides). A 7-day option is often listed around ₩20,000 — confirm at the machine.",
       "coverage": "Unlimited rides on Seoul subways and Seoul city buses (blue, green, yellow). Excludes AREX Express, Shinbundang line, and intercity buses outside Seoul.",
       "official_site": "https://english.seoul.go.kr",
       "best_for": "Travelers spending 3 to 7 intensive days exploring Seoul and riding transit 3+ times per day.",
@@ -786,15 +786,15 @@
     {
       "id": "discover_seoul_pass",
       "name": "Discover Seoul Pass (DSP)",
-      "type": "Attractions + AREX Express Train + T-money Function",
-      "price_krw": 50000,
-      "where_to_buy": "Official website, Incheon Airport kiosks, or Klook.",
-      "where_to_recharge": "24h (50,000 KRW), 48h (70,000 KRW), or 72h (90,000 KRW).",
-      "coverage": "Free entry to 70+ top attractions (Lotte World, N Seoul Tower, Gyeongbokgung Palace) + 1 free AREX Express train ticket + T-money card.",
+      "type": "Attractions + transit card / mobile pass",
+      "price_krw": 90000,
+      "where_to_buy": "Official site discoverseoulpass.com (Seoul Tourism Organization).",
+      "where_to_recharge": "Official lineup as of Aug 2026: 72-hour 90000 KRW; 120-hour 130000 KRW; Pick 3 Basic 49000 KRW; Pick 3 Theme Park 70000 KRW. Older 24h/48h SKUs may still appear on resellers.",
+      "coverage": "Free entry to 70+ partner attractions plus discounts. Physical card can be topped up for subway/bus; mobile pass includes a 5-day eSIM. Confirm AREX inclusion on the current product page before purchase.",
       "official_site": "https://www.discoverseoulpass.com",
-      "best_for": "First-time visitors who want to pack major tourist sights and airport transport into 48-72 hours.",
+      "best_for": "First-time visitors stacking several paid Seoul attractions into 3-5 days.",
       "sf_japan_equivalent": "Like the San Francisco CityPASS or Osaka Amazing Pass.",
-      "pro_tip": "Use the physical card as a permanent T-money transit card even after your 24/48/72h attraction window expires!",
+      "pro_tip": "Compare the official attraction list with your actual saved list. A pass is only a saving if you would have paid those admissions anyway.",
       "source": "transport",
       "sourcePath": "research/sources/transport/data/cards.json"
     },
@@ -804,7 +804,7 @@
       "type": "Busan Attractions + Transit Function",
       "price_krw": 55000,
       "where_to_buy": "Visit Busan Pass website, Busan Station, or Klook.",
-      "where_to_recharge": "24h Pass (55,000 KRW), 48h Pass (85,000 KRW), or Big3/Big5 Flex Pass.",
+      "where_to_recharge": "Official card prices on visitbusanpass.com: 24h ₩55,000; 48h ₩85,000; Big 3 ₩45,000; Big 5 ₩65,000.",
       "coverage": "Free entry to Haeundae Blue Line Park Beach Train, Busan X the Sky, Lotte World Busan, Skyline Luge + built-in transit card.",
       "official_site": "https://www.visitbusanpass.com",
       "best_for": "2-3 days of coastal sightseeing in Busan.",
@@ -979,14 +979,15 @@
     }
   ],
   "taxRefund": {
-    "last_updated": "2026-08-03",
+    "last_updated": "2026-08-18",
     "min_spend_krw": 15000,
     "max_immediate_refund_krw": 1000000,
-    "vat_rate_percent": 7.5,
+    "vat_rate_percent": 10,
     "rules": [
-      "Immediate Tax Refund (즉시 환급) is available at Olive Young, Lotte Mart, Uniqlo, and major department stores for purchases between 15,000 KRW and 1,000,000 KRW.",
-      "Always carry your physical passport or e-passport scan to the cashier.",
-      "If spend exceeds 1,000,000 KRW, obtain an Airport Tax Refund receipt and scan it at the Incheon Airport T1/T2 automated kiosks before security check-in."
+      "Korea's standard VAT is 10% (VisitSeoul / National Tax Service). Immediate Tax Refund (즉시 환급) is available at participating stores such as Olive Young, Lotte Mart, Uniqlo, and major department stores for a single purchase of at least 15,000 KRW and less than 1,000,000 KRW, with a typical trip cap of 5,000,000 KRW for immediate refunds.",
+      "The cash you actually receive is usually less than 10% because refund operators deduct a service fee. Do not treat 7.5% as the VAT rate.",
+      "Always carry your physical passport to the cashier for immediate refund.",
+      "If a single purchase is 1,000,000 KRW or more, pay the tax-inclusive price, obtain a tax-refund slip, and process it at Incheon Airport T1/T2 kiosks or counters before departure."
     ]
   },
   "transitFood": [
@@ -1017,18 +1018,18 @@
         "scenario": "Incheon Airport (ICN) -> Central Seoul Hotel",
         "cheapest_option": {
           "mode": "AREX All-Stop Commuter Train",
-          "time": "59 - 66 min",
-          "cost_2_people_krw": 8900,
-          "cost_2_people_usd": 6.36,
-          "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage)"
+          "time": "61 - 67 min",
+          "cost_2_people_krw": 9500,
+          "cost_2_people_usd": 6.79,
+          "hassle_level": "High (Subway bench seats, crowded with commuters, standing with heavy luggage). T1 fare 4,750 KRW; T2 fare 5,350 KRW."
         },
         "sweet_spot_option": {
           "mode": "AREX Express Train (Non-Stop)",
           "time": "43 - 51 min",
-          "cost_2_people_krw": 22000,
-          "cost_2_people_usd": 15.71,
+          "cost_2_people_krw": 26000,
+          "cost_2_people_usd": 18.57,
           "hassle_level": "Zero (Reserved reclining seats, dedicated luggage racks, free Wi-Fi, drops at Seoul Station)",
-          "why_sweet_spot": "For only $9.35 extra total for both travelers, you eliminate commuter crowds and get a relaxing non-stop express ride after a transpacific flight."
+          "why_sweet_spot": "For about $12 extra total for both travelers at the official 13,000 KRW adult fare, you eliminate commuter crowds and get a reserved non-stop ride after a transpacific flight."
         },
         "luxury_option": {
           "mode": "Official Airport Taxi / Kakao T",
@@ -1129,9 +1130,9 @@
       },
       {
         "system": "AREX Airport Express Train (ICN <-> Seoul Station)",
-        "operating_hours": "From ICN T2: 05:15 - 22:40 | From Seoul Station: 06:10 - 22:50",
-        "peak_rush_hours": "Runs every 40 minutes (reserved seating)",
-        "official_site": "https://www.arex.or.kr"
+        "operating_hours": "Published Express table: first T2 05:16 / T1 05:24; last T2 22:40 / T1 22:48. All-stop last from T2 about 23:32. Confirm live on airportrailroad.com.",
+        "peak_rush_hours": "Express about every 30–40 minutes (reserved seating)",
+        "official_site": "https://www.airportrailroad.com"
       },
       {
         "system": "KORAIL KTX High-Speed Train (Seoul <-> Busan)",
@@ -1149,19 +1150,19 @@
         "system": "Gyeongbokgung Palace (Seoul)",
         "operating_hours": "09:00 - 17:00 (Nov winter hours; Closed Tuesdays)",
         "peak_rush_hours": "Royal Guard Changing at 10:00 & 14:00",
-        "official_site": "https://royal.cha.go.kr"
+        "official_site": "https://royal.khs.go.kr"
       },
       {
         "system": "N Seoul Tower (Namsan)",
-        "operating_hours": "10:00 - 23:00 daily",
+        "operating_hours": "Observatory 10:00–22:30 weekdays / 10:00–23:00 weekends & holidays (last entry 30 min before close; nseoultower.co.kr)",
         "peak_rush_hours": "Sunset (17:00 - 18:30 in November)",
         "official_site": "https://www.nseoultower.co.kr"
       },
       {
         "system": "National Museum of Korea",
-        "operating_hours": "10:00 - 18:00 (Mon/Tue/Thu/Fri/Sun) | 10:00 - 21:00 (Wed/Sat Night Open)",
+        "operating_hours": "09:30–17:30 Mon/Tue/Thu/Fri/Sun | 09:30–21:00 Wed/Sat (official museum.go.kr; last admission 30 min before close)",
         "peak_rush_hours": "Free general admission",
-        "official_site": "https://english.visitkorea.or.kr"
+        "official_site": "https://www.museum.go.kr"
       },
       {
         "system": "Haeundae Blue Line Beach Train (Busan)",
@@ -1311,7 +1312,7 @@
       },
       {
         "section": "Right after landing (Sun 1 Nov, ~9 PM)",
-        "label": "Catch AREX (~until 11:32 PM) or night bus N6000/N6001, or taxi"
+        "label": "Catch AREX Express (last ~22:40 T2) or All-Stop (last ~23:32 T2), night bus N6000/N6001/N6002, or taxi"
       },
       {
         "section": "Right after landing (Sun 1 Nov, ~9 PM)",
@@ -1379,7 +1380,7 @@
     "checkIn": "2026-10-31",
     "checkOut": "2026-11-22",
     "nights": 22,
-    "note": "Oct 31 – Nov 22, 2026 (22 nights). Autumn shoulder season — leaf-peeping, mild temps, lighter crowds than summer, and generally better hotel rates than spring high season. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
+    "note": "EXAMPLE hotel-comparison frame only (Seoul–Gyeongju–Busan). The live trip window used by the 30 sample itineraries is ICN arrival 21:00 on 1 Nov 2026 and ICN departure 13:00 on 22 Nov 2026. Prices below are typical nightly USD figures for a standard double; always confirm the live rate for YOUR dates on the hotel's official site."
   },
   "hotelSplitTemplate": {
     "recommended": "Seoul 8 nights (Oct 31–Nov 8) · Gyeongju 6 nights (Nov 8–Nov 14) · Busan 8 nights (Nov 14–Nov 22)",
